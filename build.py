@@ -207,8 +207,8 @@ def page_shell(title, meta_desc, body_html, extra_head="", nav_cats=None, og_ima
 <body>
 <header class="site-header"><div class="header-top">
 <a class="brand" href="/"><img src="{LOGO_URL}" alt="Cozy Nest logo" width="64" height="64">
-<span><span class="brand-name">{esc(SITE_NAME)}</span>
-<span class="brand-tag">HOME DECOR IDEAS</span></span></a>
+<span class="brand-name">{esc(SITE_NAME)}</span></a>
+<span class="brand-tag">HOME DECOR IDEAS</span>
 </div><nav class="main-nav"><div class="nav-inner"><div class="nav-links">{nav_links}</div>
 <span class="nav-search" title="Search (coming soon)"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg></span>
 </div></nav></header>
