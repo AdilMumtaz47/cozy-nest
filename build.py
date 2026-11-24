@@ -258,12 +258,35 @@ def build_article(a, all_articles):
     return slug
 
 
+def thumb_for(slug, first_file):
+    """Small card thumbnail (480px wide) for the homepage/category cards, so
+    the homepage stays light on mobile. Generated from the article's first
+    image on first build; reused afterwards."""
+    thumb_dir = os.path.join(ROOT, "images", slug)
+    thumb_path = os.path.join(thumb_dir, "thumb.jpg")
+    if not os.path.exists(thumb_path) and first_file:
+        try:
+            from PIL import Image
+            src = os.path.join(thumb_dir, first_file)
+            im = Image.open(src).convert("RGB")
+            w, h = im.size
+            nw = 360
+            nh = round(h * nw / w)
+            im.resize((nw, nh), Image.LANCZOS).save(thumb_path, "JPEG", quality=70)
+            print(f"thumb {slug}/thumb.jpg ({nw}x{nh})")
+        except Exception as e:
+            print(f"thumb SKIP {slug}: {e}")
+            return first_file
+    return "thumb.jpg" if os.path.exists(thumb_path) else first_file
+
+
 def card_html(a):
     m = a["meta"]
     img = ""
     if m.get("images"):
         im = m["images"][0]
-        img = (f'<img src="/images/{esc(m["slug"])}/{esc(im["file"])}" '
+        thumb = thumb_for(m["slug"], im["file"])
+        img = (f'<img src="/images/{esc(m["slug"])}/{esc(thumb)}" '
                f'alt="{esc(im["alt"])}" loading="lazy">')
     return (
         f'<article class="card"><a href="/posts/{esc(m["slug"])}/">{img}'

@@ -104,3 +104,16 @@ Suggestions seen while typing each seed — candidates only, not verified winnab
 
 - Pinterest was not blocked at any point. Two transient glitches, recovered without guessing: the first search for "christmas tree decor ideas" returned "Sorry, we couldn't find any Pins for this search" — a reload returned normal results (4 listicles); one fill action reported connection_lost but the text had in fact been entered, confirmed by observing the tab.
 - Listicle counts use pin headings; a few pins carry their number only in the pin image or link text (e.g. neutral bedroom ideas, cozy christmas decor ideas) — counting those instead would move the affected counts by at most 1 and would not change any verdict band.
+
+## Top-up screening — Nov 24, 2026 (16:38–16:42 PKT)
+
+Four new-topic candidates screened the same way, search-only on the live account, to complete the 20-article buffer (13 remaining distinct topics + 2 new = 15 to write; the "3 more topics" note above assumed 12 remaining — the true remaining count is 13, so 2 new topics suffice).
+
+| Keyword | Exact in autocomplete? | Listicles in top 12 | Verdict |
+|---|---|---|---|
+| modern farmhouse bedroom | No | 6 | WINNABLE — broad bedroom cluster passes click-fit |
+| rustic home exterior | No | 7 | REJECT — 7+ listicles (75, 16, 37, 18, 18+, 15, 12+) |
+| rustic home kitchen | No | 6 | WINNABLE — broad kitchen cluster passes click-fit |
+| modern farmhouse bathroom | No | 8 | REJECT — 7+ listicles (25, 17, 15, 14, 30, 30, 17, 24) |
+
+New winnable topics added to the buffer: modern farmhouse bedroom, rustic home kitchen. Buffer now complete at 20 articles (5 done + 13 remaining distinct + 2 new).
