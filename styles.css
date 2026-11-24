@@ -1,30 +1,101 @@
-/* Cozy Nest — home decor blog. Mobile-first, clean, fast. */
+/* Cozy Nest — home decor blog. Warm, professional, mobile-first. */
 * { box-sizing: border-box; }
-body { margin: 0; font-family: Georgia, 'Times New Roman', serif; color: #2b2620; background: #faf7f2; line-height: 1.6; }
-a { color: #8a5a2b; }
-.site-header { display: flex; justify-content: space-between; align-items: center; padding: 16px 20px; background: #fff; border-bottom: 1px solid #e8ddd0; }
-.site-name { font-size: 26px; font-weight: bold; color: #2b2620; text-decoration: none; letter-spacing: 0.5px; }
-.site-header nav a { margin-left: 16px; text-decoration: none; color: #6b5d4f; }
-main { max-width: 760px; margin: 0 auto; padding: 24px 20px 48px; }
-.hero { text-align: center; padding: 24px 0 8px; }
-.hero h1 { font-size: 40px; margin: 0 0 8px; }
-.hero p { color: #6b5d4f; font-size: 18px; margin: 0; }
-.grid { display: grid; grid-template-columns: 1fr; gap: 24px; margin-top: 32px; }
-@media (min-width: 640px) { .grid { grid-template-columns: 1fr 1fr; } main { max-width: 1020px; } }
-.card { background: #fff; border: 1px solid #e8ddd0; border-radius: 10px; overflow: hidden; }
+:root {
+  --ink: #2b2620;
+  --muted: #6b5d4f;
+  --faint: #9a8a78;
+  --accent: #b4552d;
+  --bg: #faf7f2;
+  --card: #ffffff;
+  --line: #e8ddd0;
+  --cream: #f3ece3;
+}
+body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: var(--ink); background: var(--bg); line-height: 1.65; }
+h1, h2, h3, .site-name, .brand-name { font-family: Georgia, 'Times New Roman', serif; }
+a { color: var(--accent); }
+img { max-width: 100%; }
+
+/* Header */
+.site-header { background: #fff; border-bottom: 1px solid var(--line); }
+.header-inner { max-width: 1080px; margin: 0 auto; padding: 14px 20px; display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+.brand { display: flex; align-items: center; gap: 12px; text-decoration: none; color: var(--ink); }
+.brand img { width: 46px; height: 46px; border-radius: 50%; object-fit: cover; display: block; }
+.brand-name { font-size: 26px; font-weight: bold; line-height: 1.1; }
+.brand-tag { display: block; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 12px; color: var(--faint); letter-spacing: 0.4px; }
+.site-header nav { margin-left: auto; display: flex; gap: 4px; flex-wrap: wrap; }
+.site-header nav a { text-decoration: none; color: var(--muted); padding: 8px 12px; border-radius: 999px; font-size: 15px; }
+.site-header nav a:hover { background: var(--cream); color: var(--ink); }
+
+main { max-width: 1080px; margin: 0 auto; padding: 24px 20px 48px; }
+
+/* Homepage hero */
+.hero { text-align: center; padding: 44px 20px 12px; }
+.hero .hero-logo { width: 96px; height: 96px; border-radius: 50%; object-fit: cover; }
+.hero h1 { font-size: 44px; margin: 16px 0 8px; }
+.hero p { color: var(--muted); font-size: 18px; max-width: 580px; margin: 0 auto; }
+.chips { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 28px 0 8px; }
+.chip { background: #fff; border: 1px solid var(--line); border-radius: 999px; padding: 8px 16px; text-decoration: none; color: var(--ink); font-size: 14px; }
+.chip:hover { border-color: var(--accent); color: var(--accent); }
+.chip span { color: var(--faint); }
+.section-title { font-size: 28px; margin: 40px 0 4px; }
+.section-sub { color: var(--muted); margin: 0 0 8px; }
+
+/* Article cards */
+.grid { display: grid; grid-template-columns: 1fr; gap: 24px; margin-top: 24px; }
+@media (min-width: 640px) { .grid { grid-template-columns: 1fr 1fr; } }
+@media (min-width: 960px) { .grid { grid-template-columns: 1fr 1fr 1fr; } }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; transition: transform .15s ease, box-shadow .15s ease; }
+.card:hover { transform: translateY(-3px); box-shadow: 0 10px 24px rgba(43, 38, 32, .12); }
 .card a { text-decoration: none; color: inherit; display: block; }
 .card img { width: 100%; aspect-ratio: 3 / 4; object-fit: cover; display: block; }
 .card h2 { font-size: 20px; margin: 14px 16px 6px; }
-.card p { margin: 0 16px 14px; color: #6b5d4f; }
-.card .meta-line { font-size: 13px; color: #9a8a78; }
-article h1 { font-size: 32px; line-height: 1.25; margin: 8px 0; }
-article h2 { font-size: 24px; margin: 36px 0 10px; }
+.card p { margin: 0 16px 14px; color: var(--muted); font-size: 15px; }
+.card .meta-line { font-size: 13px; color: var(--faint); }
+
+/* Article page */
+article { max-width: 780px; margin: 0 auto; }
+article h1 { font-size: 36px; line-height: 1.2; margin: 8px 0; }
+article h2 { font-size: 26px; margin: 40px 0 12px; padding-bottom: 8px; border-bottom: 2px solid var(--cream); }
 article h3 { font-size: 19px; margin: 24px 0 6px; }
-.crumb { font-size: 14px; color: #9a8a78; }
-.meta-line { font-size: 14px; color: #9a8a78; }
+article p { font-size: 17px; }
+.crumb { font-size: 14px; color: var(--faint); }
+.crumb a { color: var(--faint); text-decoration: none; }
+.meta-line { font-size: 14px; color: var(--faint); }
 figure { margin: 20px 0; }
-figure img { width: 100%; border-radius: 8px; display: block; }
-figcaption { font-size: 13px; color: #9a8a78; margin-top: 6px; }
-.related { margin-top: 48px; border-top: 1px solid #e8ddd0; padding-top: 16px; }
-.related ul { padding-left: 20px; }
-.site-footer { text-align: center; padding: 24px 20px; color: #9a8a78; font-size: 14px; border-top: 1px solid #e8ddd0; background: #fff; }
+figure img { width: 100%; border-radius: 10px; display: block; }
+figcaption { font-size: 13px; color: var(--faint); margin-top: 6px; }
+.back-link { display: inline-block; margin-top: 32px; font-size: 15px; text-decoration: none; }
+
+/* FAQ accordion */
+.faq { margin-top: 48px; background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 8px 22px 20px; }
+.faq h2 { border-bottom: none; margin: 20px 0 6px; padding-bottom: 0; }
+.faq details { border-top: 1px solid var(--line); padding: 14px 0; }
+.faq details:first-of-type { border-top: none; }
+.faq summary { cursor: pointer; font-weight: 600; font-size: 17px; list-style: none; }
+.faq summary::-webkit-details-marker { display: none; }
+.faq summary::after { content: "+"; float: right; color: var(--accent); font-weight: bold; }
+.faq details[open] summary::after { content: "\2013"; }
+.faq details p { color: var(--muted); margin: 10px 0 0; font-size: 16px; }
+
+/* Related */
+.related { margin-top: 48px; }
+.related h2 { font-size: 26px; margin-bottom: 4px; }
+.related .grid { margin-top: 16px; }
+
+/* Category page */
+.category-hero { padding: 32px 0 8px; }
+.category-hero h1 { font-size: 36px; margin: 0 0 8px; }
+.category-hero p { color: var(--muted); font-size: 17px; margin: 0; }
+
+/* Footer */
+.site-footer { background: #2b2620; color: #e8ddd0; margin-top: 64px; }
+.footer-inner { max-width: 1080px; margin: 0 auto; padding: 40px 20px; display: flex; flex-wrap: wrap; gap: 32px; }
+.footer-brand { flex: 1 1 280px; }
+.footer-brand img { width: 52px; height: 52px; border-radius: 50%; object-fit: cover; }
+.footer-brand .brand-name { color: #fff; }
+.footer-brand p { color: #c9bda9; font-size: 14px; }
+.footer-links { flex: 1 1 180px; }
+.footer-links h3 { color: #fff; font-size: 16px; margin: 0 0 10px; }
+.footer-links a { display: block; color: #c9bda9; text-decoration: none; padding: 4px 0; font-size: 14px; }
+.footer-links a:hover { color: #fff; }
+.footer-bottom { text-align: center; padding: 16px 20px; border-top: 1px solid rgba(255, 255, 255, .12); color: #9a8a78; font-size: 13px; }
