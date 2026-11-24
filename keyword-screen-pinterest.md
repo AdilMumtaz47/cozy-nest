@@ -117,3 +117,16 @@ Four new-topic candidates screened the same way, search-only on the live account
 | modern farmhouse bathroom | No | 8 | REJECT — 7+ listicles (25, 17, 15, 14, 30, 30, 17, 24) |
 
 New winnable topics added to the buffer: modern farmhouse bedroom, rustic home kitchen. Buffer now complete at 20 articles (5 done + 13 remaining distinct + 2 new).
+
+## Neutral Living Room screen — Nov 24, 2026 (evening)
+Screened for the proposed article #21 (the exact topic Adil linked from Nesting Oak). Browser task, signed in as Cozy Nest, search-only. Method as above.
+
+| Phrase | Autocomplete exact? | Listicles in top 12 | Verdict |
+|---|---|---|---|
+| neutral living room ideas | No (settled dropdown showed only longer extensions, e.g. "neutral living room ideas cozy") | 12 | REJECT — 7+ listicles |
+| neutral living room | No (suggestions all longer phrases) | 10 | REJECT — 7+ listicles |
+| neutral living room decor | No (settled dropdown showed only longer extensions) | 7 | REJECT — at the 7+ threshold |
+
+Method note: for phrases 1 and 3, the exact phrase briefly appeared in the first autocomplete DOM listing immediately after typing, but the settled visible dropdown contained only longer extensions — recorded as No on the visible dropdown. Verdicts rest on listicle counts either way.
+
+**Conclusion: all three REJECT — no Neutral Living Room article.** The 20-article buffer is now exhausted: all 27 winnable phrases from Nov 23 + top-up are either built (20 articles) or near-duplicate reserves under Section 3.4 (boho living room ideas, boho bedroom ideas, christmas dining room, small kitchen, neutral bedroom ideas, modern farmhouse decor ideas, farmhouse kitchen decor ideas, cozy christmas decor ideas, winter home decor ideas — reserves, not second articles). Article #21 needs a FRESH Pinterest screen of new seed topics.
