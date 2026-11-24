@@ -66,7 +66,7 @@ main { max-width: 1220px; margin: 0 auto; padding: 0 20px 48px; }
 .card .meta-line { font-size: 13px; color: var(--faint); }
 
 /* Featured article on homepage: wide photo, title card overlapping its foot */
-.feature { margin: 32px 0 8px; }
+.feature { margin: 32px 0 8px; position: relative; }
 .feature a { display: block; text-decoration: none; color: inherit; }
 .feature-img { position: relative; }
 .feature-img img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block; }
@@ -98,8 +98,11 @@ figcaption { font-size: 13px; color: var(--faint); margin-top: 6px; }
 .back-link { display: inline-block; margin-top: 32px; font-size: 15px; text-decoration: none; }
 
 /* Pinterest "P" badge: small solid-red rectangle, white P, on the
-   top-left corner of the hero and of each article photo. */
-.pin-badge { position: absolute; top: 12px; left: 12px; z-index: 3; background: #e60023; color: #fff; font-family: Georgia, 'Times New Roman', serif; font-weight: bold; font-size: 22px; line-height: 1; width: 45px; height: 35px; display: flex; align-items: center; justify-content: center; }
+   top-left corner of the hero and of each article photo. It is a real
+   link to Pinterest's pin creator (target _blank); the a.pin-badge
+   selector keeps the red/white/centered look against the .feature a
+   and global a rules, and text-decoration none keeps the P un-underlined. */
+a.pin-badge { position: absolute; top: 12px; left: 12px; z-index: 3; background: #e60023; color: #fff; font-family: Georgia, 'Times New Roman', serif; font-weight: bold; font-size: 22px; line-height: 1; width: 45px; height: 35px; display: flex; align-items: center; justify-content: center; text-decoration: none; }
 
 /* Table of contents */
 .toc { background: var(--toc-bg); border: 1px solid var(--toc-line); border-radius: 8px; padding: 20px; margin: 28px 0; }

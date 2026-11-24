@@ -4,6 +4,7 @@ import html
 import os
 import re
 import sys
+import urllib.parse
 from datetime import date
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -28,6 +29,20 @@ def categories_of(articles):
 
 def esc(s):
     return html.escape(s or "", quote=True)
+
+
+def pin_create_url(page_url, media_url, description):
+    """Pinterest pin-creator link for one photo — same construction as the
+    article 'Save this list on Pinterest' button (url + media + description,
+    URL-encoded). Opens Pinterest's pin creator for that photo in a new tab."""
+    return (
+        "https://pinterest.com/pin/create/button/?"
+        + urllib.parse.urlencode({
+            "url": page_url,
+            "media": media_url,
+            "description": description,
+        })
+    )
 
 
 def parse_frontmatter(text):
@@ -129,8 +144,13 @@ def md_to_html(body, meta):
                 if img_idx < len(meta.get("images", [])):
                     im = meta["images"][img_idx]
                     img_idx += 1
+                    fig_pin = pin_create_url(
+                        f"{SITE_URL}/posts/{meta['slug']}/",
+                        f"{SITE_URL}/images/{meta['slug']}/{im['file']}",
+                        title,
+                    )
                     out.append(
-                        f'<figure><span class="pin-badge" aria-hidden="true">P</span>'
+                        f'<figure><a class="pin-badge" href="{fig_pin}" target="_blank" rel="noopener">P</a>'
                         f'<img src="/images/{esc(meta["slug"])}/{esc(im["file"])}" '
                         f'alt="{esc(im["alt"])}" loading="lazy">'
                         f"<figcaption>{esc(im['alt'])}</figcaption></figure>"
@@ -325,7 +345,7 @@ def build_article(a, all_articles):
     if m.get("images"):
         fim = m["images"][0]
         hero_html = (
-            f'<div class="article-hero"><span class="pin-badge" aria-hidden="true">P</span>'
+            f'<div class="article-hero"><a class="pin-badge" href="{pin_url}" target="_blank" rel="noopener">P</a>'
             f'<img src="/images/{esc(slug)}/{esc(fim["file"])}" alt="{esc(fim["alt"])}"></div>'
         )
     # Sidebar: latest posts (3 stacked items, thumb above title).
@@ -428,21 +448,35 @@ def json_str(s):
 
 def build_home(articles):
     nav_cats = [(c, cat_slug(c)) for c in categories_of(articles)]
-    chips = "".join(
-        f'<a class="chip" href="/categories/{cat_slug(c)}/">{esc(c)} <span>({len(v)})</span></a>'
-        for c, v in categories_of(articles).items()
-    )
+    # No big hero block: the header already carries the logo + "Cozy Nest"
+    # + "HOME DECOR IDEAS" and the nav already lists all categories, so the
+    # homepage opens straight onto the featured article (header, nav, then
+    # content — like an article page).
     if articles:
         featured = articles[0]
         fm = featured["meta"]
         fimg = ""
+        feat_pin = ""
         if fm.get("images"):
             fim = fm["images"][0]
+            # Eager load: this is the first thing on the page, so it must
+            # appear immediately instead of leaving empty space while loading.
             fimg = (f'<img src="/images/{esc(fm["slug"])}/{esc(fim["file"])}" '
-                    f'alt="{esc(fim["alt"])}" loading="lazy">')
+                    f'alt="{esc(fim["alt"])}" fetchpriority="high">')
+            feat_pin = pin_create_url(
+                f"{SITE_URL}/posts/{fm['slug']}/",
+                f"{SITE_URL}/images/{fm['slug']}/{fim['file']}",
+                fm["title"],
+            )
+        # The badge is a SIBLING of the article link (never nested inside
+        # it — nested links are invalid HTML and the click would follow the
+        # article). .feature is position:relative, so the badge still sits
+        # over the top-left of the feature image, exactly as before.
+        badge = (f"<a class='pin-badge' href='{feat_pin}' target='_blank' rel='noopener'>P</a>"
+                 if feat_pin else "")
         hero = (
-            f"<section class='feature'><a href='/posts/{esc(fm['slug'])}/'>"
-            f"<div class='feature-img'><span class='pin-badge' aria-hidden='true'>P</span>{fimg}</div>"
+            f"<section class='feature'>{badge}<a href='/posts/{esc(fm['slug'])}/'>"
+            f"<div class='feature-img'>{fimg}</div>"
             f"<div class='feature-text'><p class='feature-cat'>{esc(fm.get('category', ''))} &middot; Featured</p>"
             f"<h2>{esc(fm['title'])}</h2><p>{esc(fm.get('description', ''))}</p>"
             f"<span class='feature-link'>See the 30 ideas &rarr;</span></div></a></section>"
@@ -457,11 +491,7 @@ def build_home(articles):
     else:
         hero = ""
         grid = "<section class='grid'><p>First articles coming soon — the first list is being written now.</p></section>"
-    body = (
-        f"<section class='hero'><img class='hero-logo' src='{LOGO_URL}' alt='Cozy Nest logo' width='96' height='96'>"
-        f"<h1>{esc(SITE_NAME)}</h1><p>{esc(SITE_DESC)}</p>"
-        f"<div class='chips'>{chips}</div></section>{hero}{grid}"
-    )
+    body = f"{hero}{grid}"
     with open(os.path.join(ROOT, "index.html"), "w", encoding="utf-8") as f:
         f.write(page_shell(SITE_NAME + " — Home Decor Ideas", SITE_DESC, body,
                            nav_cats=nav_cats, og_image=SITE_URL + LOGO_URL))
