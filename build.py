@@ -72,8 +72,11 @@ def md_to_html(body, meta):
     """Convert an article body to HTML. Design sections are ## headings with one
     image each (in order, from meta['images']); FAQs are ### under the FAQ H2.
     Each design section gets an "N of 30" counter (the big decor sites all
-    number their list items); a <!--MORELIKE--> marker goes after the 3rd
-    design section for build_article to fill with a related card."""
+    number their list items) and an id anchor; a <!--TOC--> marker goes after
+    the intro, before idea #1, for build_article to fill with the table of
+    contents. Returns (html, faqs, toc) where toc is [(anchor, label)].
+    Each figure carries a small red Pinterest "P" badge on its top-left
+    corner, and the "Takeaway" H2 gets an id anchor too."""
     total_items = sum(
         1 for ln in body.splitlines()
         if ln.startswith("## ")
@@ -81,6 +84,7 @@ def md_to_html(body, meta):
     )
     out = []
     faqs = []
+    toc = []
     in_faq = False
     img_idx = 0
     item_idx = 0
@@ -110,19 +114,24 @@ def md_to_html(body, meta):
                 in_faq = True
             elif title.lower().startswith("takeaway"):
                 in_faq = False
-                out.append("<h2>Takeaway</h2>")
+                out.append('<h2 id="takeaway">Takeaway</h2>')
             else:
                 in_faq = False
                 item_idx += 1
+                anchor = f"idea-{item_idx}"
+                toc.append((anchor, title))
+                if item_idx == 1:
+                    out.append("<!--TOC-->")
                 out.append(
                     f'<p class="item-num">{item_idx:02d} of {total_items}</p>'
-                    f"<h2>{esc(title)}</h2>"
+                    f'<h2 id="{anchor}">{esc(title)}</h2>'
                 )
                 if img_idx < len(meta.get("images", [])):
                     im = meta["images"][img_idx]
                     img_idx += 1
                     out.append(
-                        f'<figure><img src="/images/{esc(meta["slug"])}/{esc(im["file"])}" '
+                        f'<figure><span class="pin-badge" aria-hidden="true">P</span>'
+                        f'<img src="/images/{esc(meta["slug"])}/{esc(im["file"])}" '
                         f'alt="{esc(im["alt"])}" loading="lazy">'
                         f"<figcaption>{esc(im['alt'])}</figcaption></figure>"
                     )
@@ -146,7 +155,7 @@ def md_to_html(body, meta):
             buf.append(line)
         i += 1
     flush()
-    return "".join(out), faqs
+    return "".join(out), faqs, toc
 
 
 def page_shell(title, meta_desc, body_html, extra_head="", nav_cats=None, og_image=None):
@@ -176,21 +185,27 @@ def page_shell(title, meta_desc, body_html, extra_head="", nav_cats=None, og_ima
 <link rel="icon" href="/favicon.ico">
 {extra_head}</head>
 <body>
-<header class="site-header"><div class="header-inner">
-<a class="brand" href="/"><img src="{LOGO_URL}" alt="Cozy Nest logo" width="46" height="46">
+<header class="site-header"><div class="header-top">
+<a class="brand" href="/"><img src="{LOGO_URL}" alt="Cozy Nest logo" width="64" height="64">
 <span><span class="brand-name">{esc(SITE_NAME)}</span>
 <span class="brand-tag">HOME DECOR IDEAS</span></span></a>
-<nav>{nav_links}</nav></div></header>
+</div><nav class="main-nav"><div class="nav-inner"><div class="nav-links">{nav_links}</div>
+<span class="nav-search" title="Search (coming soon)"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg></span>
+</div></nav></header>
 <main>
 {body_html}
 </main>
 <footer class="site-footer"><div class="footer-inner">
-<div class="footer-brand"><img src="{LOGO_URL}" alt="Cozy Nest logo" width="52" height="52">
-<p><span class="brand-name">{esc(SITE_NAME)}</span></p>
-<p>{esc(SITE_DESC)} Every list is made to be saved and actually used at home.</p></div>
-<div class="footer-links"><h3>Browse by room</h3>{foot_links}<a href="/">All ideas</a></div>
-<div class="footer-links"><h3>Cozy Nest</h3><a href="/">Home</a><a href="https://www.pinterest.com/cozynestbysayed/" target="_blank" rel="noopener">Follow on Pinterest</a></div>
-</div><div class="footer-bottom">&copy; {year} {esc(SITE_NAME)} — home decor inspiration, one list at a time.</div></footer>
+<div class="footer-logo"><img src="{LOGO_URL}" alt="Cozy Nest logo" width="52" height="52"></div>
+<nav class="footer-nav"><a href="/">Home</a>{foot_links}</nav>
+<div class="footer-social">
+<a href="https://www.pinterest.com/cozynestbysayed/" target="_blank" rel="noopener" title="Facebook"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg></a>
+<a href="https://www.pinterest.com/cozynestbysayed/" target="_blank" rel="noopener" title="X"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></svg></a>
+<a href="https://www.pinterest.com/cozynestbysayed/" target="_blank" rel="noopener" title="Instagram"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M12 0C8.74 0 8.333.015 7.053.072 5.775.132 4.905.333 4.14.63c-.789.306-1.459.717-2.126 1.384S.935 3.35.63 4.14C.333 4.905.131 5.775.072 7.053.012 8.333 0 8.74 0 12s.015 3.667.072 4.947c.06 1.277.261 2.148.558 2.913.306.788.717 1.459 1.384 2.126.667.666 1.336 1.079 2.126 1.384.766.296 1.636.499 2.913.558C8.333 23.988 8.74 24 12 24s3.667-.015 4.947-.072c1.277-.06 2.148-.262 2.913-.558.788-.306 1.459-.718 2.126-1.384.666-.667 1.079-1.335 1.384-2.126.296-.765.499-1.636.558-2.913.06-1.28.072-1.687.072-4.947s-.015-3.667-.072-4.947c-.06-1.277-.262-2.149-.558-2.913-.306-.789-.718-1.459-1.384-2.126C21.319 1.347 20.651.935 19.86.63c-.765-.297-1.636-.499-2.913-.558C15.667.012 15.26 0 12 0zm0 2.16c3.203 0 3.585.016 4.85.071 1.17.055 1.805.249 2.227.415.562.217.96.477 1.382.896.419.42.679.819.896 1.381.164.422.36 1.057.413 2.227.057 1.266.07 1.646.07 4.85s-.015 3.585-.074 4.85c-.061 1.17-.256 1.805-.421 2.227-.224.562-.479.96-.899 1.382-.419.419-.824.679-1.38.896-.42.164-1.065.36-2.235.413-1.274.057-1.649.07-4.859.07-3.211 0-3.586-.015-4.859-.074-1.171-.061-1.816-.256-2.236-.421-.569-.224-.96-.479-1.379-.899-.421-.419-.69-.824-.9-1.38-.165-.42-.359-1.065-.42-2.235-.045-1.26-.061-1.649-.061-4.844 0-3.196.016-3.586.061-4.861.061-1.17.255-1.814.42-2.234.21-.57.479-.96.9-1.381.419-.419.81-.689 1.379-.898.42-.166 1.051-.361 2.221-.421 1.275-.045 1.65-.06 4.859-.06l.045.03zm0 3.678c-3.405 0-6.162 2.76-6.162 6.162 0 3.405 2.76 6.162 6.162 6.162 3.405 0 6.162-2.76 6.162-6.162 0-3.405-2.76-6.162-6.162-6.162zM12 16c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm7.846-10.405c0 .795-.646 1.44-1.44 1.44-.795 0-1.44-.646-1.44-1.44 0-.794.646-1.439 1.44-1.439.793-.001 1.44.645 1.44 1.439z"/></svg></a>
+<a href="https://www.pinterest.com/cozynestbysayed/" target="_blank" rel="noopener">Follow on Pinterest</a></div>
+</div>
+<div class="footer-note">{esc(SITE_DESC)} Every list is made to be saved and actually used at home.</div>
+<div class="footer-bottom">&copy; {year} {esc(SITE_NAME)} — home decor inspiration, one list at a time.</div></footer>
 </body>
 </html>
 """
@@ -209,8 +224,8 @@ def load_articles():
         if not meta.get("slug"):
             print(f"SKIP {fn}: no slug in frontmatter")
             continue
-        body_html, faqs = md_to_html(body, meta)
-        articles.append({"meta": meta, "body_html": body_html, "faqs": faqs, "file": fn})
+        body_html, faqs, toc = md_to_html(body, meta)
+        articles.append({"meta": meta, "body_html": body_html, "faqs": faqs, "toc": toc, "file": fn})
     articles.sort(key=lambda a: a["meta"].get("date", ""), reverse=True)
     return articles
 
@@ -241,7 +256,7 @@ def build_article(a, all_articles):
     if related:
         cards = "".join(card_html(r) for r in related)
         rel_html = (
-            f"<section class='related'><h2>You may also like</h2>"
+            f"<section class='related'><h2>Similar Posts</h2>"
             f"<div class='grid'>{cards}</div></section>"
         )
     faq_html = ""
@@ -251,7 +266,7 @@ def build_article(a, all_articles):
             for q, ans in a["faqs"]
         )
         faq_html = (
-            f"<section class='faq'><h2>Frequently Asked Questions</h2>{items}</section>"
+            f"<section class='faq' id='faq'><h2>Frequently Asked Questions</h2>{items}</section>"
         )
     og_image = None
     if m.get("images"):
@@ -277,7 +292,21 @@ def build_article(a, all_articles):
         f"ideas — room by room, season by season — so your home feels like home. "
         f"Every list is made to be saved and actually used.</p></div></section>"
     )
-    body_html = a["body_html"]
+    # Table of contents: all 30 ideas + FAQ, linked to the H2 anchors.
+    toc_entries = list(a.get("toc", []))
+    if a["faqs"]:
+        toc_entries.append(("faq", "Frequently Asked Questions"))
+    toc_html = ""
+    if toc_entries:
+        toc_items = "".join(
+            f'<li><a href="#{esc(anchor)}">{esc(label)}</a></li>'
+            for anchor, label in toc_entries
+        )
+        toc_html = (
+            f'<details class="toc" open><summary>Table of Contents</summary>'
+            f"<ul>{toc_items}</ul></details>"
+        )
+    body_html = a["body_html"].replace("<!--TOC-->", toc_html, 1)
     if "<!--MORELIKE-->" in body_html and related:
         r = related[0]
         rm = r["meta"]
@@ -291,13 +320,40 @@ def build_article(a, all_articles):
         body_html = body_html.replace("<!--MORELIKE-->", more_html, 1)
     else:
         body_html = body_html.replace("<!--MORELIKE-->", "", 1)
+    # Hero first, then the white article card overlapping its bottom edge.
+    hero_html = ""
+    if m.get("images"):
+        fim = m["images"][0]
+        hero_html = (
+            f'<div class="article-hero"><span class="pin-badge" aria-hidden="true">P</span>'
+            f'<img src="/images/{esc(slug)}/{esc(fim["file"])}" alt="{esc(fim["alt"])}"></div>'
+        )
+    # Sidebar: latest posts (3 stacked items, thumb above title).
+    latest = [x for x in all_articles if x["meta"]["slug"] != slug][:3]
+    side_items = ""
+    for r in latest:
+        rm = r["meta"]
+        sthumb = thumb_for(rm["slug"], rm["images"][0]["file"]) if rm.get("images") else ""
+        simg = (f"<img src='/images/{esc(rm['slug'])}/{esc(sthumb)}' "
+                f"alt='{esc(rm['title'])}' loading='lazy'>") if sthumb else ""
+        side_items += (
+            f"<a class='side-item' href='/posts/{esc(rm['slug'])}/'>{simg}"
+            f"<span class='side-title'>{esc(rm['title'])}</span></a>"
+        )
+    sidebar_html = f"<aside class='sidebar'><h2>Latest Post</h2>{side_items}</aside>"
     body = (
-        f'<article><p class="crumb"><a href="/">Home</a> / '
+        f'<div class="article-layout"><div class="article-col">'
+        f'<p class="crumb"><a href="/">Home</a> / '
         f'<a href="/categories/{cat_slug(m.get("category", ""))}/">{esc(m.get("category", ""))}</a></p>'
+        f"{hero_html}"
+        f'<article class="article-card">'
+        f'<p class="cat-label">{esc(m.get("category", ""))}</p>'
         f"<h1>{esc(m['title'])}</h1>"
-        f'<p class="meta-line">{esc(m.get("date", ""))} &middot; {n} ideas</p>'
-        f"{pin_html}{body_html}{faq_html}{author_html}{rel_html}"
-        f'<p><a class="back-link" href="/">&larr; Back to all ideas</a></p></article>'
+        f'<p class="meta-line">{esc(m.get("date", ""))}</p>'
+        f"{pin_html}{body_html}{faq_html}{author_html}"
+        f"</article></div>{sidebar_html}</div>"
+        f"{rel_html}"
+        f'<p><a class="back-link" href="/">&larr; Back to all ideas</a></p>'
     )
     out_dir = os.path.join(ROOT, "posts", slug)
     os.makedirs(out_dir, exist_ok=True)
@@ -385,7 +441,8 @@ def build_home(articles):
             fimg = (f'<img src="/images/{esc(fm["slug"])}/{esc(fim["file"])}" '
                     f'alt="{esc(fim["alt"])}" loading="lazy">')
         hero = (
-            f"<section class='feature'><a href='/posts/{esc(fm['slug'])}/'>{fimg}"
+            f"<section class='feature'><a href='/posts/{esc(fm['slug'])}/'>"
+            f"<div class='feature-img'><span class='pin-badge' aria-hidden='true'>P</span>{fimg}</div>"
             f"<div class='feature-text'><p class='feature-cat'>{esc(fm.get('category', ''))} &middot; Featured</p>"
             f"<h2>{esc(fm['title'])}</h2><p>{esc(fm.get('description', ''))}</p>"
             f"<span class='feature-link'>See the 30 ideas &rarr;</span></div></a></section>"
