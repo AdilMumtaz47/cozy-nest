@@ -1,14 +1,14 @@
 # Christmas Bedroom — image provenance list
 
 Keyword: "christmas bedroom" (Pinterest-verified WINNABLE, 5 listicles, Nov 23, 2026).
-All 30 images: real photos, portrait, <100,000 bytes JPG, verified full-frame AND bottom-35% strip.
+All 30 images: real photos, portrait, width >=768px (prefer 1024px), JPEG q~82, <400KB, sharpness verified visually, Nov 24 2026 rework.
 IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.com source pages across 150 results).
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
 | 1 | cand_001.jpg | christmas-bedroom-plaid-bedding-wreath-garland.jpg | Christmas bedroom with red plaid bedding, wreath and garland | https://www.artofit.org/image-gallery/481533385175404372/lexington-holiday-24/ |
 | 2 | cand_002.jpg | christmas-bedroom-green-red-pillows-garland-headboard.jpg | Christmas bedroom with green and red pillows under a garland headboard | https://tracytowns.com/bedroom-christmas-decor/ |
-| 3 | cand_003.jpg | christmas-bedroom-red-bedding-fairy-lights-wreath.jpg | Christmas bedroom with red bedding, fairy lights and a wreath | https://artofit.org/ideas/redroom-decore-2024 |
+| 3 | cand_003.jpg | christmas-bedroom-red-bedding-fairy-lights-wreath.jpg | Christmas bedroom with red bedding, fairy lights and a wreath | https://www.pinterest.es/pin/bedroom-christmas-decorations--311663236735590151/ |
 | 4 | cand_004.jpg | christmas-bedroom-white-winter-bedroom-flocked-tree.jpg | White winter Christmas bedroom with a flocked tree | https://venfe.com/christmas-bedroom/ |
 | 5 | cand_005.jpg | christmas-bedroom-fireplace-stockings-bedroom.jpg | Christmas stockings hung on a bedroom fireplace | https://ideas-for-interior.com/best-xmas-bedroom-decor-ideas-2025.html |
 | 6 | cand_006.jpg | christmas-bedroom-red-plaid-bedding-garland.jpg | Christmas bedroom with red plaid bedding and garland | https://www.pinterest.com/brittphillips55/classic-christmas/ |
@@ -30,7 +30,7 @@ IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.c
 | 22 | cand_024.jpg | christmas-bedroom-holiday-pillows-plaid-throw.jpg | Christmas bedroom with holiday pillows and a plaid throw |  |
 | 23 | cand_025.jpg | christmas-bedroom-chunky-knit-white-bedroom.jpg | White Christmas bedroom with chunky knit bedding | https://comfydwell.com/20-bedroom-christmas-decor-ideas/ |
 | 24 | cand_026.jpg | christmas-bedroom-velvet-stockings-marble-fireplace.jpg | Velvet Christmas stockings on a marble fireplace | https://scienceofproperty.com/christmas-bedroom-decor/ |
-| 25 | cand_027.jpg | christmas-bedroom-rustic-wood-plaid-bedroom.jpg | Christmas bedroom with plaid bedding in a rustic wood room | https://firepitsluxe.com/christmas-decorations-bedroom-ideas/ |
+| 25 | cand_027.jpg | christmas-bedroom-rustic-wood-plaid-bedroom.jpg | Christmas bedroom with plaid bedding in a rustic wood room | https://jennaliving.com/christmas-bedroom-decor/ |
 | 26 | cand_028.jpg | christmas-bedroom-three-wreaths-red-pillows.jpg | Christmas bedroom with three wreaths above red pillows | https://delviora.com/christmas-bedroom-decor-39-ideas-2025-that-are-aesthetic-cozy-budget-friendly/ |
 | 27 | cand_029.jpg | christmas-bedroom-icy-blue-bedroom-white-tree.jpg | Icy blue Christmas bedroom with a white tree | https://askclair.com/christmas-apartment-decor/ |
 | 28 | cand_030.jpg | christmas-bedroom-stockings-garland-stone-fireplace.jpg | Christmas stockings and garland on a stone fireplace | https://www.pinvibe.com/media/1071153092612174149 |

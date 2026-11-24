@@ -1,7 +1,7 @@
 # Christmas Front Porch Decor Ideas — image provenance list
 
 Keyword: "christmas front porch decor ideas" (assigned Nov 24, 2026).
-All 30 images: real photos, portrait, <100,000 bytes JPG, verified full-frame AND bottom-35% strip.
+All 30 images: real photos, portrait, width >=768px (prefer 1024px), JPEG q~82, <400KB, sharpness verified visually, Nov 24 2026 rework.
 IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.com source pages).
 
 | Design | Original file | New file | Alt text | Source URL |
@@ -18,7 +18,7 @@ IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.c
 | 10 | c286a4a46a638772b669993c05d7a648.jpg | christmas-front-porch-decor-ideas-porch-glowing-dusk.jpg | Beautifully decorated Christmas front porch glowing at dusk | https://www.pinvibe.com/account/obtainedvisions |
 | 11 | 011935ad0f478a084ce45e4fa6fe632a.jpg | christmas-front-porch-decor-ideas-porch-glows-night.jpg | Highly decorated Christmas front porch at night with warm lights | https://willtiptop.com/front-porch-christmas-decor-ideas-2/ |
 | 12 | e31d470f4526e77ebe500fc7cc3a098b.jpg | christmas-front-porch-decor-ideas-richly-decorated-dusk.jpg | Richly decorated Christmas front porch at dusk with lights and garland | https://ca.pinterest.com/pin/500814421088688124/ |
-| 13 | 9724ab060f0cb51192a0ea540da6f81e.jpg | christmas-front-porch-decor-ideas-classic-decorated-porch.jpg | Decorated residential front porch set up for the Christmas holiday | https://i.pinimg.com/736x/97/24/ab/9724ab060f0cb51192a0ea540da6f81e.jpg |
+| 13 | 9724ab060f0cb51192a0ea540da6f81e.jpg | christmas-front-porch-decor-ideas-classic-decorated-porch.jpg | Decorated residential front porch set up for the Christmas holiday | https://i.pinimg.com/1200x/97/24/ab/9724ab060f0cb51192a0ea540da6f81e.jpg |
 | 14 | image5_simple-front-door-christmas-decorations-ideas_mini-christmas-trees.jpg | christmas-front-porch-decor-ideas-mini-trees-door.jpg | Cozy front porch with mini Christmas trees flanking the front door | https://lightandlayer.com/blog/christmas-door-decor-ideas/ |
 | 15 | 0_1-83.jpeg | christmas-front-porch-decor-ideas-decorated-trees-plants.jpg | Festive outdoor entryway with decorated Christmas trees and potted plants | https://modernvibehome.com/christmas-planters-front-porch/ |
 | 16 | 29-Beautiful-Winter-Front-Porch-Planter-Ideas_1764915027-768x432.jpg | christmas-front-porch-decor-ideas-dark-green-door-trees.jpg | Snowy front porch with a dark green door flanked by two Christmas trees | https://thedearlab.com |

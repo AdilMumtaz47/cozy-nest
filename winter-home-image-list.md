@@ -1,7 +1,7 @@
 # Winter Home — image provenance list
 
 Keyword: "winter home" (assigned Nov 24, 2026).
-All 30 images: real photos, portrait, <100,000 bytes JPG, verified full-frame AND bottom-35% strip.
+All 30 images: real photos, portrait, width >=768px (prefer 1024px), JPEG q~82, <400KB, sharpness verified visually, Nov 24 2026 rework.
 IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.com source pages).
 
 | Design | Original file | New file | Alt text | Source URL |

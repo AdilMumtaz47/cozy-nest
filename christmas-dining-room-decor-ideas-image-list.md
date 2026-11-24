@@ -1,17 +1,19 @@
 # 30 Christmas Dining Room Decor Ideas for a Warm, Festive Gathering — image provenance list
 
 Keyword: "christmas dining room decor ideas" (as briefed by coordinator, Nov 24, 2026).
-All 30 images: real photos, portrait, <100,000 bytes JPG, verified full-frame AND bottom-35% strip.
+All 30 images: real photos, portrait, width >=768px (prefer 1024px), JPEG q~82, <400KB, sharpness verified visually, Nov 24 2026 rework, verified full-frame AND bottom-35% strip.
 IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.com source pages across the searches for this article).
+Note (Nov 24 2026 rework): design 17 (rustic-room-tree-fireplace-wreaths) is 720px wide — its Pinterest original is natively 720x1280, the largest available; all other upgraded images are >=768px. Kept images retain their original encoding (768px, ~85-97KB).
+
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 | cand_001.jpg | christmas-dining-room-decor-ideas-long-wooden-table-greenery-runner.jpg | Christmas dining room with a long wooden table, greenery runner and red napkins | https://decorlet.com/elegant-christmas-dining-room-decor-ideas/ |
+| 1 | cand_001.jpg | christmas-dining-room-decor-ideas-long-wooden-table-greenery-runner.jpg | Christmas dining room with a long wooden table, greenery runner and red napkins | https://straightforwardspaces.com/content/images/2024/11/modern-christmas-decor.jpeg |
 | 2 | cand_004.jpg | christmas-dining-room-decor-ideas-candlelit-table-christmas-tree.jpg | Candlelit Christmas dining table set beside a decorated Christmas tree | https://www.reimaginehome.ai/blogs/festive-table-decoration-ideas-how-to-style-a-holiday-dining-table-that-wows |
 | 3 | cand_005.jpg | christmas-dining-room-decor-ideas-fireplace-wreath-christmas-tree.jpg | Christmas dining room with a fireplace, wreath and large Christmas tree | https://thegoodluckduck.com/christmas-table-decor-ideas/ |
-| 4 | cand_006.jpg | christmas-dining-room-decor-ideas-wooden-table-greenery-tree.jpg | Wooden Christmas dining table with greenery and a Christmas tree behind it | https://suite101.com/30-holiday-dining-table-ideas/ |
+| 4 | cand_006.jpg | christmas-dining-room-decor-ideas-wooden-table-greenery-tree.jpg | Wooden Christmas dining table with greenery and a Christmas tree behind it | https://images.suite101.com/wp-content/uploads/2026/03/Red-And-Green-Dining-Room-Decor.jpg?width=1024&quality=82 |
 | 5 | cand_007.jpg | christmas-dining-room-decor-ideas-candlelit-table-wine-glasses-tree.jpg | Candlelit Christmas dining table with wine glasses and a decorated tree | https://thetrendyinterior.com/indoor-christmas-lights-ideas-2025-ceilings |
-| 6 | cand_009.jpg | christmas-dining-room-decor-ideas-table-garland-ceiling.jpg | Christmas dining table beneath a ceiling draped with garland and lights | https://homeinspirediversity.com/page/39/ |
+| 6 | cand_009.jpg | christmas-dining-room-decor-ideas-table-garland-ceiling.jpg | Christmas dining table beneath a ceiling draped with garland and lights | https://i.pinimg.com/originals/1f/56/4c/1f564c93215c46c4a7ae67726a9d8372.jpg |
 | 7 | cand_010.jpg | christmas-dining-room-decor-ideas-bright-table-chair-bows.jpg | Bright Christmas dining room with a long table, chair bows and greenery | https://www.worthingcourtblog.com/50-ways-to-make-your-home-sparkle-this-holiday-season/ |
 | 8 | cand_011.jpg | christmas-dining-room-decor-ideas-formal-table-velvet-tablecloth.jpg | Formal Christmas dining table with a velvet tablecloth and red chairs | https://www.e-a-a.com/25-dining-room-christmas-decorating-ideas-for-a-festive-holiday/ |
 | 9 | cand_014.jpg | christmas-dining-room-decor-ideas-lavish-table-red-runner-candles.jpg | Lavish Christmas dining table with a red runner, candles and gold details | https://www.artofit.org/ideas/zoë-sugg |
@@ -19,11 +21,11 @@ IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.c
 | 11 | cand_017.jpg | christmas-dining-room-decor-ideas-plaid-place-settings-greenery.jpg | Christmas dining table with plaid place settings, greenery and candles | https://elegantsera.com/dining-table-decoration-ideas/ |
 | 12 | cand_019.jpg | christmas-dining-room-decor-ideas-rustic-farmhouse-table-linen-runner.jpg | Rustic farmhouse Christmas dining table with a linen runner and greenery | https://sitbacklounge.com/rustic-farmhouse-christmas-decor-ideas/ |
 | 13 | cand_020.jpg | christmas-dining-room-decor-ideas-farmhouse-table-wood-hutch.jpg | Farmhouse Christmas dining room with a wooden table and decorated hutch | https://www.kreativk.net/blog/top-farmhouse-christmas-decor-ideas/ |
-| 14 | cand_021.jpg | christmas-dining-room-decor-ideas-rustic-table-red-rimmed-plates.jpg | Rustic Christmas dining table with red-rimmed plates and plaid cushions | https://www.homestratosphere.com/could-dining-room-best-room-house-christmas-spaces/ |
+| 14 | cand_021.jpg | christmas-dining-room-decor-ideas-rustic-table-red-rimmed-plates.jpg | Rustic Christmas dining table with red-rimmed plates and plaid cushions | https://images.squarespace-cdn.com/content/v1/6880f1d051fc954323eb2412/dc0b9495-6184-4a50-b919-967ef2362697/IMG_1129+%282%29.JPG?format=1500w |
 | 15 | cand_022.jpg | christmas-dining-room-decor-ideas-bright-rustic-table-christmas-tree.jpg | Bright rustic Christmas dining table set under a decorated Christmas tree | https://nestmood.com/38-dining-room-decor-ideas-for-2025-from-farmhouse-charm-to-modern-classy-inspiration/ |
 | 16 | cand_023.jpg | christmas-dining-room-decor-ideas-dining-area-wooden-hutch-lanterns.jpg | Rustic Christmas dining area with a wooden hutch, lanterns and plaid | https://stylishgalore.com/dining-room-refresh/ |
-| 17 | cand_024.jpg | christmas-dining-room-decor-ideas-rustic-room-tree-fireplace-wreaths.jpg | Rustic Christmas dining room with a tree, fireplace mantel and wreaths | https://aautomotives.com/30-christmas-dining-room-decor-inspirations-to-create-a-festive-feast/ |
-| 18 | cand_025.jpg | christmas-dining-room-decor-ideas-long-table-wreath-candles-plaid.jpg | Long Christmas dining table with a wreath, candles and plaid napkins | https://www.tvasports.ca/article/15-idees-pour-une-deco-de-noel-dans-le-style-farmhouse-341845929 |
+| 17 | cand_024.jpg | christmas-dining-room-decor-ideas-rustic-room-tree-fireplace-wreaths.jpg | Rustic Christmas dining room with a tree, fireplace mantel and wreaths | https://i.pinimg.com/originals/38/be/d5/38bed5eb51d7957d309291d8784f9e49.jpg |
+| 18 | cand_025.jpg | christmas-dining-room-decor-ideas-long-table-wreath-candles-plaid.jpg | Long Christmas dining table with a wreath, candles and plaid napkins | https://inspiration-for-home.com/wp-content/uploads/2026/09/23-219bbe8706ed.jpg |
 | 19 | cand_027.jpg | christmas-dining-room-decor-ideas-table-greenery-chandelier.jpg | Rustic Christmas dining table beneath a chandelier draped with greenery | https://aautomotives.com/25-cozy-christmas-living-room-decor-ideas-to-create-a-warm-holiday-haven/ |
 | 20 | cand_028.jpg | christmas-dining-room-decor-ideas-farmhouse-nook-checkered-placemats.jpg | Farmhouse Christmas breakfast nook with checkered placemats and a tree | https://www.kreativk.net/blog/top-farmhouse-christmas-decor-ideas/ |
 | 21 | cand_029.jpg | christmas-dining-room-decor-ideas-long-table-snowy-wood-room.jpg | Long Christmas dining table in a wood-paneled room with snowy windows | https://www.pinterest.com/ideas/rustic-christmas-kitchen-table-decor/903856270101/ |

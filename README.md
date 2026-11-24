@@ -8,8 +8,7 @@ them. Hosting: Vercel (auto-deploy on push to `main`).
 
 1. Write the article file in `content/posts/<slug>.md` (copy
    `content/posts/_template.md`).
-2. Add its images to `images/<slug>/` — portrait JPGs, each under 100 KB,
-   named by what they show (kebab-case), one image per design, in order.
+2. Add its images to `images/<slug>/` — portrait JPGs, width ≥768px (prefer 1024px), JPEG quality ~80–85, under 400 KB each, named by what they show (kebab-case), one image per design, in order. Sharpness is judged by looking at the image — no image may look low quality or blurry. (The old <100 KB cap was lifted Nov 24, 2026 — it caused the blur.)
 3. Run `python3 build.py` — it regenerates `index.html`, `posts/<slug>/`,
    `sitemap.xml` and `robots.txt`.
 4. Commit everything (Markdown + images + generated HTML) and push to `main`.

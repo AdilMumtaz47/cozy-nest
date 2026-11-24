@@ -1,14 +1,14 @@
 # Rustic Home Decor Ideas — image provenance list
 
 Keyword: "rustic home decor ideas" (Pinterest-verified WINNABLE, 4 listicles, Nov 23, 2026).
-All 30 images: real photos, portrait, <100,000 bytes JPG, verified full-frame AND bottom-35% strip.
+All 30 images: real photos, portrait, width >=768px (prefer 1024px), JPEG q~82, <400KB, sharpness verified visually, Nov 24 2026 rework.
 IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.com source pages across 210 results).
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 | cand_001.jpg | rustic-home-decor-ideas-open-wood-shelves-kitchen.jpg | Rustic kitchen with open wood shelves, white bowls and copper pots |  |
+| 1 | cand_001.jpg | rustic-home-decor-ideas-open-wood-shelves-kitchen.jpg | Rustic kitchen with open wood shelves, white bowls and copper pots | https://images.suite101.com/wp-content/uploads/2026/03/Open-Kitchen-Shelving-12.jpg |
 | 2 | cand_002.jpg | rustic-home-decor-ideas-reclaimed-wood-headboard-bedroom.jpg | Rustic bedroom with a reclaimed wood headboard and white bedding | https://nimorix.com/36-rustic-bedroom-decor-ideas-2025-with-cozy-diy-touches-and-farmhouse-style-inspiration/ |
-| 3 | cand_003.jpg | rustic-home-decor-ideas-mason-jar-candles-wood-slices.jpg | Mason jar candles glowing on wood slices with greenery | https://www.pinterest.com/ideas/simple-jar-centerpieces/941628463289/ |
+| 3 | cand_003.jpg | rustic-home-decor-ideas-mason-jar-candles-wood-slices.jpg | Mason jar candles glowing on wood slices with greenery | https://www.pinvibe.com/media/359091770305991015 |
 | 4 | cand_004.jpg | rustic-home-decor-ideas-rustic-console-table-entryway.jpg | Rustic wood console table in an entryway with a vase and lamp | https://www.etsy.com/listing/4492520489/63-farmhouse-console-table-solid-wood |
 | 5 | cand_005.jpg | rustic-home-decor-ideas-rustic-dining-room-lanterns.jpg | Rustic dining room with a wood table and hanging lanterns | https://lemedecor.com/small-farmhouse-dining-room-decor-ideas/ |
 | 6 | cand_006.jpg | rustic-home-decor-ideas-open-shelves-farmhouse-kitchen.jpg | Farmhouse kitchen with open wood shelves and copper pots | https://suite101.com/30-kitchen-open-shelf-styling-ideas/ |

@@ -1,12 +1,12 @@
 # Farmhouse Living Room — image provenance list
 
 Keyword: "farmhouse living room" (Nov 24, 2026).
-All 30 images: real photos, portrait, <100,000 bytes JPG, verified full-frame AND bottom-35% strip.
+All 30 images: real photos, portrait, width >=768px (prefer 1024px), JPEG q~82, <400KB, sharpness verified visually, Nov 24 2026 rework.
 IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.com source pages).
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 | cand_002.jpg | farmhouse-living-room-slipcovered-sofa-pair-wood-table.jpg | Farmhouse living room with white slipcovered sofas and a wood coffee table | https://henwethington6666.medium.com/bring-home-charm-and-comfort-with-the-top-12-country-farmhouse-slipcovered-sofas-3a632bf577b2 |
+| 1 | b8966d11fee7f34c63a51ada3424bc19.jpg | farmhouse-living-room-slipcovered-sofa-pair-wood-table.jpg | Farmhouse living room with white slipcovered sofas and a wood coffee table | https://countrypolish.com/2026/03/04/take-a-look-at-this-sun-washed-peach-stucco-farmhouse-bungalow-with-a-breezy-open-air-porch-for-relaxation-the-interior-charm-will-make-you/ |
 | 2 | cand_004.jpg | farmhouse-living-room-white-slipcovered-sofa-windows.jpg | Farmhouse living room with a white slipcovered sofa and large windows | https://www.coohom.com/article/10-farmhouse-country-living-room-ideas |
 | 3 | cand_006.jpg | farmhouse-living-room-two-slipcovered-sofas-wood-table.jpg | Farmhouse living room with two white slipcovered sofas and a wooden coffee table | https://www.coohom.com/article/farmhouse-decorating-ideas-for-your-living-room-171809 |
 | 4 | cand_010.jpg | farmhouse-living-room-slipcovered-sofa-wreath-wall.jpg | Farmhouse living room with a white slipcovered sofa and a wreath wall | https://farmhouseplaces.netlify.app/farmhouse-settee/ |

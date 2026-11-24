@@ -1,7 +1,7 @@
 # 30 Neutral Bedroom Ideas for a Calm, Timeless Retreat — image provenance list
 
 Keyword: "neutral bedroom" (as briefed by coordinator, Nov 24, 2026).
-All 30 images: real photos, portrait, <100,000 bytes JPG, verified full-frame AND bottom-35% strip.
+All 30 images: real photos, portrait, width >=768px (prefer 1024px), JPEG q~82, <400KB, sharpness verified visually, Nov 24 2026 rework.
 IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.com source pages across the searches for this article).
 
 | Design | Original file | New file | Alt text | Source URL |
@@ -33,6 +33,6 @@ IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.c
 | 25 | cand_024.jpg | neutral-bedroom-cream-knit-throw-paneled-wall.jpg | Neutral bedroom with a cream knit throw against a paneled wall | https://impactwizards.com/beautiful-master-bedrooms/ |
 | 26 | cand_025.jpg | neutral-bedroom-quilted-beige-duvet-neutral-pillows.jpg | Neutral bedroom with a quilted beige duvet and neutral pillows | https://www.oursecondhandhouse.com/30-warm-beige-bedroom-ideas/ |
 | 27 | cand_026.jpg | neutral-bedroom-linen-bedding-wooden-headboard.jpg | Neutral bedroom with linen bedding and a wooden headboard | https://www.thevintageway.com/layered-vintage-bedroom-textiles/ |
-| 28 | cand_027.jpg | neutral-bedroom-layered-beige-cable-knit-throw.jpg | Neutral bedroom with layered beige bedding and a cable knit throw | https://pixelstorem.com/beige-bedroom-ideas-2/ |
+| 28 | cand_027.jpg | neutral-bedroom-layered-beige-cable-knit-throw.jpg | Neutral bedroom with layered beige bedding and a cable knit throw | https://healthypieideas.com/23-calming-bedroom-styling-ideas-for-a-warm/ |
 | 29 | cand_028.jpg | neutral-bedroom-quilted-cream-bedding-corner.jpg | Neutral bedroom corner with quilted cream bedding | https://www.pinvibe.com/account/lsolander |
 | 30 | cand_029.jpg | neutral-bedroom-layered-cream-bedding-closeup.jpg | Close-up of layered cream and beige bedding in a neutral bedroom | https://casolia.com/modern-cream-bedroom-ideas/ |

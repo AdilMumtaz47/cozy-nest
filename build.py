@@ -308,25 +308,42 @@ def build_article(a, all_articles):
 
 
 def thumb_for(slug, first_file):
-    """Small card thumbnail (480px wide) for the homepage/category cards, so
-    the homepage stays light on mobile. Generated from the article's first
-    image on first build; reused afterwards."""
+    """Card thumbnails for the homepage/category cards. Two sizes are
+    generated from the article's first image on first build and reused
+    afterwards: thumb.jpg (360px wide, q70) for slow connections and
+    thumb-720.jpg (720px wide, q80) for retina screens, served via srcset
+    in card_html(). Regenerate by deleting the thumb files before a build."""
     thumb_dir = os.path.join(ROOT, "images", slug)
-    thumb_path = os.path.join(thumb_dir, "thumb.jpg")
-    if not os.path.exists(thumb_path) and first_file:
-        try:
-            from PIL import Image
-            src = os.path.join(thumb_dir, first_file)
-            im = Image.open(src).convert("RGB")
-            w, h = im.size
-            nw = 360
-            nh = round(h * nw / w)
-            im.resize((nw, nh), Image.LANCZOS).save(thumb_path, "JPEG", quality=70)
-            print(f"thumb {slug}/thumb.jpg ({nw}x{nh})")
-        except Exception as e:
-            print(f"thumb SKIP {slug}: {e}")
-            return first_file
-    return "thumb.jpg" if os.path.exists(thumb_path) else first_file
+    if not first_file:
+        return ""
+    try:
+        from PIL import Image
+        src = os.path.join(thumb_dir, first_file)
+        im = Image.open(src).convert("RGB")
+        w, h = im.size
+        for name, nw, q in (("thumb.jpg", 360, 70), ("thumb-720.jpg", 720, 80)):
+            path = os.path.join(thumb_dir, name)
+            if not os.path.exists(path):
+                nh = round(h * nw / w)
+                im.resize((nw, nh), Image.LANCZOS).save(path, "JPEG", quality=q)
+                print(f"thumb {slug}/{name} ({nw}x{nh})")
+    except Exception as e:
+        print(f"thumb SKIP {slug}: {e}")
+        return first_file
+    return "thumb.jpg" if os.path.exists(os.path.join(thumb_dir, "thumb.jpg")) else first_file
+
+
+def thumb_srcset(slug):
+    """srcset + sizes attributes for a card thumbnail, or '' if no 720
+    version exists yet. Cards are 1 column <640px, 2 columns <960px,
+    3 columns above (max ~360px wide), so retina phones pick the 720w file."""
+    small = os.path.join(ROOT, "images", slug, "thumb.jpg")
+    large = os.path.join(ROOT, "images", slug, "thumb-720.jpg")
+    if os.path.exists(small) and os.path.exists(large):
+        return (f'srcset="/images/{esc(slug)}/thumb.jpg 360w, '
+                f'/images/{esc(slug)}/thumb-720.jpg 720w" '
+                f'sizes="(max-width: 639px) 100vw, (max-width: 959px) 50vw, 360px"')
+    return ""
 
 
 def card_html(a):
@@ -335,7 +352,10 @@ def card_html(a):
     if m.get("images"):
         im = m["images"][0]
         thumb = thumb_for(m["slug"], im["file"])
-        img = (f'<img src="/images/{esc(m["slug"])}/{esc(thumb)}" '
+        srcset = thumb_srcset(m["slug"])
+        srcset_attr = f" {srcset}" if srcset else ""
+        img = (f'<img src="/images/{esc(m["slug"])}/{esc(thumb)}"'
+               f'{srcset_attr} '
                f'alt="{esc(im["alt"])}" loading="lazy">')
     return (
         f'<article class="card"><a href="/posts/{esc(m["slug"])}/">{img}'
