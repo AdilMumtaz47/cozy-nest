@@ -1,0 +1,30 @@
+/* Cozy Nest — home decor blog. Mobile-first, clean, fast. */
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Georgia, 'Times New Roman', serif; color: #2b2620; background: #faf7f2; line-height: 1.6; }
+a { color: #8a5a2b; }
+.site-header { display: flex; justify-content: space-between; align-items: center; padding: 16px 20px; background: #fff; border-bottom: 1px solid #e8ddd0; }
+.site-name { font-size: 26px; font-weight: bold; color: #2b2620; text-decoration: none; letter-spacing: 0.5px; }
+.site-header nav a { margin-left: 16px; text-decoration: none; color: #6b5d4f; }
+main { max-width: 760px; margin: 0 auto; padding: 24px 20px 48px; }
+.hero { text-align: center; padding: 24px 0 8px; }
+.hero h1 { font-size: 40px; margin: 0 0 8px; }
+.hero p { color: #6b5d4f; font-size: 18px; margin: 0; }
+.grid { display: grid; grid-template-columns: 1fr; gap: 24px; margin-top: 32px; }
+@media (min-width: 640px) { .grid { grid-template-columns: 1fr 1fr; } main { max-width: 1020px; } }
+.card { background: #fff; border: 1px solid #e8ddd0; border-radius: 10px; overflow: hidden; }
+.card a { text-decoration: none; color: inherit; display: block; }
+.card img { width: 100%; aspect-ratio: 3 / 4; object-fit: cover; display: block; }
+.card h2 { font-size: 20px; margin: 14px 16px 6px; }
+.card p { margin: 0 16px 14px; color: #6b5d4f; }
+.card .meta-line { font-size: 13px; color: #9a8a78; }
+article h1 { font-size: 32px; line-height: 1.25; margin: 8px 0; }
+article h2 { font-size: 24px; margin: 36px 0 10px; }
+article h3 { font-size: 19px; margin: 24px 0 6px; }
+.crumb { font-size: 14px; color: #9a8a78; }
+.meta-line { font-size: 14px; color: #9a8a78; }
+figure { margin: 20px 0; }
+figure img { width: 100%; border-radius: 8px; display: block; }
+figcaption { font-size: 13px; color: #9a8a78; margin-top: 6px; }
+.related { margin-top: 48px; border-top: 1px solid #e8ddd0; padding-top: 16px; }
+.related ul { padding-left: 20px; }
+.site-footer { text-align: center; padding: 24px 20px; color: #9a8a78; font-size: 14px; border-top: 1px solid #e8ddd0; background: #fff; }

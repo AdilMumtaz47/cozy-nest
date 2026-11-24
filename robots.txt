@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cozynesthomeideas.com/sitemap.xml

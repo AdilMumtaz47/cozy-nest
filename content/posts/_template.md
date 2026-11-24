@@ -1,0 +1,41 @@
+---
+title: "30 Cozy Winter Bedroom Ideas for a Warm Retreat"
+slug: "cozy-winter-bedroom-ideas"
+description: "Discover 30 cozy winter bedroom ideas with layered bedding, warm lighting and soft textures for a calm, inviting retreat."
+keyword: "cozy winter bedroom ideas"
+category: "Bedroom Decor"
+date: "2026-11-23"
+images:
+  - file: "cozy-winter-bedroom-fairy-lights.jpg"
+    alt: "Cozy winter bedroom with layered blankets, warm fairy lights and a soft reading nook"
+---
+
+# 30 Cozy Winter Bedroom Ideas for a Warm Retreat
+
+[Intro — 2–3 short paragraphs, main keyword in the first 100 words.]
+
+## 1. Layered Blankets and Throws
+
+[1–2 paragraphs describing this design.]
+
+![Cozy winter bedroom with layered blankets, warm fairy lights and a soft reading nook](/images/cozy-winter-bedroom-ideas/cozy-winter-bedroom-fairy-lights.jpg)
+
+## 2. [Next design name]
+
+[Description.]
+
+![Alt text for design 2](/images/cozy-winter-bedroom-ideas/<file-2>.jpg)
+
+[... designs 3..N, same pattern — one image per design, in order ...]
+
+## Takeaway
+
+[Short closing — what to try first, how to mix the ideas.]
+
+## Frequently Asked Questions
+
+### How do I make my bedroom feel cozy in winter?
+
+[Answer — 40–60 words.]
+
+[... 7–8 FAQs total, same pattern ...]
