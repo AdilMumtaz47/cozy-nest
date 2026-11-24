@@ -55,6 +55,28 @@ on a keyword/topic already covered here.
 | christmas-living-room | 30 Christmas Living Room Ideas for a Warm, Festive Home | 30 | not published yet | — |
 | boho-living-room | 30 Boho Living Room Ideas for a Relaxed, Layered Home | 30 | not published yet | — |
 
+**Articles 6–20 WRITTEN (Nov 24, 2026, evening — 20-article buffer COMPLETE):** all Pinterest-verified keywords (13 from the Nov 23 Pinterest screen + 2 screened Nov 24: modern farmhouse bedroom, rustic home kitchen — both WINNABLE, 6 listicles). Each: 30 real photos (0 IG / 30 web — image-search CLI returned no instagram.com sources), 8 FAQs (40–60 words), verified individually by the coordinator (PIL: JPEG/portrait/<100KB, frontmatter 1:1 with disk, 30 design sections, FAQ heading "Frequently Asked Questions" per the redesigned build.py). `python3 build.py` exit 0: 20 articles, all 30 images / 8 FAQs, built HTML checked (30 figures + 8 FAQ accordions each), sitemap complete. NOT pushed to GitHub yet — parent pushes after this report. Rejected and NOT built: rustic home exterior (7 listicles), modern farmhouse bathroom (8 listicles). Note: `thumb.jpg` in each image folder is a build.py-generated card thumbnail, not a 31st article image. One near-limit image: christmas-tree #8 at 99,987 bytes (still under 100,000).
+
+| Slug | Title | Designs | Date published | Live URL |
+|---|---|---|---|---|
+| christmas-dining-room-decor-ideas | 30 Christmas Dining Room Decor Ideas for a Warm, Festive Gathering | 30 | not published yet | — |
+| boho-bedroom | 30 Boho Bedroom Ideas for a Calm, Layered Retreat | 30 | not published yet | — |
+| neutral-bedroom | 30 Neutral Bedroom Ideas for a Calm, Timeless Retreat | 30 | not published yet | — |
+| farmhouse-kitchen | 30 Farmhouse Kitchen Ideas for a Warm, Gathered Home | 30 | not published yet | — |
+| rustic-home-decor-ideas | 30 Rustic Home Decor Ideas for a Warm, Natural Home | 30 | not published yet | — |
+| christmas-bedroom | 30 Christmas Bedroom Ideas for a Cozy, Festive Retreat | 30 | not published yet | — |
+| christmas-tree | 30 Christmas Tree Ideas for a Warm, Glowing Holiday | 30 | not published yet | — |
+| small-kitchen-decor-ideas | 30 Small Kitchen Decor Ideas for a Charming, Clever Space | 30 | not published yet | — |
+| christmas-front-porch-decor-ideas | 30 Christmas Front Porch Decor Ideas for a Warm Welcome | 30 | not published yet | — |
+| winter-home | 30 Winter Home Ideas for a Cozy, Snowy Season | 30 | not published yet | — |
+| modern-farmhouse | 30 Modern Farmhouse Ideas for a Fresh, Warm Home | 30 | not published yet | — |
+| farmhouse-living-room | 30 Farmhouse Living Room Ideas for a Warm, Collected Home | 30 | not published yet | — |
+| christmas-kitchen | 30 Christmas Kitchen Ideas for a Warm, Festive Heart of the Home | 30 | not published yet | — |
+| modern-farmhouse-bedroom | 30 Modern Farmhouse Bedroom Ideas for a Fresh, Calm Retreat | 30 | not published yet | — |
+| rustic-home-kitchen | 30 Rustic Home Kitchen Ideas for a Warm, Natural Heart of the Home | 30 | not published yet | — |
+
+Site now holds 20 articles / 600 photos.
+
 ## Boards
 
 | Board name (exact) | Description written | Date created |

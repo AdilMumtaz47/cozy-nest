@@ -70,11 +70,20 @@ def md_inline(text):
 
 def md_to_html(body, meta):
     """Convert an article body to HTML. Design sections are ## headings with one
-    image each (in order, from meta['images']); FAQs are ### under the FAQ H2."""
+    image each (in order, from meta['images']); FAQs are ### under the FAQ H2.
+    Each design section gets an "N of 30" counter (the big decor sites all
+    number their list items); a <!--MORELIKE--> marker goes after the 3rd
+    design section for build_article to fill with a related card."""
+    total_items = sum(
+        1 for ln in body.splitlines()
+        if ln.startswith("## ")
+        and not ln[3:].strip().lower().startswith(("frequently asked", "takeaway"))
+    )
     out = []
     faqs = []
     in_faq = False
     img_idx = 0
+    item_idx = 0
     lines = body.splitlines()
     i = 0
     buf = []
@@ -104,7 +113,11 @@ def md_to_html(body, meta):
                 out.append("<h2>Takeaway</h2>")
             else:
                 in_faq = False
-                out.append(f"<h2>{esc(title)}</h2>")
+                item_idx += 1
+                out.append(
+                    f'<p class="item-num">{item_idx:02d} of {total_items}</p>'
+                    f"<h2>{esc(title)}</h2>"
+                )
                 if img_idx < len(meta.get("images", [])):
                     im = meta["images"][img_idx]
                     img_idx += 1
@@ -113,6 +126,8 @@ def md_to_html(body, meta):
                         f'alt="{esc(im["alt"])}" loading="lazy">'
                         f"<figcaption>{esc(im['alt'])}</figcaption></figure>"
                     )
+                    if item_idx == 3:
+                        out.append("<!--MORELIKE-->")
         elif line.startswith("### ") and in_faq:
             flush()
             q = line[4:].strip()
@@ -172,9 +187,9 @@ def page_shell(title, meta_desc, body_html, extra_head="", nav_cats=None, og_ima
 <footer class="site-footer"><div class="footer-inner">
 <div class="footer-brand"><img src="{LOGO_URL}" alt="Cozy Nest logo" width="52" height="52">
 <p><span class="brand-name">{esc(SITE_NAME)}</span></p>
-<p>{esc(SITE_DESC)} Every list is made to be pinned, saved and actually used at home.</p></div>
+<p>{esc(SITE_DESC)} Every list is made to be saved and actually used at home.</p></div>
 <div class="footer-links"><h3>Browse by room</h3>{foot_links}<a href="/">All ideas</a></div>
-<div class="footer-links"><h3>Cozy Nest</h3><a href="/">Home</a></div>
+<div class="footer-links"><h3>Cozy Nest</h3><a href="/">Home</a><a href="https://www.pinterest.com/cozynestbysayed/" target="_blank" rel="noopener">Follow on Pinterest</a></div>
 </div><div class="footer-bottom">&copy; {year} {esc(SITE_NAME)} — home decor inspiration, one list at a time.</div></footer>
 </body>
 </html>
@@ -242,12 +257,46 @@ def build_article(a, all_articles):
     if m.get("images"):
         og_image = f"{SITE_URL}/images/{slug}/{m['images'][0]['file']}"
     nav_cats = [(c, cat_slug(c)) for c in categories_of(all_articles)]
+    # Pin-it button (Pinterest-native share) + author box
+    import urllib.parse
+    pin_url = (
+        "https://pinterest.com/pin/create/button/?"
+        + urllib.parse.urlencode({
+            "url": f"{SITE_URL}/posts/{slug}/",
+            "media": og_image or "",
+            "description": m["title"],
+        })
+    )
+    pin_html = (
+        f'<p><a class="pin-btn" href="{pin_url}" target="_blank" rel="noopener">'
+        f"Save this list on Pinterest</a></p>"
+    )
+    author_html = (
+        f"<section class='author-box'><img src='{LOGO_URL}' alt='Cozy Nest logo' width='64' height='64'>"
+        f"<div><h3>About Cozy Nest</h3><p>Cozy Nest shares warm, practical home decor "
+        f"ideas — room by room, season by season — so your home feels like home. "
+        f"Every list is made to be saved and actually used.</p></div></section>"
+    )
+    body_html = a["body_html"]
+    if "<!--MORELIKE-->" in body_html and related:
+        r = related[0]
+        rm = r["meta"]
+        rthumb = thumb_for(rm["slug"], rm["images"][0]["file"]) if rm.get("images") else ""
+        more_html = (
+            f"<aside class='more-like'><p>More like this</p>"
+            f"<a href='/posts/{esc(rm['slug'])}/'>"
+            f"<img src='/images/{esc(rm['slug'])}/{esc(rthumb)}' alt='{esc(rm['title'])}' loading='lazy'>"
+            f"<span>{esc(rm['title'])}</span></a></aside>"
+        )
+        body_html = body_html.replace("<!--MORELIKE-->", more_html, 1)
+    else:
+        body_html = body_html.replace("<!--MORELIKE-->", "", 1)
     body = (
         f'<article><p class="crumb"><a href="/">Home</a> / '
         f'<a href="/categories/{cat_slug(m.get("category", ""))}/">{esc(m.get("category", ""))}</a></p>'
         f"<h1>{esc(m['title'])}</h1>"
         f'<p class="meta-line">{esc(m.get("date", ""))} &middot; {n} ideas</p>'
-        f"{a['body_html']}{faq_html}{rel_html}"
+        f"{pin_html}{body_html}{faq_html}{author_html}{rel_html}"
         f'<p><a class="back-link" href="/">&larr; Back to all ideas</a></p></article>'
     )
     out_dir = os.path.join(ROOT, "posts", slug)
@@ -308,18 +357,33 @@ def build_home(articles):
         for c, v in categories_of(articles).items()
     )
     if articles:
-        cards = "".join(card_html(a) for a in articles)
+        featured = articles[0]
+        fm = featured["meta"]
+        fimg = ""
+        if fm.get("images"):
+            fim = fm["images"][0]
+            fimg = (f'<img src="/images/{esc(fm["slug"])}/{esc(fim["file"])}" '
+                    f'alt="{esc(fim["alt"])}" loading="lazy">')
+        hero = (
+            f"<section class='feature'><a href='/posts/{esc(fm['slug'])}/'>{fimg}"
+            f"<div class='feature-text'><p class='feature-cat'>{esc(fm.get('category', ''))} &middot; Featured</p>"
+            f"<h2>{esc(fm['title'])}</h2><p>{esc(fm.get('description', ''))}</p>"
+            f"<span class='feature-link'>See the 30 ideas &rarr;</span></div></a></section>"
+        )
+        rest = articles[1:]
+        cards = "".join(card_html(a) for a in rest)
         grid = (
             f"<h2 class='section-title'>Latest ideas</h2>"
             f"<p class='section-sub'>Fresh lists for every room and every season.</p>"
             f"<section class='grid'>{cards}</section>"
         )
     else:
+        hero = ""
         grid = "<section class='grid'><p>First articles coming soon — the first list is being written now.</p></section>"
     body = (
         f"<section class='hero'><img class='hero-logo' src='{LOGO_URL}' alt='Cozy Nest logo' width='96' height='96'>"
         f"<h1>{esc(SITE_NAME)}</h1><p>{esc(SITE_DESC)}</p>"
-        f"<div class='chips'>{chips}</div></section>{grid}"
+        f"<div class='chips'>{chips}</div></section>{hero}{grid}"
     )
     with open(os.path.join(ROOT, "index.html"), "w", encoding="utf-8") as f:
         f.write(page_shell(SITE_NAME + " — Home Decor Ideas", SITE_DESC, body,

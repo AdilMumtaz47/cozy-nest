@@ -1,0 +1,38 @@
+# Small Kitchen Decor Ideas — image provenance list
+
+Keyword: "small kitchen decor ideas" (assigned Nov 24, 2026).
+All 30 images: real photos, portrait, <100,000 bytes JPG, verified full-frame AND bottom-35% strip.
+IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.com source pages).
+
+| Design | Original file | New file | Alt text | Source URL |
+|---|---|---|---|---|
+| 1 | create-an-image-of-a-small-modern-kitchen-that-us-683x1024.webp | small-kitchen-decor-ideas-open-shelves-black-faucet.jpg | Small kitchen with white subway tile, open wooden shelves and a black sink | https://dwellmuse.com/10-brilliant-small-kitchen-ideas-that-maximize-space/ |
+| 2 | 25-Small-Kitchen-Ideas-Modern-and-Functional-1.-Open-Shelving-for-Display-and-Functionality.webp | small-kitchen-decor-ideas-open-shelving-ceramic-dishes.jpg | Small kitchen with open shelving holding ceramic dishes and plants | https://cozykitchenia.com/small-kitchen-ideas-modern/ |
+| 3 | 25-Narrow-Kitchen-Ideas-That-Save-Every-Inch-of-Space-2.-Open-Shelving.webp | small-kitchen-decor-ideas-open-shelves-narrow-kitchen.jpg | Narrow small kitchen with open wooden shelves and ceramic dishes | https://stylekitcheny.com/narrow-kitchen/ |
+| 4 | 25-Home-Decor-Ideas-for-Small-Spaces-That-Make-a-Big-Impression-5.-Open-Shelving-in-the-Kitchen.webp | small-kitchen-decor-ideas-open-shelves-over-sink.jpg | Small kitchen with white cabinetry, wooden shelves and a black faucet | https://globaldecortrends.com/home-decor-ideas-small-spaces/ |
+| 5 | 27.-Open-Shelves-in-a-Small-Kitchen-559x1024.webp | small-kitchen-decor-ideas-subway-tile-open-shelves.jpg | Small kitchen with white subway tile backsplash and open wooden shelves | https://kitchencurates.com/kitchen-cabinet-open-shelves-ideas/ |
+| 6 | Open-Shelving-Kitchenette.jpg | small-kitchen-decor-ideas-open-shelving-kitchenette.jpg | Small kitchenette with rustic wooden shelves displaying colorful pottery | https://suite101.com/30-kitchenette-design-ideas/ |
+| 7 | IMG_1543-768x1024.jpg | small-kitchen-decor-ideas-farmhouse-white-cabinets.jpg | Bright farmhouse small kitchen with white cabinets and wooden countertops | https://ittybittyfarmhouse.com/tag/home/ |
+| 8 | Kitchen-Herb-Garden-Arrangement.jpg | small-kitchen-decor-ideas-herb-garden-windowsill.jpg | Small kitchen windowsill with potted herbs in terracotta pots | https://suite101.com/30-layered-kitchen-decor-ideas/ |
+| 9 | farmhouse-kitchen-examples-002.jpg | small-kitchen-decor-ideas-bright-rustic-farmhouse.jpg | Bright rustic farmhouse kitchen with wooden countertops and white cabinets | https://ablissfulnest.com/farmhouse-kitchen-examples/ |
+| 10 | Mobile-Coffee-Cart-Setup.jpg | small-kitchen-decor-ideas-rolling-coffee-cart.jpg | Small kitchen with a rolling coffee bar cart and vintage coffee maker | https://suite101.com/30-kitchen-coffee-bar-ideas/ |
+| 11 | e354508c264f76eafa8ee7c06cec26c4.png | small-kitchen-decor-ideas-galley-kitchen-string-lights.jpg | Small galley kitchen with string lights, open shelves and a breakfast bar | http://nexquill.b-cdn.net/small-kitchen-gallery.html |
+| 12 | 3ba13c4bdef7114b7dd8bcf7b27b22a5.png | small-kitchen-decor-ideas-l-shaped-kitchen-pastel.jpg | Compact L-shaped small kitchen with pastel accents and open shelves | http://hedeepcove.b-cdn.net/small-kitchen-spaces-ideas.html |
+| 13 | 4cc577adf663dcb9dc08c5ecfcc1df65.png | small-kitchen-decor-ideas-breakfast-nook-for-two.jpg | Tiny kitchen breakfast nook with a small wooden table set for two | https://in.pinterest.com/ideas/cute-tiny-apartment/904461333729/ |
+| 14 | 80e7a9ffdb0da6b0bf44805da9b2a27c.jpg | small-kitchen-decor-ideas-island-butcher-block.jpg | Small kitchen with a wooden island, butcher-block top and open shelves | http://romillbrook.b-cdn.net/small-modern-kitchen-ideas-on-a-budget.html |
+| 15 | 1dbe678f40ccdf47472538e94677ceeb.jpg | small-kitchen-decor-ideas-breakfast-bar-stools.jpg | Small kitchen with a wooden breakfast bar and two round stools | https://www.pinterest.fr/pin/5207355814515528/ |
+| 16 | 33b367ed6eab6fabe56e8ffd62591d2a.png | small-kitchen-decor-ideas-galley-kitchen-night.jpg | Small galley kitchen glowing at night with plants and under-cabinet lights | https://storage.googleapis.com/boibogflecnepo/little-home-ideas.html |
+| 17 | b74302bc5a89c05aa923b667fcc0405b.webp | small-kitchen-decor-ideas-round-wall-table-nook.jpg | Small kitchen with a round wall-mounted table and jute rug | https://www.pinterest.co.uk/ideas/kitchenette-table/904530333991/ |
+| 18 | 55958e9d9572b97eff9af32c1af9a958.png | small-kitchen-decor-ideas-ribbed-glass-pendant.jpg | Small kitchen with a ribbed glass pendant light over the sink | http://hedeepcove.b-cdn.net/small-kitchen-spaces-ideas.html |
+| 19 | 00f4f4f16244442f5fee153d5ff60d13.jpg | small-kitchen-decor-ideas-open-plan-retro-fridge.jpg | Open-plan small kitchen with white cabinets and a retro refrigerator | https://www.pinterest.fr/pin/231794712066441694/ |
+| 20 | 2089633b83f1732fa9c813a170a5a53a.png | small-kitchen-decor-ideas-farmhouse-sink-window.jpg | Small farmhouse kitchen with a white sink under a bright window | https://www.pinterest.es/ideas/bright-small-kitchen/930157386948/ |
+| 21 | 7d68a1511a0a3b3b9c576d1b5f1f947d.jpg | small-kitchen-decor-ideas-round-wooden-table-two.jpg | Warm small kitchen with a round wooden dining table set for two | https://i.pinimg.com/736x/7d/68/a1/7d68a1511a0a3b3b9c576d1b5f1f947d.jpg |
+| 22 | 99d15cd12877cf498a24bf91b0e640e1.jpg | small-kitchen-decor-ideas-pendant-light-sink.jpg | Small kitchen with a glowing pendant light over the sink and plants | http://ie.pinterest.com/pin/70931762855931670/ |
+| 23 | 21-Stylish-Tiny-Kitchen-Designs-That-Prove-Small-Can-Be-Fabulous-6.-Smart-Storage-Solutions-Clever-and-Functional.webp | small-kitchen-decor-ideas-smart-pantry-storage.jpg | Small kitchen pantry with wooden shelves stocked with canisters and bowls | https://tinynesthomes.com/tiny-kitchen-designs-3j7fkl9xq4/ |
+| 24 | tiny-kitchens-ideas-2026-36-574x1024.webp | small-kitchen-decor-ideas-organized-tiny-kitchen.jpg | Compact organized tiny kitchen with wicker baskets and glass jars | https://4homeideas.com/tiny-kitchens-ideas-2026-tiny-kitchen-design/ |
+| 25 | creative_small_kitchen_storage_vud13.jpg | small-kitchen-decor-ideas-hanging-rail-shelf.jpg | Small kitchen corner with a hanging shelf, rail and potted plants | https://trendyany.com/hidden-small-space-storage-ideas/ |
+| 26 | Small-Kitchen-Decor-Ideas-That-Maximize-Every-Inch_result-683x1024.jpg | small-kitchen-decor-ideas-pantry-shelves-jars.jpg | Small kitchen pantry shelves with glass jars, dishes and hanging utensils | https://caraudience.com/smart-small-kitchen-decor-ideas/ |
+| 27 | 314f657a13fcbf97ef2163a663251eb7.jpg | small-kitchen-decor-ideas-colorful-spice-shelves.jpg | Small kitchen corner with colorful spice jars and mugs on open shelves | https://au.pinterest.com/darcy5885/unkitchen/ |
+| 28 | d0f8663e052e1e03659856cda983bc93.jpg | small-kitchen-decor-ideas-colorful-tiny-kitchen.jpg | Bright colorful tiny kitchen with patterned tile and open storage | https://i.pinimg.com/originals/d0/f8/66/d0f8663e052e1e03659856cda983bc93.jpg |
+| 29 | 9707c26e2a76e931be0f4236ba723576.jpg | small-kitchen-decor-ideas-drop-leaf-table-baskets.jpg | Small kitchen nook with a drop-leaf table and hanging wire baskets | https://modernehaus.web.app/posts/16-schoene-kleine-kuechen/ |
+| 30 | ny-tinykitchen-list9.jpg | small-kitchen-decor-ideas-rolling-islands-shelves.jpg | Small kitchen with rolling islands, open shelves and hanging utensils | https://www.purewow.com/home/space-saving-tricks-for-your-ridiculously-tiny-kitchen |
