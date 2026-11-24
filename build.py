@@ -83,6 +83,43 @@ def md_inline(text):
     return text
 
 
+def render_tip(line):
+    """One tip box after an idea. Marker lines in article markdown:
+      > TIP:QUICK: <short advice, 1-2 sentences>
+      > TIP:CHECK: item one; item two; item three
+      > TIP:GUIDE: Label: value | Label: value | Label: value
+    Rendered as a pale warm-cream callout box (Nesting Oak-style),
+    emoji-led. Rotation across a 30-idea article: idea n%3==1 QUICK,
+    n%3==2 CHECK, n%3==0 GUIDE, so each article carries 10 of each."""
+    rest = line[len("> TIP:"):].strip()
+    kind, _, content = rest.partition(":")
+    kind = kind.strip().upper()
+    content = content.strip()
+    if kind == "CHECK":
+        items = [x.strip() for x in content.split(";") if x.strip()]
+        lis = "".join(f"<li>{md_inline(x)}</li>" for x in items)
+        return ('<aside class="tip-box tip-check">'
+                '<p class="tip-label">✅ Before you buy</p>'
+                f"<ul>{lis}</ul></aside>")
+    if kind == "GUIDE":
+        cols = []
+        for part in content.split("|"):
+            part = part.strip()
+            if not part:
+                continue
+            label, _, value = part.partition(":")
+            cols.append(
+                f'<div><span class="col-label">{esc(label.strip())}</span>'
+                f'<span class="col-value">{md_inline(value.strip())}</span></div>'
+            )
+        return ('<aside class="tip-box tip-guide">'
+                '<p class="tip-label">Quick guide</p>'
+                f'<div class="tip-guide-cols">{"".join(cols)}</div></aside>')
+    # QUICK (default)
+    return ('<aside class="tip-box tip-quick">'
+            f"<p><strong>💡 Quick Tip:</strong> {md_inline(content)}</p></aside>")
+
+
 def md_to_html(body, meta):
     """Convert an article body to HTML. Design sections are ## headings with one
     image each (in order, from meta['images']); FAQs are ### under the FAQ H2.
@@ -169,6 +206,11 @@ def md_to_html(body, meta):
             ans = " ".join(ans_lines)
             faqs.append((q, ans))
             i = j - 1
+        elif line.startswith("> TIP:"):
+            # Tip box after an idea (see render_tip): flush the idea's
+            # paragraphs first, then emit the callout box.
+            flush()
+            out.append(render_tip(line))
         elif line.strip() == "":
             flush()
         else:

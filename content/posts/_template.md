@@ -20,6 +20,10 @@ images:
 
 ![Cozy winter bedroom with layered blankets, warm fairy lights and a soft reading nook](/images/cozy-winter-bedroom-ideas/cozy-winter-bedroom-fairy-lights.jpg)
 
+> TIP:QUICK: Hang one large piece centered above the bed — scale is the whole trick.
+
+[One tip box per idea, after its paragraphs, rotating by idea number: n%3==1 → TIP:QUICK, n%3==2 → TIP:CHECK, n%3==0 → TIP:GUIDE. CHECK form: `> TIP:CHECK: item one; item two; item three`. GUIDE form: `> TIP:GUIDE: Label: value | Label: value | Label: value` (exactly 3 columns).]
+
 ## 2. [Next design name]
 
 [Description.]

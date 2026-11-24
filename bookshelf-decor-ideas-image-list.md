@@ -1,0 +1,38 @@
+# 30 Bookshelf Decor Ideas for a Collected, Lived-In Look — image provenance list
+
+Keyword: "bookshelf decor ideas" (as briefed by coordinator, Nov 24, 2026).
+All 30 images: real photos, portrait, width >=768px (prefer 1024px), JPEG q~82, <400KB, sharpness verified visually, Nov 24 2026 rework.
+IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.com source pages across the searches for this article).
+
+| Design | Original file | New file | Alt text | Source URL |
+|---|---|---|---|---|
+| 1 Books by color rainbow | cand_01_0.bin | bookshelf-decor-ideas-books-by-color-rainbow.jpg | Bookshelf with books arranged by color in a rainbow gradient | https://www.pinterest.co.kr/pin/decorao--36943659437522523/ |
+| 2 Trailing plants | cand_02_0.bin | bookshelf-decor-ideas-trailing-plants-shelves.jpg | Built-in bookshelf with trailing plants cascading over styled shelves | https://addictedtoorganization.com/book-shelf-decor-ideas/ |
+| 3 Woven baskets lower shelves | cand_03_0.bin | bookshelf-decor-ideas-woven-baskets-lower-shelves.jpg | White built-in bookcase with woven baskets on the lower shelves | https://www.pinterest.com/pin/0083ca07de3dd8eb01ddbc6e1a13cae9/ |
+| 4 Framed art layered over books | cand_04_0.bin | bookshelf-decor-ideas-framed-art-layered-books.jpg | Dark built-in bookshelf with gold-framed art layered over books | https://suite101.com/30-organizing-a-bookshelf-ideas/ |
+| 5 Ceramic vases | retry_05_0.bin | bookshelf-decor-ideas-ceramic-vases-shelves.jpg | Wooden shelves styled with ceramic vases, books and framed art | https://suite101.com/30-secondhand-decor-ideas/ |
+| 6 Stacked books with candle | cand_06_0.bin | bookshelf-decor-ideas-stacked-books-candle.jpg | Stacked books with a lit candle on a styled white bookshelf | https://softandsoulful.com/blog/ideas-for-shelf-display/ |
+| 7 Built-in floor to ceiling | retry_07_0.bin | bookshelf-decor-ideas-built-in-floor-to-ceiling.jpg | Floor-to-ceiling built-in bookcase wall with warm lighting in a living room | https://www.pinterest.com/pin/c3d01a6a098b85dd5ef279bbfb4d7830/ |
+| 8 Floating shelves reading nook | cand_08_0.bin | bookshelf-decor-ideas-floating-shelves-reading-nook.jpg | Floating wooden shelves with books above a reading nook armchair | https://plusmood.com/25-spring-reading-nook-decor-ideas/ |
+| 9 Kids front-facing bookshelf | cand_09_1.bin | bookshelf-decor-ideas-kids-front-facing-bookshelf.jpg | Low white kids bookshelf with picture books displayed facing out | https://www.desertcart.in/products/818533748-book-shelf-for-kids-rooms-nursery-book-shelves-with-open-forward-display-toddler-montessori-bookshelf-for-baby-room-small-children-classroom-books-rack-storage-reading-corner-for-kid-white |
+| 10 Home office shelves | cand_10_0.bin | bookshelf-decor-ideas-home-office-shelves-desk.jpg | Home office with built-in bookshelves above a long desk | https://littlehomegems.com/blog/office-ideas-for-men/ |
+| 11 Vintage books and brass | cand_11_1.bin | bookshelf-decor-ideas-vintage-books-brass.jpg | Vintage leather books and brass objects on shelves against a green wall | https://smallspacepros.com/small-bookshelf-ideas/ |
+| 12 Monochrome white shelves | retry_12_0.bin | bookshelf-decor-ideas-monochrome-white-shelves.jpg | Monochrome white bookshelf with white books and ceramic vases | https://suite101.com/30-aesthetic-bookshelf-styling-apartment-ideas/ |
+| 13 Travel souvenirs | cand_13_0.bin | bookshelf-decor-ideas-travel-souvenirs-shelf.jpg | Wooden bookshelf styled with travel souvenirs, a globe and travel books | https://homesifying.com/bookshelf-decor-ideas/ |
+| 14 Leaning ladder shelf | cand_14_0.bin | bookshelf-decor-ideas-leaning-ladder-shelf.jpg | Leaning ladder shelf with books and plants in a living room corner | https://www.oursecondhandhouse.com/30-inexpensive-living-room-ideas/ |
+| 15 LED-lit shelves | cand_15_0.bin | bookshelf-decor-ideas-led-lit-shelves.jpg | Built-in bookshelf wall with warm LED strip lighting under each shelf | https://nestmood.com/bookshelf-styling-2026-36-modern-boho-and-vintage-ideas-for-every-room-and-aesthetic/ |
+| 16 Kitchen cookbook shelves | cand_16_0.bin | bookshelf-decor-ideas-kitchen-cookbook-shelves.jpg | Kitchen open shelves filled with cookbooks and trailing plants | https://www.everydayinspo.com/clever-ideas-for-open-shelving-in-kitchens/ |
+| 17 Nursery toy shelves | cand_17_1.bin | bookshelf-decor-ideas-nursery-toy-shelves.jpg | Nursery shelves with stuffed animals, books and woven baskets | https://happyhomemakertips.com/dreamy-nursery-room-decor-ideas/ |
+| 18 Dark moody library | cand_18_0.bin | bookshelf-decor-ideas-dark-moody-library.jpg | Dark moody library corner with green walls, black bookshelves and a velvet chair | https://placeideal.com/48-home-library-ideas-2026-from-cozy-corners-to-dream-reading-rooms/ |
+| 19 White Scandinavian shelves | cand_19_0.bin | bookshelf-decor-ideas-white-scandinavian-shelves.jpg | Bright white Scandinavian built-in bookshelves in a living room | https://www.welovehomeblog.com/small-living-room-decorating-ideas/ |
+| 20 Room divider bookshelf | cand_20_0.bin | bookshelf-decor-ideas-room-divider-bookshelf.jpg | Freestanding wooden bookshelf used as a room divider between living and dining areas | https://suite101.com/30-cozy-compartmentalized-home-ideas/ |
+| 21 Arched bookcase | cand_21_1.bin | bookshelf-decor-ideas-arched-bookcase.jpg | Arched bookcase with books, a telescope and a lamp in a reading corner | https://www.thebelacan.com/products/heidi-bookcase-46 |
+| 22 Corner bookshelf nook | retry_22_0.bin | bookshelf-decor-ideas-corner-bookshelf-nook.jpg | Corner bookshelf with warm lighting and books wrapping around the wall | https://mavipic.com/post/2D98A8FA5E34F60E26160D57FF8037736D0E4E2A/Corner-Bookshelves-Ideas |
+| 23 Sculptural pottery | cand_23_0.bin | bookshelf-decor-ideas-sculptural-pottery-shelves.jpg | White built-in shelves styled with sculptural pottery and large ceramic vases | https://suite101.com/30-organizing-a-bookshelf-ideas/ |
+| 24 Autumn pumpkin shelves | cand_24_1.bin | bookshelf-decor-ideas-autumn-pumpkin-shelves.jpg | Bookshelf decorated for autumn with pumpkins, fall leaves and candles | https://www.pinterest.jp/graciesmom07/ |
+| 25 Minimalist sparse shelves | r25_2.bin | bookshelf-decor-ideas-minimalist-sparse-shelves.jpg | Minimalist white bookcase with a few books and plenty of empty space | https://www.saits4u.org/OnlineStore-zypw |
+| 26 Maximalist colorful shelves | cand_26_0.bin | bookshelf-decor-ideas-maximalist-colorful-shelves.jpg | Maximalist bookshelf wall with colorful books and eclectic objects | https://suite101.com/door-trim-ideas/ |
+| 27 Reading corner armchair | cand_27_0.bin | bookshelf-decor-ideas-reading-corner-armchair.jpg | Cozy reading corner with an armchair beside a tall bookshelf | https://casolia.com/ideas-for-a-calming-room/ |
+| 28 Glass-door bookcase | cand_28_0.bin | bookshelf-decor-ideas-glass-door-bookcase.jpg | Modern glass-door bookcase with LED lighting displaying books and objects | https://www.mathishome.com/product/f99196ec-19c6-461b-a2d1-eeadb3527eee.html |
+| 29 Entryway console books | cand_29_0.bin | bookshelf-decor-ideas-entryway-console-books.jpg | Entryway console table with books and woven baskets under a round mirror | https://suite101.com/30-front-hall-console-ideas/ |
+| 30 Crate reclaimed wood shelf | cand_30_0.bin | bookshelf-decor-ideas-crate-reclaimed-wood-shelf.jpg | Rustic bookshelf made from reclaimed wooden crates with books and plants | https://diysprout.com/blog/what-to-do-with-wooden-crates-ideas/ |

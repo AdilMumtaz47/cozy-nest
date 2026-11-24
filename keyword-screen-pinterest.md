@@ -130,3 +130,46 @@ Screened for the proposed article #21 (the exact topic Adil linked from Nesting 
 Method note: for phrases 1 and 3, the exact phrase briefly appeared in the first autocomplete DOM listing immediately after typing, but the settled visible dropdown contained only longer extensions — recorded as No on the visible dropdown. Verdicts rest on listicle counts either way.
 
 **Conclusion: all three REJECT — no Neutral Living Room article.** The 20-article buffer is now exhausted: all 27 winnable phrases from Nov 23 + top-up are either built (20 articles) or near-duplicate reserves under Section 3.4 (boho living room ideas, boho bedroom ideas, christmas dining room, small kitchen, neutral bedroom ideas, modern farmhouse decor ideas, farmhouse kitchen decor ideas, cozy christmas decor ideas, winter home decor ideas — reserves, not second articles). Article #21 needs a FRESH Pinterest screen of new seed topics.
+
+## Fresh screen attempt — Nov 24, 2026 (evening, FAILED, no verdicts)
+
+A fresh screen of 20 new seed phrases was attempted in the research browser session (20:46–20:59 PKT): cozy living room, winter living room, christmas entryway, winter bedroom, rustic bedroom, farmhouse bedroom, boho kitchen, cottage living room, vintage living room, minimalist bedroom, scandinavian bedroom, christmas bathroom, entryway decor, small living room, cozy bedroom, farmhouse bathroom, rustic living room, christmas hallway, winter kitchen, boho bathroom.
+
+**Result: NOT performed — zero phrases screened, zero verdicts.** Pinterest loaded signed out in that browser ("You are signed out", login wall on focusing the search box, no close control on search pages) and the signed-out grid exposes no pin titles (every alt text is just "Pin"), so neither the autocomplete check nor the listicle count could be done without guessing. Nothing was posted, pinned, saved or followed, and no sign-in was attempted. One visible pin image read "21 Stunning Cozy Living Room Ideas for Timeless Warmth" — that is NOT a screen result and must not be treated as one.
+
+**What is needed:** run the same 20-phrase screen in the browser/profile where the @cozynestbysayed Pinterest session actually exists (the main-chat browser — the Nov 23 screen and the Nov 24 evening Neutral Living Room screen both ran there successfully). Do NOT retry it in the signed-out research session.
+
+## Fresh screen #2 — Nov 24, 2026 (evening, SUCCESS)
+
+20 new seed phrases screened in the main-chat browser, signed in as Cozy Nest (@cozynestbysayed), search-only, 20:50–21:05 PKT. Method as above (settled autocomplete dropdown; listicles counted in top 12 by visible pin heading — a number appearing only inside the pin image was not counted).
+
+| Phrase | Autocomplete exact? | Listicles in top 12 | Verdict |
+|---|---|---|---|
+| entryway decor ideas | No | 8 | REJECT — 7+ listicles |
+| hallway decor ideas | No | 4 | WINNABLE |
+| laundry room decor ideas | No | 7 | REJECT — 7+ listicles |
+| home office decor ideas | No | 7 | REJECT — 7+ listicles |
+| bathroom decor ideas | No | 5 | WINNABLE |
+| kids room decor ideas | No | 7 | REJECT — 7+ listicles |
+| nursery decor ideas | No | 10 | REJECT — 7+ listicles |
+| patio decor ideas | No | 6 | WINNABLE |
+| balcony decor ideas | Yes | 8 | REJECT — saturated + 7+ listicles |
+| mudroom ideas | Yes | 10 | REJECT — saturated + 7+ listicles |
+| bookshelf decor ideas | No | 6 | WINNABLE |
+| fireplace decor ideas | No | 9 | REJECT — 7+ listicles |
+| dining room decor ideas | Yes | 11 | REJECT — saturated + 7+ listicles |
+| kitchen island decor ideas | Yes | 3 | REJECT — saturated (exact phrase in autocomplete) despite low listicle count |
+| pantry organization ideas | Yes | 5 | REJECT — saturated |
+| reading nook ideas | No | 10 | REJECT — 7+ listicles |
+| gallery wall ideas | Yes | 4 | REJECT — saturated |
+| spring home decor ideas | Yes | 6 | REJECT — saturated |
+| valentines day decor ideas | Yes | 8 | REJECT — saturated + 7+ listicles |
+| fall home decor ideas | Yes | 8 | REJECT — saturated + 7+ listicles |
+
+**STRONG: none.** **WINNABLE (4): hallway decor ideas (4), bathroom decor ideas (5), patio decor ideas (6), bookshelf decor ideas (6).** REJECTED (16): the rest above. Nine rejected on the exact-phrase (saturated) rule alone or in combination: balcony, mudroom, dining room, kitchen island, pantry organization, gallery wall, spring, valentines day, fall.
+
+Method note: for the exact-phrase calls, the exact option was sometimes in the settled autocomplete listbox just below the visible top 10 of the dropdown (balcony, kitchen island, pantry, spring, fall) — counted as Yes because it is in the settled list. Two dropdowns (bookshelf, fireplace) first showed stale/generic suggestions right after typing; the settled dropdown was re-observed before judging. No search glitched, no phrase needed a retry.
+
+**Autocomplete discovery candidates for a next screen** (longer extensions, all broad room/season/use-case clusters): entryway small space / with shoe storage / with mirror / with bench / for apartments; hallway narrow / upstairs / entrance / wallpaper; laundry room farmhouse style / above cabinets / small space; home office for women / on a budget / for two / aesthetic; bathroom apartment / small spaces / for women / luxury; kids room for boys / for girls; nursery ideas girl / boy (note: "nursery decor ideas" dropdown drifted into nurse/nursing terms — wrong intent); patio on a budget / for backyard / with plants / with candles; balcony for small spaces / with swing / with plants / indian / diwali; mudroom entryway / mudroom design ideas / mudroom decor; bookshelf for living rooms / for bedrooms / with collectibles / with plants / for home offices; fireplace living rooms / with tv / christmas / fall / farmhouse; dining room on a budget / apartment / round table / modern luxury / black and gold; kitchen island modern / counter tops / christmas / with sink / farmhouse / fall; pantry walk in / shelves / closet / small space / diy / on a budget; reading nook for adults / for small spaces / under stairs / corner / with cozy seating; gallery wall living room / layout / bedroom / family photos / hallway / with artwork / eclectic / modern; spring living rooms / apartment / 2026 / kitchen / diy / mantle / for a fresh look / dining room / blue; valentines day diy / dollar tree / for the home / for school / for office / for kids; fall living rooms / diy / outdoor / cozy / kitchen / 2026 / apartment / bedroom. Strongest next-screen candidates: the longer extensions of the four WINNABLE phrases (hallway narrow/upstairs, bathroom apartment/small spaces, patio on a budget/for backyard, bookshelf for living rooms/for bedrooms) and near-misses kitchen island modern/fall and pantry walk in/small space.
+
+**Buffer status:** 4 new winnable topics — article #21 candidates, awaiting Adil's pick. Per-idea tip boxes (decided Nov 24) apply to these new articles.
