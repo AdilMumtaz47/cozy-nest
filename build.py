@@ -14,6 +14,8 @@ SITE_NAME = "Cozy Nest"
 SITE_URL = "https://cozynesthomeideas.com"
 SITE_DESC = "Home decor inspiration — room ideas, seasonal looks and cozy corners, one list at a time."
 LOGO_URL = "/images/logo.jpg"
+# Pinterest domain verification (website claim, Nov 25, 2026) — must stay in <head> on every page.
+PINTEREST_VERIFY = '<meta name="p:domain_verify" content="b3a9c8b49732f06d4d7bd127982c0c0c">'
 
 
 def cat_slug(category):
@@ -238,6 +240,7 @@ def page_shell(title, meta_desc, body_html, extra_head="", nav_cats=None, og_ima
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+{PINTEREST_VERIFY}
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(meta_desc)}">
 <meta property="og:title" content="{esc(title)}">
