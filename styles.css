@@ -39,7 +39,31 @@ main { max-width: 1220px; margin: 0 auto; padding: 0 20px 48px; }
 .nav-links { flex: 1; display: flex; justify-content: center; flex-wrap: wrap; }
 .nav-links a { color: #fff; text-decoration: none; padding: 13px 16px; font-size: 15px; font-weight: 600; }
 .nav-links a:hover { background: rgba(255, 255, 255, .12); }
-.nav-search { display: flex; align-items: center; padding: 0 4px; flex-shrink: 0; }
+.nav-search { display: flex; align-items: center; padding: 6px 4px; flex-shrink: 0; background: none; border: none; cursor: pointer; color: #fff; }
+.nav-search:hover { background: rgba(255, 255, 255, .12); }
+.nav-search svg { display: block; }
+
+/* Search overlay: the nav magnifier opens a panel over the page with an
+   input on top and results below (title + category, idea matches link
+   straight to that idea). Plain site palette, no external assets. */
+.search-overlay { position: fixed; inset: 0; z-index: 50; background: rgba(51, 51, 51, .55); padding: 80px 16px 16px; overflow-y: auto; }
+.search-overlay[hidden] { display: none; }
+.search-panel { max-width: 640px; margin: 0 auto; background: #fff; border-radius: 8px; box-shadow: 0 18px 48px rgba(0, 0, 0, .28); overflow: hidden; }
+.search-bar { display: flex; align-items: center; gap: 10px; padding: 14px 16px; border-bottom: 1px solid var(--line); }
+.search-bar svg { flex-shrink: 0; color: var(--olive); }
+.search-bar input { flex: 1; min-width: 0; border: none; outline: none; font-size: 18px; font-family: inherit; color: var(--ink); background: transparent; }
+.search-close { background: none; border: none; cursor: pointer; font-size: 28px; line-height: 1; color: var(--muted); padding: 0 4px; }
+.search-close:hover { color: var(--ink); }
+.search-hint { margin: 0; padding: 14px 18px; color: var(--muted); font-size: 15px; }
+.search-results { max-height: 60vh; overflow-y: auto; }
+.search-result { display: block; padding: 12px 18px; text-decoration: none; border-top: 1px solid var(--line); }
+.search-result:first-child { border-top: none; }
+.search-result:hover, .search-result:focus { background: var(--header-bg); outline: none; }
+.search-result-title { display: block; font-family: Georgia, 'Times New Roman', serif; font-size: 18px; font-weight: bold; color: var(--olive); line-height: 1.35; }
+.search-result-cat { display: block; font-size: 13px; letter-spacing: 1px; text-transform: uppercase; color: var(--faint); margin-top: 2px; }
+.search-result-idea { display: block; font-size: 14px; color: var(--muted); margin-top: 2px; }
+.search-empty { margin: 0; padding: 18px; color: var(--muted); font-size: 16px; }
+@media (max-width: 640px) { .search-overlay { padding-top: 40px; } }
 
 /* Homepage hero */
 .hero { text-align: center; padding: 44px 20px 12px; }

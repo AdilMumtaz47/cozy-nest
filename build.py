@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Static-site builder for the Pinterest home-decor blog (Cozy Nest)."""
 import html
+import json
 import os
 import re
 import sys
@@ -252,7 +253,7 @@ def page_shell(title, meta_desc, body_html, extra_head="", nav_cats=None, og_ima
 <span><span class="brand-name">{esc(SITE_NAME)}</span>
 <span class="brand-tag">HOME DECOR IDEAS</span></span></a>
 </div><nav class="main-nav"><div class="nav-inner"><div class="nav-links">{nav_links}</div>
-<span class="nav-search" title="Search (coming soon)"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg></span>
+<button class="nav-search" type="button" id="search-open" aria-label="Search" aria-haspopup="dialog" title="Search"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg></button>
 </div></nav></header>
 <main>
 {body_html}
@@ -268,6 +269,18 @@ def page_shell(title, meta_desc, body_html, extra_head="", nav_cats=None, og_ima
 </div>
 <div class="footer-note">{esc(SITE_DESC)} Every list is made to be saved and actually used at home.</div>
 <div class="footer-bottom">&copy; {year} {esc(SITE_NAME)} — home decor inspiration, one list at a time.</div></footer>
+<div class="search-overlay" id="search-overlay" hidden>
+<div class="search-panel" role="dialog" aria-modal="true" aria-label="Search Cozy Nest">
+<div class="search-bar">
+<svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg>
+<input id="search-input" type="search" placeholder="Search ideas, rooms, styles…" aria-label="Search ideas" autocomplete="off">
+<button type="button" class="search-close" id="search-close" aria-label="Close search">&times;</button>
+</div>
+<p class="search-hint" id="search-hint">Search every list — try “bathroom”, “bookshelf” or “fall”.</p>
+<div class="search-results" id="search-results"></div>
+</div>
+</div>
+<script src="/search.js" defer></script>
 </body>
 </html>
 """
@@ -558,6 +571,28 @@ def build_categories(articles):
     return [cat_slug(c) for c in categories_of(articles)]
 
 
+def build_search_index(articles):
+    """Lean client-side search index, rebuilt on every build so new
+    articles become searchable automatically. One entry per article:
+    title, url, category, and the 30 idea headings (from the TOC the
+    builder already collects). No body text, no image URLs — keeps the
+    file small for slow mobile connections."""
+    entries = []
+    for a in articles:
+        m = a["meta"]
+        ideas = [label for _, label in a.get("toc", [])]
+        entries.append({
+            "t": m["title"],
+            "u": f"/posts/{m['slug']}/",
+            "c": m.get("category", ""),
+            "i": ideas,
+        })
+    with open(os.path.join(ROOT, "search-index.json"), "w", encoding="utf-8") as f:
+        json.dump(entries, f, ensure_ascii=False, separators=(",", ":"))
+    print(f"search index: {len(entries)} article(s)")
+    return entries
+
+
 def build_sitemap(articles, cat_slugs=None):
     urls = [SITE_URL + "/"]
     for s in (cat_slugs or []):
@@ -582,6 +617,7 @@ def main():
     build_home(articles)
     cat_slugs = build_categories(articles)
     build_sitemap(articles, cat_slugs)
+    build_search_index(articles)
     print(f"done: {len(articles)} article(s), {len(cat_slugs)} categor(ies), homepage + sitemap written.")
 
 
