@@ -3,7 +3,7 @@ title: "30 Bathroom Decor Ideas for Small Spaces"
 slug: "bathroom-decor-ideas-small-spaces"
 description: "30 bathroom decor ideas for small spaces — floating vanities, oversized mirrors, slim storage and clever layouts that make a tiny bathroom feel bigger without a renovation."
 keyword: "bathroom decor ideas small spaces"
-category: "Home Decor"
+category: "Bathroom Decor"
 date: "2026-11-25"
 images:
   - file: "bathroom-decor-ideas-small-spaces-floating-vanity-frees-floor.jpg"

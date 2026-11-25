@@ -1,0 +1,40 @@
+# 30 Bookshelf Decor Ideas for Bedrooms for a Collected, Personal Retreat — image provenance list
+
+Keyword: "bookshelf decor ideas for bedrooms" (screen #3, Nov 25, 2026 — 1 STRONG, 3 listicles).
+All 30 images: real photos, portrait, JPEG q~82, <400KB, sharpness verified visually (full frame + bottom 35% strip), Nov 25 2026.
+IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.com source pages across the searches for this article).
+
+Widths: 19 photos >=768px. 11 photos below 768px at source (noted below) — sources topped out below 768px, not upscaled: #5 720px, #8 747px, #9 736px, #17 720px, #19 683px, #20 720px, #22 633px, #25 704px, #27 689px, #29 720px, #30 720px.
+
+| Design | Original file | New file | Alt text | Source URL |
+|---|---|---|---|---|
+| 1 Floating shelves above the bed | cand/01.bin | bookshelf-decor-ideas-for-bedrooms-floating-shelves-above-bed.jpg | Floating oak shelves above a bed styled with books, plants and framed art | https://www.1energysystems.com/floating-book-shelves-ideas/ |
+| 2 Bookshelf headboard | cand/02.bin | bookshelf-decor-ideas-for-bedrooms-bookshelf-headboard.jpg | Built-in wooden headboard that doubles as a bookshelf filled with books | https://lightandlayer.com/blog/bedroom-bookshelf-designs/ |
+| 3 Bookcase as nightstand | cand/03.bin | bookshelf-decor-ideas-for-bedrooms-bookcase-nightstand.jpg | Small white bookcase used as a nightstand beside a bed | https://casolia.com/nightstand-ideas/ |
+| 4 Bedside stack of books | cand/04.bin | bookshelf-decor-ideas-for-bedrooms-bedside-book-stack-lamp.jpg | Stacked vintage books on a bedside table lit by a warm table lamp | https://www.hearthblossom.blog/2025/09/5-must-read-witchy-books-for-every.html |
+| 5 Window seat with bookshelves | cand/05.bin | bookshelf-decor-ideas-for-bedrooms-window-seat-bookcase.jpg | Bright bedroom reading nook with a window seat between bookshelves | https://www.lostateminor.com/30-bedroom-book-displays/ |
+| 6 Built-in shelves flanking the bed | cand/06.bin | bookshelf-decor-ideas-for-bedrooms-built-in-shelves-flanking-bed.jpg | Cozy bedroom with extensive built-in wooden bookshelves along one wall | https://suite101.com/30-guest-bedroom-ideas/ |
+| 7 Tall narrow bookcase | cand/07.bin | bookshelf-decor-ideas-for-bedrooms-tall-narrow-bookcase.jpg | Tall light wood bookcase filled with books beside a bed in a bright bedroom | https://furnishinginsights.com/bedroom-bookshelves-ideas/ |
+| 8 Kids' bedroom book nook | cand/08.bin | bookshelf-decor-ideas-for-bedrooms-kids-book-nook.jpg | Cozy kids reading nook with wall shelves displaying colorful picture books | https://i.pinimg.com/originals/7d/5a/3e/7d5a3e78c15431f4b87e9ca7aa8fd672.jpg |
+| 9 Teen bookcase with fairy lights | cand/09.bin | bookshelf-decor-ideas-for-bedrooms-teen-bookcase-fairy-lights.jpg | Bedroom corner with a tall white bookshelf decorated with fairy lights and ivy | https://www.pinterest.com/pin/3588874698280653/ |
+| 10 Books on the dresser top | cand/10.bin | bookshelf-decor-ideas-for-bedrooms-dresser-top-books.jpg | Bedroom dresser top styled with stacked books, a tray and a lamp | https://modernandmellow.com/blog/bedroom-dresser-decor/ |
+| 11 Guest bedroom bookcase | cand/11.bin | bookshelf-decor-ideas-for-bedrooms-guest-bedroom-bookcase.jpg | Guest bedroom corner with a tall white bookcase packed with books | https://casolia.com/guest-bedroom-ideas/ |
+| 12 Bookshelf beside the wardrobe | cand/12.bin | bookshelf-decor-ideas-for-bedrooms-bookshelf-beside-wardrobe.jpg | Bedroom with a wardrobe beside a built-in bookshelf filled with books | https://protosphotos.github.io/bedroom-alcove-wardrobe-ideas/ |
+| 13 Under-bed book crates on wheels | cand/13.bin | bookshelf-decor-ideas-for-bedrooms-under-bed-book-crates.jpg | Wooden crates on wheels filled with books stored under a bed | https://www.pinterest.com/ideas/creative-under-bed-storage/895752636510/ |
+| 14 Picture ledges above the bed | cand/14.bin | bookshelf-decor-ideas-for-bedrooms-picture-ledges-above-bed.jpg | Bedroom with wooden picture ledges above the bed displaying books and decor | https://www.oursecondhandhouse.com/30-small-bedroom-space-storage-ideas/ |
+| 15 Walk-in closet turned library | cand/15.bin | bookshelf-decor-ideas-for-bedrooms-closet-library.jpg | Walk-in closet converted into a cozy library with floor-to-ceiling bookshelves | https://casolia.com/closet-library-ideas/ |
+| 16 Bedroom desk with shelves above | cand/16.bin | bookshelf-decor-ideas-for-bedrooms-bedroom-desk-shelves.jpg | Bedroom study corner with built-in shelving and a desk under the shelves | https://littlehomegems.com/blog/shelving-bedroom-ideas/ |
+| 17 Neutral cream-and-wood shelves | cand/17.bin | bookshelf-decor-ideas-for-bedrooms-neutral-beige-bookcase.jpg | Calm neutral bedroom with a tall beige built-in bookshelf | https://www.lostateminor.com/30-beige-bedroom-furniture-ideas/ |
+| 18 Dark moody bedroom library | cand/18.bin | bookshelf-decor-ideas-for-bedrooms-dark-moody-bedroom-library.jpg | Dark moody bedroom with floor-to-ceiling bookshelves and warm lighting | https://materialsix.com/moody-bedroom-ideas/ |
+| 19 Boho bookshelf with macrame | cand/19.bin | bookshelf-decor-ideas-for-bedrooms-boho-bedroom-bookshelf.jpg | Boho bedroom with a tall bookshelf draped in vines beside a bed | https://taleofhome.com/fr/chambres-bohemes/ |
+| 20 Rustic wooden bookcase | cand/20.bin | bookshelf-decor-ideas-for-bedrooms-rustic-wood-bookcase.jpg | Rustic farmhouse bedroom with a tall reclaimed-wood bookshelf beside the bed | https://www.lostateminor.com/30-bedroom-bookshelf-dividers/ |
+| 21 Woven baskets for blankets | cand/21.bin | bookshelf-decor-ideas-for-bedrooms-baskets-blankets-shelves.jpg | Wooden shelving unit with woven baskets filled with blankets beside a bed | https://chiclivingclub.com/bedroom-shelf-styling/ |
+| 22 Bedtime book basket | cand/22.bin | bookshelf-decor-ideas-for-bedrooms-bedtime-book-basket.jpg | Wicker basket overflowing with colorful children's books beside a bed | https://www.pinterest.info/pin/91620173666859828/ |
+| 23 Shared bedroom bookshelf | cand/23.bin | bookshelf-decor-ideas-for-bedrooms-shared-bedroom-bookshelf.jpg | Shared bedroom with two twin beds flanking a tall white bookshelf | https://suite101.com/30-shared-kids-room-ideas/ |
+| 24 Vintage bookcase with brass lamp | cand/24.bin | bookshelf-decor-ideas-for-bedrooms-vintage-bookcase-brass-lamp.jpg | Sunlit vintage bedroom with books, a brass bedside lamp and warm wood | https://suite101.com/30-light-academia-bedroom-ideas/ |
+| 25 Minimalist bedroom shelf | cand/25.bin | bookshelf-decor-ideas-for-bedrooms-minimalist-bedroom-shelves.jpg | Minimalist bedroom with built-in wooden shelving above a neatly made bed | https://minoradesign.com/bloxburg-bedroom-ideas-modern/ |
+| 26 Shelves with framed photos and books | cand/26.bin | bookshelf-decor-ideas-for-bedrooms-shelves-framed-photos-books.jpg | Bedroom wall with white floating shelves displaying books, trophies and framed photos | https://lightandlayer.com/blog/9-year-bedroom/ |
+| 27 Candles and warm light | cand/27.bin | bookshelf-decor-ideas-for-bedrooms-bedroom-shelves-evening-light.jpg | Warmly lit bedroom at dusk with bookshelves glowing in evening light | https://jp.pinterest.com/pin/298433912829606315/ |
+| 28 Bed nook wrapped in bookshelves | cand/28.bin | bookshelf-decor-ideas-for-bedrooms-bed-nook-bookshelves.jpg | Cozy bedroom with a bed nestled between floor-to-ceiling wooden bookshelves | https://suite101.com/30-bed-nook-alcove-ideas/ |
+| 29 Loft bed bookshelf wall | cand/29.bin | bookshelf-decor-ideas-for-bedrooms-loft-bed-bookshelf-wall.jpg | Loft bedroom with an elevated bed built into a floor-to-ceiling bookshelf wall | https://www.lostateminor.com/30-bedroom-loft-bed-ideas/ |
+| 30 Bookshelves framing a window | cand/30.bin | bookshelf-decor-ideas-for-bedrooms-bookshelves-around-window.jpg | Bright bedroom with floor-to-ceiling bookshelves built around a large window | https://www.lostateminor.com/30-bedroom-built-in-storage-ideas/ |

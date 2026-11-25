@@ -3,7 +3,7 @@ title: "30 Hallway Decor Ideas for a Warm First Impression"
 slug: "hallway-decor-ideas"
 description: "30 hallway decor ideas for a warm first impression — console tables, mirrors, runners, gallery walls and clever storage that turn a plain passage into a welcoming entrance."
 keyword: "hallway decor ideas"
-category: "Home Decor"
+category: "Hallway Decor"
 date: "2026-11-24"
 images:
   - file: "hallway-decor-ideas-console-table-mirror-wood.jpg"

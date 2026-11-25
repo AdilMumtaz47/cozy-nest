@@ -3,7 +3,7 @@ title: "30 Bathroom Decor Ideas for Apartments"
 slug: "bathroom-decor-ideas-apartment"
 description: "30 bathroom decor ideas for apartments — renter-friendly upgrades, no-drill storage, peel-and-stick tile and clever small-space tricks that make a rental bathroom feel like home."
 keyword: "bathroom decor ideas apartment"
-category: "Home Decor"
+category: "Bathroom Decor"
 date: "2026-11-25"
 images:
   - file: "bathroom-decor-ideas-apartment-peel-stick-tile-backsplash-vanity.jpg"

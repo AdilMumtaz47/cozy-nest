@@ -3,7 +3,7 @@ title: "30 Bathroom Decor Ideas for a Calm, Spa-Like Retreat"
 slug: "bathroom-decor-ideas"
 description: "30 bathroom decor ideas for a calm, spa-like retreat — soft towels, warm wood, plants, mirrors and clever storage that make a small bathroom feel like a sanctuary."
 keyword: "bathroom decor ideas"
-category: "Home Decor"
+category: "Bathroom Decor"
 date: "2026-11-24"
 images:
   - file: "bathroom-decor-ideas-rolled-white-towels-spa.jpg"
