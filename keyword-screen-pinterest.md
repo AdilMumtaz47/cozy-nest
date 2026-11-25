@@ -173,3 +173,40 @@ Method note: for the exact-phrase calls, the exact option was sometimes in the s
 **Autocomplete discovery candidates for a next screen** (longer extensions, all broad room/season/use-case clusters): entryway small space / with shoe storage / with mirror / with bench / for apartments; hallway narrow / upstairs / entrance / wallpaper; laundry room farmhouse style / above cabinets / small space; home office for women / on a budget / for two / aesthetic; bathroom apartment / small spaces / for women / luxury; kids room for boys / for girls; nursery ideas girl / boy (note: "nursery decor ideas" dropdown drifted into nurse/nursing terms — wrong intent); patio on a budget / for backyard / with plants / with candles; balcony for small spaces / with swing / with plants / indian / diwali; mudroom entryway / mudroom design ideas / mudroom decor; bookshelf for living rooms / for bedrooms / with collectibles / with plants / for home offices; fireplace living rooms / with tv / christmas / fall / farmhouse; dining room on a budget / apartment / round table / modern luxury / black and gold; kitchen island modern / counter tops / christmas / with sink / farmhouse / fall; pantry walk in / shelves / closet / small space / diy / on a budget; reading nook for adults / for small spaces / under stairs / corner / with cozy seating; gallery wall living room / layout / bedroom / family photos / hallway / with artwork / eclectic / modern; spring living rooms / apartment / 2026 / kitchen / diy / mantle / for a fresh look / dining room / blue; valentines day diy / dollar tree / for the home / for school / for office / for kids; fall living rooms / diy / outdoor / cozy / kitchen / 2026 / apartment / bedroom. Strongest next-screen candidates: the longer extensions of the four WINNABLE phrases (hallway narrow/upstairs, bathroom apartment/small spaces, patio on a budget/for backyard, bookshelf for living rooms/for bedrooms) and near-misses kitchen island modern/fall and pantry walk in/small space.
 
 **Buffer status:** 4 new winnable topics — article #21 candidates, awaiting Adil's pick. Per-idea tip boxes (decided Nov 24) apply to these new articles.
+
+## Fresh screen #3 — Nov 25, 2026 (midday)
+
+20 longer autocomplete extensions from screen #2's discoveries, screened in the main-chat browser, signed in as Cozy Nest (@cozynestbysayed), search-only, 13:14–13:28 PKT. Method as above (settled autocomplete dropdown; listicles counted in top 12 by visible pin heading).
+
+| Phrase | Autocomplete exact? | Listicles in top 12 | Verdict |
+|---|---|---|---|
+| hallway decor ideas narrow | No | 7 | REJECT — 7+ listicles |
+| hallway decor ideas upstairs | No | 8 | REJECT — 7+ listicles |
+| bathroom decor ideas apartment | No | 5 | WINNABLE |
+| bathroom decor ideas small spaces | No | 6 | WINNABLE |
+| patio decor ideas on a budget | No | 7 | REJECT — 7+ listicles |
+| patio decor ideas for backyard | No | 8 | REJECT — 7+ listicles |
+| bookshelf decor ideas for living rooms | No* | 8 | REJECT — 7+ listicles |
+| bookshelf decor ideas for bedrooms | No* | 3 | STRONG |
+| kitchen island decor ideas modern | No | 9 | REJECT — 7+ listicles |
+| kitchen island decor ideas fall | No | 8 | REJECT — 7+ listicles |
+| pantry organization ideas walk in | No | 9 | REJECT — 7+ listicles |
+| pantry organization ideas small space | No | 10 | REJECT — 7+ listicles |
+| entryway decor ideas small space | No | 8 | REJECT — 7+ listicles |
+| laundry room decor ideas farmhouse style | No* | 8 | REJECT — 7+ listicles |
+| home office decor ideas for women | No | 9 | REJECT — 7+ listicles |
+| gallery wall ideas living room | No | 6 | WINNABLE |
+| spring home decor ideas living rooms | No | 9 | REJECT — 7+ listicles |
+| valentines day decor ideas diy | No | 9 | REJECT — 7+ listicles |
+| fall home decor ideas living rooms | No | 6 | WINNABLE |
+| reading nook ideas for adults | No | 9 | REJECT — 7+ listicles |
+
+**STRONG (1): bookshelf decor ideas for bedrooms (3). WINNABLE (4): bathroom decor ideas apartment (5), bathroom decor ideas small spaces (6), gallery wall ideas living room (6), fall home decor ideas living rooms (6).** REJECTED (15): all on listicle count (7+); no phrase was rejected on saturation — no exact phrase appeared in autocomplete anywhere this round.
+
+*Autocomplete glitch: for bookshelf living rooms, bookshelf bedrooms and laundry farmhouse style, the dropdown rendered blank/empty on the first attempt and again after one retry each, so no suggestion was visible and no exact phrase could be shown. Listicle counts were obtained normally. The STRONG verdict for bookshelf bedrooms therefore rests on its 3-listicle count; its "exact phrase absent" call is unconfirmed — re-check before writing.
+
+**Fit note:** all 20 are broad room/season/use-case clusters; rejections are driven by listicle saturation, not intent. **Near-duplicate caution:** the two bathroom passers are narrower angles of the bathroom decor ideas article written Nov 24 (article #22) — apartment and small-spaces variants of the same room. Present to Adil as his call whether they count as distinct articles.
+
+**Discovery candidates for a next screen** (longer autocomplete extensions seen in the settled dropdowns): hallway wall decor ideas narrow paintings & prints / hallway decor ideas narrow farmhouse / upstairs hallway landing decor ideas / narrow hallway decor ideas upstairs; bathroom apartment friendly / bathroom apartment luxury / bathroom small spaces blue / green / pink; patio on a budget diy / on a budget covered / backyard concrete patio decor ideas on a budget / patio for small backyard; kitchen island modern farmhouse / fall modern / fall farmhouse / fall decorative trays; pantry walk in modern / walk in cheap / small space dollar tree / small space with wire shelves; entryway for small spaces modern / entryway table decor ideas for small spaces; home office for women glam / modern / classy; gallery wall living room modern / around tv / boho; spring living rooms cozy / fall living rooms cozy / neutral / bohemian; valentines day diy for kids / for home; reading nook for adults in bedroom / window / in closet / cozy. (No candidates for bookshelf living rooms, bookshelf bedrooms, laundry farmhouse style — blank dropdowns.)
+
+**Buffer status:** 5 new passers (1 STRONG + 4 WINNABLE) — article #25+ candidates, awaiting Adil's pick. The 24-article buffer covers the publishing ramp through ~Dec 10, so these are ahead of need.
