@@ -8,13 +8,13 @@ Widths: 25 photos >=768px. 5 photos below 768px at source (noted below) — sour
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 Color-Drenched Maximalist Living Room | cand/007.bin | funhaus-color-drenched-maximalist-living-room.jpg | Color-drenched maximalist living room with bold patterns, bright colors and layered textures | https://courtneysworld.co/home-decor/eclectic-maximalism/ |
+| 1 Rainbow Kitchen Cabinets | cand/040.bin | funhaus-rainbow-kitchen-cabinets.jpg | Rainbow kitchen cabinets in bright painted colors | https://www.1energysystems.com/colorful-minimalist-kitchen-ideas/ |
 | 2 Pattern Mixing, Turned Up | cand/029.bin | funhaus-pattern-mixing.jpg | Living room mixing bold patterns with clashing prints, stripes and florals | https://www.peerspace.com/pages/listings/62d8a00a6d0e5e000e531637 |
 | 3 A Puffy Bubble Sofa | cand/022.bin | funhaus-puffy-bubble-sofa.jpg | Puffy bubble sofa in a bright playful living room | https://www.pinterest.at/ideas/multi-colour-room/933412652357/ |
 | 4 A Checkerboard Floor | cand/031.bin | funhaus-checkerboard-floor.jpg | Checkerboard floor in black and white in a colorful living room | https://www.ibtravel.co.kr/travel/12417/ |
 | 5 A Rainbow Mural Wall | cand/013.bin | funhaus-rainbow-mural-wall.jpg | Rainbow mural wall painted across a bright living room | https://www.artofit.org/image-gallery/101894010311343111/rainbow-house-tour-big-bit-margate/ |
 | 6 Bold Floral Wallpaper | cand/036.bin | funhaus-bold-floral-wallpaper.jpg | Bold floral wallpaper in a colorful maximalist room | https://www.tapetenagentur.de/media/db/a3/57/1700144378/01_51.jpg |
-| 7 Rainbow Kitchen Cabinets | cand/040.bin | funhaus-rainbow-kitchen-cabinets.jpg | Rainbow kitchen cabinets in bright painted colors | https://www.1energysystems.com/colorful-minimalist-kitchen-ideas/ |
+| 7 Color-Drenched Maximalist Living Room | cand/007.bin | funhaus-color-drenched-maximalist-living-room.jpg | Color-drenched maximalist living room with bold patterns, bright colors and layered textures | https://courtneysworld.co/home-decor/eclectic-maximalism/ |
 | 8 A Wavy Mirror | cand/051.bin | funhaus-wavy-mirror.jpg | Wavy mirror with a playful curved frame on a colorful wall | https://i.pinimg.com/originals/54/31/c7/5431c78fb734de6fe20978292b57a654.jpg |
 | 9 A Color-Blocked Tile Bathroom | cand/058.bin | funhaus-color-blocked-tile-bathroom.jpg | Color-blocked tile bathroom in bright pink, blue and yellow | https://lightandlayer.com/blog/bathroom-crazy-ideas/ |
 | 10 Mismatched Dining Chairs | cand/067.bin | funhaus-mismatched-dining-chairs.jpg | Mismatched dining chairs in different colors around a table | https://littlehomegems.com/blog/decor-quirky-ideas/ |

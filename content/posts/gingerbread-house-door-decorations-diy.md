@@ -6,8 +6,8 @@ keyword: "gingerbread house door decorations diy"
 category: "Outdoor Decor"
 date: "2026-11-26"
 images:
-  - file: "gingerbread-house-door-decorations-diy-felt-gingerbread-house.jpg"
-    alt: "Handmade felt gingerbread house with a red and green roof and felt trees"
+  - file: "gingerbread-house-door-decorations-diy-peppermint-wreath.jpg"
+    alt: "Wreath made from red and white peppermint candies"
   - file: "gingerbread-house-door-decorations-diy-hand-painted-sign.jpg"
     alt: "Hand-painted wooden gingerbread house welcome sign"
   - file: "gingerbread-house-door-decorations-diy-candy-cane-garland.jpg"
@@ -18,8 +18,8 @@ images:
     alt: "Front door framed by a peppermint garland with a wreath and red bow"
   - file: "gingerbread-house-door-decorations-diy-cardboard-facade.jpg"
     alt: "Handmade cardboard gingerbread house door decoration"
-  - file: "gingerbread-house-door-decorations-diy-peppermint-wreath.jpg"
-    alt: "Wreath made from red and white peppermint candies"
+  - file: "gingerbread-house-door-decorations-diy-felt-gingerbread-house.jpg"
+    alt: "Handmade felt gingerbread house with a red and green roof and felt trees"
   - file: "gingerbread-house-door-decorations-diy-felt-gumdrop-garland.jpg"
     alt: "Handmade felt pom-pom and peppermint garland in red, green and white"
   - file: "gingerbread-house-door-decorations-diy-wooden-gingerbread-sign.jpg"
@@ -74,15 +74,15 @@ Gingerbread house door decorations diy projects are the sweetest kind of Christm
 
 Every project below lists what you need and how it goes together, and most of them cost less than a shop-bought wreath. Start with one easy win — the painted sign or the paper garland — and work up to the big facade once you trust your hands. If you would rather shop the finished look first, our [30 Gingerbread House Door Decoration Ideas for a Sweet Welcome](/posts/gingerbread-house-door-decorations/) shows the same gingerbread door styles ready-made, so you can compare and pick your lane.
 
-## 1. DIY Felt Gingerbread House Door Hanger
+## 1. DIY Peppermint Candy Wreath
 
-Sew a little gingerbread house from brown felt, with a red-and-green scalloped roof, white icing trim, felt pretzels and candy canes, and set it by the door or hang it from a ribbon loop. You need brown, white, red and green felt, embroidery floss, a needle and ribbon.
+Glue red-and-white peppermint candies or painted wooden discs onto a foam wreath ring, working in overlapping rows until no foam shows. You need a foam ring, peppermints or wooden discs, paint and hot glue.
 
-Sew the icing trim on before you glue the gumdrops down, so the stitching sits flat and the candy details layer neatly on top.
+Work in small sections and overlap each row by half, so the wreath looks full and no foam peeks through between the candies.
 
-![Handmade felt gingerbread house with a red and green roof and felt trees](/images/gingerbread-house-door-decorations-diy/gingerbread-house-door-decorations-diy-felt-gingerbread-house.jpg)
+![Wreath made from red and white peppermint candies](/images/gingerbread-house-door-decorations-diy/gingerbread-house-door-decorations-diy-peppermint-wreath.jpg)
 
-> TIP:QUICK: Stitch the icing trim on first, then glue the gumdrops — layering in that order keeps the hanger flat.
+> TIP:QUICK: Overlap each row of peppermints by half so no foam shows through.
 
 ## 2. Hand-Painted Gingerbread House Door Sign
 
@@ -134,15 +134,15 @@ Build the facade in three flat panels — left, right and top — so one person 
 
 > TIP:GUIDE: Budget: under $15 for cardboard and paint | Time: one weekend to build | Skill: intermediate
 
-## 7. DIY Peppermint Candy Wreath
+## 7. DIY Felt Gingerbread House Door Hanger
 
-Glue red-and-white peppermint candies or painted wooden discs onto a foam wreath ring, working in overlapping rows until no foam shows. You need a foam ring, peppermints or wooden discs, paint and hot glue.
+Sew a little gingerbread house from brown felt, with a red-and-green scalloped roof, white icing trim, felt pretzels and candy canes, and set it by the door or hang it from a ribbon loop. You need brown, white, red and green felt, embroidery floss, a needle and ribbon.
 
-Work in small sections and overlap each row by half, so the wreath looks full and no foam peeks through between the candies.
+Sew the icing trim on before you glue the gumdrops down, so the stitching sits flat and the candy details layer neatly on top.
 
-![Wreath made from red and white peppermint candies](/images/gingerbread-house-door-decorations-diy/gingerbread-house-door-decorations-diy-peppermint-wreath.jpg)
+![Handmade felt gingerbread house with a red and green roof and felt trees](/images/gingerbread-house-door-decorations-diy/gingerbread-house-door-decorations-diy-felt-gingerbread-house.jpg)
 
-> TIP:QUICK: Overlap each row of peppermints by half so no foam shows through.
+> TIP:QUICK: Stitch the icing trim on first, then glue the gumdrops — layering in that order keeps the hanger flat.
 
 ## 8. DIY Felt Gumdrop Garland
 

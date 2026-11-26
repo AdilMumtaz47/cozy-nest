@@ -8,12 +8,12 @@ Widths: 20 photos >=768px. 10 photos below 768px at source (noted below) — sou
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 An Emerald Velvet Sofa | cand/004.bin | neo-deco-living-room-emerald-velvet-sofa.jpg | Emerald velvet sofa in a neo deco living room with dark wood paneling | https://nestrefined.com/art-deco-living-room-ideas/ |
+| 1 Black and Gold | cand/045.bin | neo-deco-living-room-black-and-gold.jpg | Black and gold neo deco living room with a curved black sofa | https://elegantsera.com/black-couch-living-room-decor-ideas/ |
 | 2 A Brass Chandelier | cand/012.bin | neo-deco-living-room-brass-chandelier.jpg | Brass chandelier with crystal drops above a cream sofa in a neo deco living room | https://www.castrolighting.com/pt/article/ART-DECO-DREAMS-TOP-3-STATEMENT-MAKING-DESIGNS |
 | 3 A Geometric Rug | cand/018.bin | neo-deco-living-room-geometric-rug.jpg | Geometric rug in black, gold and cream under a navy velvet sofa | https://decorpact.com/art-deco-living-room-design-ideas/ |
 | 4 A Curved Sofa | cand/024.bin | neo-deco-living-room-curved-sofa.jpg | Curved dark green velvet sofa in a neo deco living room | https://www.thepaintedhinge.com/2026/09/20/ |
 | 5 A Deco Fireplace | cand/033.bin | neo-deco-living-room-deco-fireplace.jpg | Neo deco fireplace with a marble surround and a gold sunburst mirror | https://suite101.com/30-art-deco-living-room-ideas/ |
-| 6 Black and Gold | cand/045.bin | neo-deco-living-room-black-and-gold.jpg | Black and gold neo deco living room with a curved black sofa | https://elegantsera.com/black-couch-living-room-decor-ideas/ |
+| 6 An Emerald Velvet Sofa | cand/004.bin | neo-deco-living-room-emerald-velvet-sofa.jpg | Emerald velvet sofa in a neo deco living room with dark wood paneling | https://nestrefined.com/art-deco-living-room-ideas/ |
 | 7 A Velvet Armchair Pair | cand/053.bin | neo-deco-living-room-velvet-armchairs-pair.jpg | Pair of emerald velvet armchairs under a gold sunburst mirror | https://ahouseinthehills.com/art-deco-interior-design/ |
 | 8 A Marble Coffee Table with Brass | cand/058.bin | neo-deco-living-room-marble-coffee-table-brass.jpg | Marble coffee table with brass legs in a neo deco living room | https://miafolio.com/1920s-art-deco-living-room-ideas/ |
 | 9 An Arched Mirror | cand/065.bin | neo-deco-living-room-arched-mirror.jpg | Arched mirror with gold geometric framing above an olive velvet sofa | https://homedecorbliss.com/olive-green-living-room-ideas-2/ |

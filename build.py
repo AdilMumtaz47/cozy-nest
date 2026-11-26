@@ -539,13 +539,25 @@ def build_home(articles):
             f"<h2>{esc(fm['title'])}</h2><p>{esc(fm.get('description', ''))}</p>"
             f"<span class='feature-link'>See the 30 ideas &rarr;</span></div></a></section>"
         )
-        rest = articles[1:]
-        cards = "".join(card_html(a) for a in rest)
-        grid = (
-            f"<h2 class='section-title'>Latest ideas</h2>"
-            f"<p class='section-sub'>Fresh lists for every room and every season.</p>"
-            f"<section class='grid'>{cards}</section>"
-        )
+        # One section per category: every article sits visibly in a section
+        # on the homepage (48 cards in 9 sections). Christmas Decor first
+        # (seasonal, peak Dec 7), then the rest by article count descending,
+        # alphabetical for ties. The featured article also appears as a card
+        # in its own category section.
+        cats = categories_of(articles)
+        ordered = sorted(cats.items(),
+                         key=lambda kv: (kv[0] != "Christmas Decor", -len(kv[1]), kv[0]))
+        sections = []
+        for cat, items in ordered:
+            cards = "".join(card_html(a) for a in items)
+            n = len(items)
+            sections.append(
+                f"<h2 class='section-title'>{esc(cat)}</h2>"
+                f"<p class='section-sub'>{n} idea list{'s' if n != 1 else ''} — "
+                f"<a href='/categories/{cat_slug(cat)}/'>See all {n} {esc(cat)} ideas &rarr;</a></p>"
+                f"<section class='grid'>{cards}</section>"
+            )
+        grid = "".join(sections)
     else:
         hero = ""
         grid = "<section class='grid'><p>First articles coming soon — the first list is being written now.</p></section>"

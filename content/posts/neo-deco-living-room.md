@@ -6,8 +6,8 @@ keyword: "neo deco living room"
 category: "Living Room Decor"
 date: "2026-11-26"
 images:
-  - file: "neo-deco-living-room-emerald-velvet-sofa.jpg"
-    alt: "Emerald velvet sofa in a neo deco living room with dark wood paneling"
+  - file: "neo-deco-living-room-black-and-gold.jpg"
+    alt: "Black and gold neo deco living room with a curved black sofa"
   - file: "neo-deco-living-room-brass-chandelier.jpg"
     alt: "Brass chandelier with crystal drops above a cream sofa in a neo deco living room"
   - file: "neo-deco-living-room-geometric-rug.jpg"
@@ -16,8 +16,8 @@ images:
     alt: "Curved dark green velvet sofa in a neo deco living room"
   - file: "neo-deco-living-room-deco-fireplace.jpg"
     alt: "Neo deco fireplace with a marble surround and a gold sunburst mirror"
-  - file: "neo-deco-living-room-black-and-gold.jpg"
-    alt: "Black and gold neo deco living room with a curved black sofa"
+  - file: "neo-deco-living-room-emerald-velvet-sofa.jpg"
+    alt: "Emerald velvet sofa in a neo deco living room with dark wood paneling"
   - file: "neo-deco-living-room-velvet-armchairs-pair.jpg"
     alt: "Pair of emerald velvet armchairs under a gold sunburst mirror"
   - file: "neo-deco-living-room-marble-coffee-table-brass.jpg"
@@ -74,15 +74,15 @@ A neo deco living room is where the whole style comes together: the velvet sofa,
 
 The living-room formula is the same as the whole-home one, just focused: one jewel tone, one geometric pattern and one brass accent, arranged with symmetry. For the style across the whole house, our [30 Neo Deco Ideas for a Bold, Modern Home](/posts/neo-deco/) covers bedrooms, kitchens, bathrooms and entryways too.
 
-## 1. An Emerald Velvet Sofa
+## 1. Black and Gold
 
-An emerald velvet sofa is the neo deco living room's anchor. The deep green reads as both rich and modern, and velvet's sheen catches the light in a way flat fabric never does. Place it against dark wood paneling and it looks like it was made for the room.
+A black and gold living room is neo deco at its most dramatic. Black walls with gold fan wallpaper, a curved black sofa and brass details create a room that feels like a private club — intimate, glamorous and unforgettable in the evening.
 
-Style it with gold or brass cushions and a black-and-white geometric rug. The sofa is the jewel tone, the rug is the geometry and the brass is the metal — the whole formula in one seating area, and the room needs little else.
+Light it warmly and generously, because black walls absorb light. A crystal chandelier, table lamps and sconces together will keep the room glowing, and the gold will catch every one of them.
 
-![Emerald velvet sofa in a neo deco living room with dark wood paneling](/images/neo-deco-living-room/neo-deco-living-room-emerald-velvet-sofa.jpg)
+![Black and gold neo deco living room with a curved black sofa](/images/neo-deco-living-room/neo-deco-living-room-black-and-gold.jpg)
 
-> TIP:QUICK: Put the emerald sofa against dark wood paneling so the green reads even richer.
+> TIP:GUIDE: Walls: black with gold fan wallpaper | Sofa: curved black velvet | Light: chandelier plus lamps
 
 ## 2. A Brass Chandelier
 
@@ -124,15 +124,15 @@ Keep the mantel styling minimal — one pair of vases or a single sculpture — 
 
 > TIP:CHECK: Sunburst mirror centered; Matching sconces each side; Mantel styling minimal
 
-## 6. Black and Gold
+## 6. An Emerald Velvet Sofa
 
-A black and gold living room is neo deco at its most dramatic. Black walls with gold fan wallpaper, a curved black sofa and brass details create a room that feels like a private club — intimate, glamorous and unforgettable in the evening.
+An emerald velvet sofa is the neo deco living room's anchor. The deep green reads as both rich and modern, and velvet's sheen catches the light in a way flat fabric never does. Place it against dark wood paneling and it looks like it was made for the room.
 
-Light it warmly and generously, because black walls absorb light. A crystal chandelier, table lamps and sconces together will keep the room glowing, and the gold will catch every one of them.
+Style it with gold or brass cushions and a black-and-white geometric rug. The sofa is the jewel tone, the rug is the geometry and the brass is the metal — the whole formula in one seating area, and the room needs little else.
 
-![Black and gold neo deco living room with a curved black sofa](/images/neo-deco-living-room/neo-deco-living-room-black-and-gold.jpg)
+![Emerald velvet sofa in a neo deco living room with dark wood paneling](/images/neo-deco-living-room/neo-deco-living-room-emerald-velvet-sofa.jpg)
 
-> TIP:GUIDE: Walls: black with gold fan wallpaper | Sofa: curved black velvet | Light: chandelier plus lamps
+> TIP:QUICK: Put the emerald sofa against dark wood paneling so the green reads even richer.
 
 ## 7. A Velvet Armchair Pair
 

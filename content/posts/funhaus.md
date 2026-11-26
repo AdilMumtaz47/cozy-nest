@@ -6,8 +6,8 @@ keyword: "funhaus"
 category: "Home Decor"
 date: "2026-11-26"
 images:
-  - file: "funhaus-color-drenched-maximalist-living-room.jpg"
-    alt: "Color-drenched maximalist living room with bold patterns, bright colors and layered textures"
+  - file: "funhaus-rainbow-kitchen-cabinets.jpg"
+    alt: "Rainbow kitchen cabinets in bright painted colors"
   - file: "funhaus-pattern-mixing.jpg"
     alt: "Living room mixing bold patterns with clashing prints, stripes and florals"
   - file: "funhaus-puffy-bubble-sofa.jpg"
@@ -18,8 +18,8 @@ images:
     alt: "Rainbow mural wall painted across a bright living room"
   - file: "funhaus-bold-floral-wallpaper.jpg"
     alt: "Bold floral wallpaper in a colorful maximalist room"
-  - file: "funhaus-rainbow-kitchen-cabinets.jpg"
-    alt: "Rainbow kitchen cabinets in bright painted colors"
+  - file: "funhaus-color-drenched-maximalist-living-room.jpg"
+    alt: "Color-drenched maximalist living room with bold patterns, bright colors and layered textures"
   - file: "funhaus-wavy-mirror.jpg"
     alt: "Wavy mirror with a playful curved frame on a colorful wall"
   - file: "funhaus-color-blocked-tile-bathroom.jpg"
@@ -74,15 +74,15 @@ FunHaus is the look for people who think a room should make you smile before it 
 
 The trick to FunHaus is confidence, not chaos. Pick two or three loud colors, repeat them around the room, and let one pattern lead while the others play backup. If you want the room-by-room version of this style, our [30 FunHaus Interior Ideas for a Playful Home](/posts/funhaus-interior/) walks through living rooms, bedrooms, kitchens and bathrooms one space at a time.
 
-## 1. Color-Drenched Maximalist Living Room
+## 1. Rainbow Kitchen Cabinets
 
-Drench the whole living room in one bold color family and let pattern do the talking. Walls, sofa and rug all pull from the same saturated palette, while clashing prints on cushions and curtains keep the room from feeling flat. The result is loud, warm and impossible to ignore — exactly the point.
+Rainbow kitchen cabinets turn the hardest-working room in the house into the happiest one. Paint each run of cabinets a different bright color, or go gradient across the wall so the colors flow from one to the next. White worktops and a simple backsplash keep it from tipping into chaos.
 
-Keep one neutral in the mix, like a cream ceiling or pale wood floor, so the color has somewhere to rest. Then add a second pattern in a smaller scale and a third color in the smallest doses, and the room reads as designed rather than accidental.
+If a full rainbow feels too much, paint just the lower cabinets and leave the uppers white. You still get the color hit every time you walk in, but the room stays light and the work surfaces stay calm.
 
-![Color-drenched maximalist living room with bold patterns, bright colors and layered textures](/images/funhaus/funhaus-color-drenched-maximalist-living-room.jpg)
+![Rainbow kitchen cabinets in bright painted colors](/images/funhaus/funhaus-rainbow-kitchen-cabinets.jpg)
 
-> TIP:QUICK: Paint the walls and ceiling the same bold color so the room feels wrapped, not just painted.
+> TIP:QUICK: Paint only the lower cabinets for color without losing the light.
 
 ## 2. Pattern Mixing, Turned Up
 
@@ -134,15 +134,15 @@ Let the wallpaper be the loudest thing in the room. Pair it with solid-color fur
 
 > TIP:GUIDE: Wallpaper: oversized blooms | Furniture: one solid print color | Art: minimal or none
 
-## 7. Rainbow Kitchen Cabinets
+## 7. Color-Drenched Maximalist Living Room
 
-Rainbow kitchen cabinets turn the hardest-working room in the house into the happiest one. Paint each run of cabinets a different bright color, or go gradient across the wall so the colors flow from one to the next. White worktops and a simple backsplash keep it from tipping into chaos.
+Drench the whole living room in one bold color family and let pattern do the talking. Walls, sofa and rug all pull from the same saturated palette, while clashing prints on cushions and curtains keep the room from feeling flat. The result is loud, warm and impossible to ignore — exactly the point.
 
-If a full rainbow feels too much, paint just the lower cabinets and leave the uppers white. You still get the color hit every time you walk in, but the room stays light and the work surfaces stay calm.
+Keep one neutral in the mix, like a cream ceiling or pale wood floor, so the color has somewhere to rest. Then add a second pattern in a smaller scale and a third color in the smallest doses, and the room reads as designed rather than accidental.
 
-![Rainbow kitchen cabinets in bright painted colors](/images/funhaus/funhaus-rainbow-kitchen-cabinets.jpg)
+![Color-drenched maximalist living room with bold patterns, bright colors and layered textures](/images/funhaus/funhaus-color-drenched-maximalist-living-room.jpg)
 
-> TIP:QUICK: Paint only the lower cabinets for color without losing the light.
+> TIP:QUICK: Paint the walls and ceiling the same bold color so the room feels wrapped, not just painted.
 
 ## 8. A Wavy Mirror
 

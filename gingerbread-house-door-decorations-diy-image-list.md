@@ -8,13 +8,13 @@ Widths: 28 photos >=768px. 2 photos below 768px after the 3:4 crop (noted below)
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 DIY Felt Gingerbread House Door Hanger | g2/044.jpg | gingerbread-house-door-decorations-diy-felt-gingerbread-house.jpg | Handmade felt gingerbread house with a red and green roof and felt trees | https://i.etsystatic.com/13794817/r/il/dec857/2109177723/il_fullxfull.2109177723_k9ne.jpg |
+| 1 DIY Peppermint Candy Wreath | g2/029.jpg | gingerbread-house-door-decorations-diy-peppermint-wreath.jpg | Wreath made from red and white peppermint candies | https://parade.com/992784/megangrant/diy-valentines-gifts/ |
 | 2 Hand-Painted Gingerbread House Door Sign | g2/031.jpg | gingerbread-house-door-decorations-diy-hand-painted-sign.jpg | Hand-painted wooden gingerbread house welcome sign | https://pin.it/j8mXFJUUI |
 | 3 DIY Candy Cane Garland for the Door | g2/016.jpg | gingerbread-house-door-decorations-diy-candy-cane-garland.jpg | Front door framed with a candy cane and peppermint garland | http://theporchgirl.com |
 | 4 DIY Foam Gingerbread Man Wreath | g2/010.jpg | gingerbread-house-door-decorations-diy-gingerbread-man-wreath.jpg | Green Christmas wreath decorated with gingerbread men and gingham bows | https://declutterprozone.com/diy-christmas-wreaths-youll-actually-want-to-hang-this-year/ |
 | 5 DIY Peppermint Door Frame Garland | g2/014.webp | gingerbread-house-door-decorations-diy-icing-drip-trim.jpg | Front door framed by a peppermint garland with a wreath and red bow | https://guterboden.de/en/candy-cane-lane-door-decoration-ideas-festive-entryway-inspiration |
 | 6 DIY Cardboard Gingerbread House Door Facade | g2/003.jpg | gingerbread-house-door-decorations-diy-cardboard-facade.jpg | Handmade cardboard gingerbread house door decoration | https://picmasa.com/explore/gingerbread-house-door-clip-art |
-| 7 DIY Peppermint Candy Wreath | g2/029.jpg | gingerbread-house-door-decorations-diy-peppermint-wreath.jpg | Wreath made from red and white peppermint candies | https://parade.com/992784/megangrant/diy-valentines-gifts/ |
+| 7 DIY Felt Gingerbread House Door Hanger | g2/044.jpg | gingerbread-house-door-decorations-diy-felt-gingerbread-house.jpg | Handmade felt gingerbread house with a red and green roof and felt trees | https://i.etsystatic.com/13794817/r/il/dec857/2109177723/il_fullxfull.2109177723_k9ne.jpg |
 | 8 DIY Felt Gumdrop Garland | g2b/025.jpg | gingerbread-house-door-decorations-diy-felt-gumdrop-garland.jpg | Handmade felt pom-pom and peppermint garland in red, green and white | https://i.pinimg.com/originals/ff/3f/c6/ff3fc69254ca19266727bf23f83db5f3.jpg |
 | 9 DIY Wooden Gingerbread House Sign | g2/034.jpg | gingerbread-house-door-decorations-diy-wooden-gingerbread-sign.jpg | Wooden North Pole Gingerbread Baking Co sign | https://i.pinimg.com/originals/68/51/70/685170319030793f04c2004799f69a68.jpg |
 | 10 DIY Greenery and Candy Door Swag | g2/055.jpg | gingerbread-house-door-decorations-diy-greenery-candy-swag.jpg | Candy swag with peppermints and ribbons hanging on a grey front door | https://pin.it/bVX5enxbL |
