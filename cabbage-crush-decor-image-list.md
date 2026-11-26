@@ -1,0 +1,40 @@
+# 30 Cabbage Crush Decor Ideas for a Fresh Home — image provenance list
+
+Keyword: "cabbage crush decor" (fresh re-check Nov 26, 2026 — STRONG, top-12 listicle count 3, exact phrase never appeared in autocomplete).
+All 30 images: real photos, portrait, JPEG q~82, <400KB, sharpness verified visually (full frame + bottom 35% strip), Nov 26 2026.
+IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.com source pages across the searches for this article).
+
+Widths: 22 photos >=768px. 8 photo(s) below 768px at source (noted below) — sources topped out below 768px, not upscaled: #1 750px, #11 704px, #13 664px, #15 736px, #19 600px, #20 675px, #21 701px, #26 720px.
+
+| Design | Original file | New file | Alt text | Source URL |
+|---|---|---|---|---|
+| 1 A Sage Green Accent Wall in the Living Room | cand/01-2.bin | cabbage-crush-decor-sage-green-accent-wall-living-room.jpg | Sage green panelled accent wall in a living room with a grey sofa and plants | https://www.artofit.org/image-gallery/962996332819965424/ready-assemble-wall-molding-frames-paintable-white-wall-panel-mouldings-wainscoting-resistant-half-wall-panel-peel-stick-customisable-wall-etsy-uk/ |
+| 2 A Botanical Print Gallery Wall | cand/02-0.bin | cabbage-crush-decor-botanical-print-gallery-wall.jpg | Living room wall covered in framed botanical leaf prints above a green sofa | https://suite101.com/30-rustic-living-room-ideas/ |
+| 3 A Green Velvet Armchair | cand/03-0.bin | cabbage-crush-decor-green-velvet-armchair.jpg | Emerald green velvet armchair beside a floor lamp in a dark green living room | https://www.lemonademakinmama.com/cozy-living-room-ideas/ |
+| 4 Sage Green Linen Curtains | cand/04-0.bin | cabbage-crush-decor-sage-green-linen-curtains.jpg | Sage green linen curtains framing a large window in a bright living room | https://3hlinen.com/collections/curtains-for-living-room?page=5 |
+| 5 Green Ceramic Vases on the Mantel | cand/05-0.bin | cabbage-crush-decor-green-ceramic-vases-mantel.jpg | Green floral ceramic ginger jar on a white mantel with candles and a small plant |  |
+| 6 Botanical Leaf Throw Pillows | cand/06-1.bin | cabbage-crush-decor-botanical-leaf-throw-pillows.jpg | Cream sofa styled with green botanical leaf throw pillows and a green throw | https://lightandlayer.com/blog/rainforest-decorations-ideas/ |
+| 7 A Leaf-Green Throw Blanket | cand/07-1.bin | cabbage-crush-decor-green-throw-blanket-sofa.jpg | Green throw blanket draped over a sofa with cream cushions in a living room | https://www.etsy.com/it/listing/4460604585/coperta-in-cotone-turco-verde |
+| 8 Botanical Wallpaper in the Powder Room | cand/08-3.bin | cabbage-crush-decor-botanical-wallpaper-powder-room.jpg | Small powder room with green botanical wallpaper, a white sink and a mirror | https://suite101.com/30-tiny-powder-bath-ideas/ |
+| 9 A Green Console Table in the Entryway | cand/09-0.bin | cabbage-crush-decor-green-console-table-entryway.jpg | Sage green console table in an entryway styled with baskets and pink flowers | https://shop.tiktok.com/us/pdp/1732553708171923702 |
+| 10 A Cabbage-Green Front Door | cand/10-1.bin | cabbage-crush-decor-sage-green-front-door.jpg | Sage green front door with brass hardware, stone steps and potted plants | https://www.omnihomeideas.com/patio-lawn-garden/front-door-with-one-sidelight-ideas/ |
+| 11 A Green Tray Centerpiece on the Coffee Table | cand/11-2.bin | cabbage-crush-decor-green-tray-centerpiece-coffee-table.jpg | Wooden coffee table with a green tray holding candles and a potted plant | https://thelivingroomedit.com/organic-farmhouse-living-room-6hgjd2k3qw/ |
+| 12 Green Built-In Bookshelves | cand/12-1.bin | cabbage-crush-decor-green-built-in-bookshelves.jpg | Dark green built-in bookshelves filled with books and plants beside a white sofa | https://www.pinterest.com.mx/ideas/paredes-verdes/925607900963/ |
+| 13 Sage Green Bedding | cand/13-1.bin | cabbage-crush-decor-sage-green-bedding.jpg | Bed dressed in sage green linen bedding with white pillows and a botanical print | https://elitedesignworld.com/relaxing-ambiance-sage-green-grey-bedroom/ |
+| 14 Botanical Prints Above the Bed | cand/14-0.bin | cabbage-crush-decor-botanical-prints-above-bed.jpg | Bedroom with a grid of framed botanical prints hung above the bed | https://plusmood.com/25-spring-guest-bedroom-decor-ideas/ |
+| 15 A Green Ceramic Table Lamp | cand/15-0.bin | cabbage-crush-decor-green-ceramic-table-lamp.jpg | Mint green ceramic table lamp with a white shade on a white bedside table | https://oldworlddesign.com/products/sylvie-green-ceramic-table-lamp-with-white-linen-shade |
+| 16 A Green Leaf Rug | cand/16-0.bin | cabbage-crush-decor-green-leaf-rug.jpg | Living room with a large green rug printed with oversized white leaves | https://tribesigns.com/collections/rugs |
+| 17 A Garden-Inspired Reading Nook | cand/17-0.bin | cabbage-crush-decor-garden-reading-nook-green-chair.jpg | Cozy reading nook with a dark green armchair, bookshelves and potted plants | https://suite101.com/30-teen-study-room-ideas/ |
+| 18 Dark Green Bathroom Towels | cand/18-1.bin | cabbage-crush-decor-dark-green-bathroom-towels.jpg | Bathroom with dark green towels, matching accessories and a tiled wall | https://hearthandhomely.com/blog/green-bathroom-concept/ |
+| 19 A Green Leaf Wreath on the Door | cand/19-1.bin | cabbage-crush-decor-green-leaf-wreath-door.jpg | Lush green leaf wreath hanging on a grey front door |  |
+| 20 Green Planters on the Windowsill | cand/20-2.bin | cabbage-crush-decor-green-planters-windowsill.jpg | Green ceramic planters with leafy plants lined up on a sunny windowsill |  |
+| 21 Dark Botanical Wallpaper Behind the Bed | cand/21-1.bin | cabbage-crush-decor-dark-botanical-wallpaper-bedroom.jpg | Bedroom with a dark botanical wallpaper wall behind a wooden bed | https://saojoao.com.py/projects/piso-y-revestimientos/ |
+| 22 A Green Velvet Ottoman | cand/22-0.bin | cabbage-crush-decor-green-velvet-ottoman.jpg | Green velvet tufted ottoman on a fluffy white rug in a living room | https://www.daals.co.uk/collections/velvet/products/henrietta-ottoman-moss-green-velvet |
+| 23 A Window Seat with Green Cushions | cand/23-0.bin | cabbage-crush-decor-window-seat-green-cushions.jpg | Bay window seat with green cushions and pillows overlooking a garden | https://vervilla.com/blog/contemporary-modern-window-seat-ideas/ |
+| 24 A Green Garden Table Setting | cand/24-2.bin | cabbage-crush-decor-green-garden-table-setting.jpg | Garden table setting with green plates, green glasses and leafy centerpieces | https://www.artofit.org/ideas/easter-grass-greenery |
+| 25 Green Outdoor Cushions on the Patio | cand/25-0.bin | cabbage-crush-decor-green-outdoor-cushions.jpg | Outdoor sofa dressed with olive green cushions against leafy greenery | https://bigamart.com/product-category/garden-furniture-accessories/page/63/ |
+| 26 A Sage Green Dresser | cand/26-1.bin | cabbage-crush-decor-sage-green-dresser-bedroom.jpg | Sage green dresser with brass knobs in a bedroom beside a wooden bed | https://www.lostateminor.com/30-cheap-bedroom-furniture-ideas/ |
+| 27 A Green-Framed Arched Mirror | cand/27-0.bin | cabbage-crush-decor-green-arched-mirror.jpg | Tall arched mirror with a thin green frame in a bright living room | https://shop.tiktok.com/us/pdp/full-length-mirror-by-ladynow-arched-freestanding-design-with-stand/1729867628126966172 |
+| 28 A Green Leaf Garland on the Mantel | cand/28-2.bin | cabbage-crush-decor-green-garland-fireplace-mantel.jpg | Fireplace mantel draped with a lush green leaf garland and lanterns | https://shop.tiktok.com/us/k/greenery-garlands |
+| 29 Dark Green Candles on the Coffee Table | cand/29-1.bin | cabbage-crush-decor-dark-green-pillar-candles.jpg | Dark green pillar candles grouped on a wooden coffee table in a living room | https://hyggeandhome.de/einrichtung-mit-waldgruen/ |
+| 30 A Botanical Shower Curtain | cand/30-2.bin | cabbage-crush-decor-botanical-shower-curtain.jpg | Bathroom with a white shower curtain printed with green botanical leaves |  |

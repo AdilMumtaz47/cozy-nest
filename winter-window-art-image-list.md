@@ -1,0 +1,40 @@
+# 30 Winter Window Art Ideas for a Bright, Seasonal Home — image provenance list
+
+Keyword: "winter window art" (screen #5, Nov 25, 2026 — WINNABLE).
+All 30 images: real photos, portrait, JPEG q~82, <400KB, sharpness verified visually (full frame + bottom 35% strip), Nov 26 2026.
+IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.com source pages across the searches for this article).
+
+Widths: 23 photos >=768px. 7 photos below 768px at source (noted below) — sources topped out below 768px, not upscaled: #24 731px, #25 750px, #26 750px, #27 736px, #28 736px, #29 736px, #30 736px.
+
+| Design | Original file | New file | Alt text | Source URL |
+|---|---|---|---|---|
+| 1 Snowflakes on a Frosty Window | cand/05.bin | winter-window-art-snowflakes-frosty-window.jpg | Window covered in white snowflake decals with frost on the glass | https://casolia.com/ideas-for-holiday-window-displays/ |
+| 2 Hanging Paper Snowflakes | cand/10.bin | winter-window-art-hanging-paper-snowflakes.jpg | Paper snowflakes hanging on threads in front of a snowy window | https://www.e-a-a.com/25-winter-window-decorating-ideas-for-a-cozy-home/ |
+| 3 Paper Snowflakes at Dusk | cand/12.bin | winter-window-art-paper-snowflakes-dusk.jpg | Large paper snowflakes hanging in a window at dusk with fairy lights | https://casolia.com/christmas-paper-craft-ideas-for-adults/ |
+| 4 Garland-Framed Window with Ornaments | cand/15.bin | winter-window-art-garland-framed-window-ornaments.jpg | Window framed in garland with hanging ornaments, stars and a lit tree | https://guterboden.de/en/christmas-window-lights-ideas-create-a-cozy-glow-at-home |
+| 5 Lit Snowflakes and Stars | cand/16.bin | winter-window-art-lit-snowflakes-stars.jpg | Window glowing with lit snowflakes, stars and small Christmas trees | https://www.artofit.org/image-gallery/christmas-lights-window/ |
+| 6 Fairy Lights Around the Window | cand/17.bin | winter-window-art-fairy-lights-around-window.jpg | Window framed with warm fairy lights, a wreath and a small Christmas tree | https://www.e-a-a.com/25-window-christmas-decorating-ideas-for-a-magical-holiday-season/ |
+| 7 Star Lights and a Christmas Tree | cand/18.bin | winter-window-art-star-lights-christmas-tree.jpg | Window with glowing star lights and a lit Christmas tree beside it | https://www.artofit.org/ideas/ses-christmas-decorations |
+| 8 Reindeer Silhouettes and Stars | cand/19.bin | winter-window-art-reindeer-silhouettes-stars.jpg | Window with reindeer and tree silhouettes and glowing stars at dusk | https://guterboden.de/en/christmas-window-lights-ideas-create-a-cozy-glow-at-home |
+| 9 A Paper Village on the Sill | cand/20.bin | winter-window-art-paper-village-on-sill.jpg | White paper houses and trees arranged on a snowy windowsill | https://addictedtoorganization.com/wp-content/uploads/2026/08/Christmas-lights-inside-window-24.webp |
+| 10 Christmas Lights Outside the Window | cand/21.bin | winter-window-art-christmas-lights-outside-window.jpg | House windows outlined in colorful Christmas lights in the snow | https://littlehomegems.com/blog/christmas-lights-ideas-2/ |
+| 11 Star Lights Behind the Sofa | cand/22.bin | winter-window-art-star-lights-behind-sofa.jpg | Living room window with hanging star lights above a sofa | https://asqstyle.com/25-easy-christmas-window-decorating-ideas/ |
+| 12 Stained-Glass Tree in the Window | cand/27.bin | winter-window-art-stained-glass-tree-window.jpg | Stained-glass Christmas tree glowing in a window with gold curtains | https://joom.pro/pt-br/products/6a39ff1090b9370158eccb7b |
+| 13 Character Window Clings | cand/31.bin | winter-window-art-character-window-clings.jpg | Window covered in Santa, snowman and reindeer window clings | https://www.inspireuplift.com/collection/window-decals |
+| 14 Wreath and Candles in the Window | cand/39.bin | winter-window-art-wreath-candles-window.jpg | Green wreath hanging in a snowy window with candles on the sill | https://www.vecteezy.com/photo/52769990-a-window-with-a-wreath-and-candles-on-it |
+| 15 Red Berry Wreath in a Snowy Window | cand/45.bin | winter-window-art-red-berry-wreath-snowy-window.jpg | Wreath with red baubles and pinecones hanging in a snowy window | https://i5.walmartimages.ca/asr/f89261f3-c70b-46e0-ae94-420b083ec334.f65d948baec4f45fbdac37292ebaeeeb.jpeg |
+| 16 Snowflakes and Pinecones on the Sill | cand/50.bin | winter-window-art-snowflakes-pinecones-sill.jpg | Window with hanging snowflakes and pinecones arranged on the sill | https://homeinspirediversity.com/page/13/ |
+| 17 Snowflake Decals and Hanging Ornaments | cand/53.bin | winter-window-art-snowflake-decals-hanging-ornaments.jpg | Window with snowflake decals, hanging ornaments and fairy lights | https://housemakingideas.com/diy-christmas-window-decor-ideas/ |
+| 18 Frosted Snowflakes Glowing at Night | cand/54.bin | winter-window-art-frosted-snowflakes-glowing-night.jpg | Frosted snowflake decals glowing orange and blue on a window at night | https://licowa.com/wallpaper/detail/winter-snowflake-frost-window-lights-4k-wallpaper-329209 |
+| 19 Giant Paper Snowflakes | cand/56.bin | winter-window-art-giant-paper-snowflakes.jpg | Oversized white paper snowflakes hanging in a window with fairy lights | https://diysprout.com/blog/easy-christmas-decorations-ideas/ |
+| 20 A Lit Village Behind the Window | cand/58.bin | winter-window-art-lit-village-behind-window.jpg | Window with a lit miniature village and fairy lights behind the glass | https://pcdn1.i-web.ch/FVfLlfrw9Fwpc1oCPZFjLNo0J8Q=/0x0/smart/filters:strip_exif()/g420/0/0/693973071d467 |
+| 21 Paper Village and Trees on the Sill | cand/59.bin | winter-window-art-paper-village-trees-sill.jpg | White paper houses and trees glowing on a windowsill | http://casolia.com/diy-christmas-backdrop-ideas/ |
+| 22 Painted Village Window | cand/60.bin | winter-window-art-painted-village-window.jpg | Window painted with a snowy village scene and lit from behind | https://citiesapps.com/posts/6769854e6f7a265ab758b948 |
+| 23 A Miniature Village in the Window | cand/61.bin | winter-window-art-miniature-village-window.jpg | Miniature snowy village with tiny houses arranged behind a window | https://i.pinimg.com/originals/12/68/12/126812a1bfb075036cdfb003d8f5e89b.jpg |
+| 24 Stained-Glass Tree at Night | cand/28.bin | winter-window-art-stained-glass-tree-night.jpg | Stained-glass Christmas tree glowing against a dark night sky | https://www.vrogue.co/post/wicoart-sticker-window-color-cling-glass-painting-père-noel-d-antan |
+| 25 Elf, Santa and Reindeer Clings | cand/33.bin | winter-window-art-elf-santa-reindeer-clings.jpg | Window with elf, Santa and reindeer clings and snowflake decals | http://murmele.ru/Clings-Stickers-for-Glass-Xmas-Decals-3849-202230.html |
+| 26 Snowman and Reindeer Clings | cand/36.bin | winter-window-art-snowman-reindeer-clings.jpg | Window with snowman and reindeer clings looking out over a snowy yard | https://brookstreams.com/window-snowflakes-Christmas-window-decorations-Window-snow-1875528.html |
+| 27 Twin Wreaths and Candles | cand/42.bin | winter-window-art-twin-wreaths-candles.jpg | Two wreaths with red bows hanging in a window above rows of candles | https://accent4home.com/outdoor-christmas-decorations-ideas-2026/ |
+| 28 Candles in Two Tall Windows | cand/44.bin | winter-window-art-candles-two-tall-windows.jpg | Two tall windows filled with candles and lit wreaths at dusk | https://howcanthis.com/holidays/diy-christmas-living-room-decor-ideas-to-try-this-year/ |
+| 29 Holly Wreath and Candles | cand/47.bin | winter-window-art-holly-wreath-candles.jpg | Holly wreath with red berries hanging in a window above candles | https://ideas-for-interior.com/christmas-wreaths-for-front-door-ideas-2025.html |
+| 30 Hanging Snowflakes and Baubles | cand/55.bin | winter-window-art-hanging-snowflakes-baubles.jpg | Window with hanging snowflakes, silver baubles and garland on the sill | https://ideas-for-interior.com/indoor-christmas-lights-ideas-2025.html |

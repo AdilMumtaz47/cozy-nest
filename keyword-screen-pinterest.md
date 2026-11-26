@@ -212,3 +212,101 @@ Method note: for the exact-phrase calls, the exact option was sometimes in the s
 **Buffer status:** 5 new passers (1 STRONG + 4 WINNABLE) — article #25+ candidates, awaiting Adil's pick. The 24-article buffer covers the publishing ramp through ~Dec 10, so these are ahead of need.
 
 **Re-check of "bookshelf decor ideas for bedrooms" — Nov 25, 18:15 PKT (device browser, signed in as Cozy Nest, search-only):** the autocomplete dropdown came up blank a THIRD time (never rendered any suggestion, even after a retry), so the exact phrase never appeared in any settled dropdown across three attempts. Fresh top-12 listicle count this run: **6** (not the 3 counted in screen #3). **VERDICT: PASSES as WINNABLE (4–6 band), not STRONG.** Recorded honestly — do not call it STRONG. Article built as bookshelf-decor-ideas-for-bedrooms, category Bedroom Decor.
+
+## Fresh screen #4 — Nov 25, 2026 (evening): Pinterest Trends seeds
+
+Screened Nov 25, 21:12–21:35 PKT (device browser, signed in as Cozy Nest, search-only). 20 best rising Trends seeds + 7 added on Adil's ask (6 Pinterest Predicts 2026 decor names + winter planters front porches) = **27 phrases**. Same method: exact phrase in settled autocomplete = saturated/reject; listicles in top 12: 0–3 STRONG, 4–6 WINNABLE, 7+ REJECT. Counting rule: only the pin's heading counts; numbers in image overlays/alt text and product dimensions/quantities do not count.
+
+**Result: 2 STRONG, 9 WINNABLE, 14 REJECT, 2 off-topic.**
+
+| Phrase | Autocomplete exact | Listicles | Verdict |
+|---|---|---|---|
+| christmas mantle 2026 | No | 8 | REJECT |
+| mantle christmas decor ideas | No | 9 | REJECT |
+| garland on mantle | No | 6 | WINNABLE |
+| christmas door decorating | No | 12 | REJECT |
+| garland on staircase | No | 7 | REJECT |
+| doorway garland | No | 4 | WINNABLE |
+| stocking decorating ideas | Yes | 9 | REJECT (saturated) |
+| stocking hanging ideas | No * | 5 | WINNABLE |
+| christmas chalkboard ideas | No | 9 | REJECT |
+| winter window art | No | 4 | WINNABLE |
+| christmas window art | No | 11 | REJECT |
+| christmas shelf styling | No | 8 | REJECT |
+| hallway christmas decor | No | 9 | REJECT |
+| christmas coffee table decor trays | Yes | 7 | REJECT (saturated) |
+| diy tree collar | No | 4 | WINNABLE |
+| gingerbread house door decorations | No | 5 | WINNABLE |
+| christmas island centerpiece ideas | No * | 6 | WINNABLE |
+| indoor christmas decor ideas | No | 8 | REJECT |
+| dream house decor ideas | No | 7 ** | REJECT |
+| tree topper ideas | No | 8 | REJECT |
+| neo deco | No | 6 | WINNABLE |
+| afrohemian decor | No | 5 | WINNABLE |
+| cabbage crush | No | 3 | STRONG |
+| wilderkind | No | 1 | Off-topic — fashion/aesthetic trend, not home decor |
+| throwback kid | No | 1 | Off-topic — 90s childhood nostalgia / kids' outfits, not home decor |
+| funhaus | No * | 3 | STRONG |
+| winter planters front porches | No | 10 | REJECT |
+
+\* Phrases 8, 17, 26: exact phrase appeared only briefly in the first DOM listing, not in the settled visible dropdown — counts as No per the workflow rule.
+\** Dream house decor ideas: grid re-sorted on scroll; a fresh reload confirmed 7 listicles in the first 10, meeting the 7+ REJECT threshold.
+
+**Honest caveats:**
+- **The mantel cluster mostly FAILED** — the top Trends terms (christmas mantle 2026, mantle christmas decor ideas) are REJECT at 8–9 listicles. Rising on Trends does not mean low competition.
+- **cabbage crush is STRONG by count (3) but results skew heavily toward food/recipes** — the decor angle is mostly kitchen/dining. A decor article would compete against recipe pins.
+- **funhaus is STRONG (3)** — autocomplete shows decor angles (funhaus interior, funhaus decor, funhaus bathroom/bedroom/nursery/pattern).
+- **wilderkind and throwback kid are off-topic** (fashion / 90s kids nostalgia) — no verdict forced, never article topics.
+- No dropdown glitched in this screen.
+
+**Discovery candidates for a next screen** (autocomplete extensions seen in the settled dropdowns, not screened): christmas mantle ideas 2026 / christmas mantle garland 2026 / 2026 christmas mantle trends / christmas mantle decor ideas 2026; mantle christmas decor ideas with tv / no garland / with deer; garland on mantle with tv / with bells / with ribbon / year round; christmas door decorating contest / christmas door decorating ideas diy; garland on staircase with bows / banister / without rails; doorway garland tension rod / shower rod / christmas curtain rod; stocking decorating ideas no fireplace / contest / diy glitter; stocking hanging ideas no fireplace / no mantle / apartment; christmas chalkboard ideas boutique / easy / grinch / coffee shop; winter window art for kids / template / preschool / deer; christmas window art snow spray / village / template / for kids; christmas shelf styling living room / kitchen / with garland / traditional; hallway christmas decor ceiling / lights / curtain rod; christmas coffee table decor traditional / tray ideas / round tray decor / vintage trays; diy tree collar cardboard / dollar store / wood / for pencil tree / basket; gingerbread house door decorations diy / candy / easy / pink / 3d; christmas island centerpiece ideas long / red / modern / farmhouse / kitchen island centerpiece ideas christmas / large island christmas centerpiece ideas; indoor christmas decor ideas diy / kitchen / fireplace / apartment / living room / colorful / hallway / for kids / lights / bedroom / window / wall; dream house decor ideas aesthetic / bedrooms / cozy / diy / kitchen / farmhouse / modern (note: "barbie dream house decor ideas" also appeared — a toy, off-topic); tree topper ideas unique / with picks / for pencil trees / for low ceilings / ribbon; neo deco interior / living room / bedroom / home decor; afrohemian decor living room / bedroom / kitchen / bathroom / office / diy / wall art; cabbage crush decor / interior / interior design; funhaus interior / decor / bathroom / bedroom / nursery / pattern; winter planters front porches simple / diy / pansies / outdoor / uk / after christmas / fall to winter / late winter.
+
+**Buffer status:** 11 passers (2 STRONG + 9 WINNABLE) awaiting Adil's pick. The 29-article buffer covers the publishing ramp through ~Dec 12.
+
+## Seed batch for screen #5 — Nov 25, 2026 (evening, brainstormed on Adil's ask)
+
+Adil confirmed: low competition is the primary rule. Fresh seeds, all checked against this file — none screened before as an exact phrase (valentines day decor ideas and fireplace decor ideas were already REJECTED in screen #3, so they are NOT in this batch).
+
+Extensions of the screen #4 passers (from autocomplete): neo deco living room; afrohemian decor living room; funhaus interior; cabbage crush decor; garland on mantle with tv; doorway garland tension rod; stocking hanging ideas no mantle; diy tree collar wood; gingerbread house door decorations diy; christmas island centerpiece ideas farmhouse.
+
+Fresh brainstormed: valentine mantel decor; spring mantel decor; easter table decor ideas; coffee bar ideas; rental friendly decor ideas; console table decor ideas; boho bathroom decor ideas; neutral kitchen decor ideas; mantel decor ideas (plain phrase untested — note: winter mantel decor ideas already failed at 7, so a long shot); small apartment decor ideas.
+
+**Screen #5 — PARTIAL, Nov 25, ~22:00–22:13 PKT (device browser, signed in as Cozy Nest, search-only):** phrases 1–11 screened, then Pinterest showed "Access Denied", the session moved to a fresh browser and the Cozy Nest sign-in did not survive — phrases 12–20 NOT screened. **Re-run BLOCKED Nov 25, 22:15 PKT: the device browser (his computer's Chrome, where Cozy Nest is signed in) isn't reachable while he messages from web.** The saved Pinterest login in the vault belongs to a different account, so the cloud browser can't sign in as Cozy Nest on its own. Phrases 12–20 wait until he's at his computer, or he signs in via the live browser himself.
+
+| Phrase | Autocomplete exact | Listicles | Verdict |
+|---|---|---|---|
+| neo deco living room | No | 6 | WINNABLE |
+| afrohemian decor living room | No | 4 | WINNABLE |
+| funhaus interior | No | 4 | WINNABLE |
+| cabbage crush decor | Glitch — dropdown blank twice | 5 | WINNABLE (autocomplete unverified — re-check Nov 26: dropdown blank a THIRD time, phrase never appeared; fresh top-12 listicle count = 3 → STRONG by count — released for writing) |
+| garland on mantle with tv | No | 10 | REJECT |
+| doorway garland tension rod | Yes | 2 | REJECT (saturated) |
+| stocking hanging ideas no mantle | Yes | 6 | REJECT (saturated) |
+| diy tree collar wood | No | 3 | STRONG |
+| gingerbread house door decorations diy | No | 6 | WINNABLE |
+| christmas island centerpiece ideas farmhouse | Yes | 6 | REJECT (saturated) |
+| valentine mantel decor | No | 2 | STRONG |
+
+Partial tally: 2 STRONG (diy tree collar wood, valentine mantel decor), 5 WINNABLE, 4 REJECT.
+
+**Screen #5 — COMPLETED Nov 25, 22:17–22:25 PKT (device browser, signed in as Cozy Nest, search-only):** phrases 12–20 re-run after the sign-in recovery. No sign-in requested, no dropdown glitched, no phrase saturated on autocomplete — all verdicts from listicle counts.
+
+| Phrase | Autocomplete exact | Listicles | Verdict |
+|---|---|---|---|
+| spring mantel decor | No | 7 | REJECT |
+| easter table decor ideas | No | 10 | REJECT |
+| coffee bar ideas | No | 8 | REJECT |
+| rental friendly decor ideas | No | 9 | REJECT |
+| console table decor ideas | No | 8 | REJECT |
+| boho bathroom decor ideas | No | 8 | REJECT |
+| neutral kitchen decor ideas | No | 4 | WINNABLE |
+| mantel decor ideas | No | 8 | REJECT |
+| small apartment decor ideas | No | 9 | REJECT |
+
+Close calls: "rental-friendly decor ideas" (hyphenated) is not the exact verbatim phrase — counts as No. For neutral kitchen, the closest suggestion was the reordered "neutral kitchen ideas decor" — counts as No. Only 1 passer in this batch: neutral kitchen decor ideas.
+
+**Discovery candidates from phrases 12–20** (not screened): spring mantel decorating ideas / spring mantel decor ideas; easter table decor ideas simple / diy / for kids; coffee bar ideas for small spaces / coffee bar station ideas; rental friendly home decor ideas / rental friendly bedroom decor ideas; console table decor ideas entryway / with mirror / living room; boho bathroom decor ideas on a budget / apartment; neutral kitchen wall decor ideas / warm neutral kitchen decor ideas; mantel decor ideas with tv / for fake fireplace; small apartment decor ideas on a budget / cozy.
+
+**Screen #5 final tally: 2 STRONG + 6 WINNABLE, 12 REJECT.** Combined with screen #4: **19 passers total** (4 STRONG: cabbage crush, funhaus, diy tree collar wood, valentine mantel decor; 15 WINNABLE: garland on mantle, doorway garland, stocking hanging ideas, winter window art, diy tree collar, gingerbread house door decorations, christmas island centerpiece ideas, neo deco, afrohemian decor, neo deco living room, afrohemian decor living room, funhaus interior, cabbage crush decor, gingerbread house door decorations diy, neutral kitchen decor ideas). Adil picked all 19 on Nov 26, 09:45 PKT — all 19 being written. Cabbage crush caveat (food-skewed results) still stands; cabbage crush decor re-check DONE Nov 26 (see its row above).
+
+**Discovery candidates from phrases 1–11** (not screened): neo deco living room 2026 / ideas / design; afrohemian living room decor ideas / decor; funhaus interior design / interiors / interior decor / aesthetic interior; garland on mantle christmas with tv / christmas garland mantle with tv / garland mantle with tv; doorway garland christmas tension rod / doorway garland christmas / christmas garland doorway tension rod; stocking hanging ideas no fireplace / without a fireplace; wood tree collar diy / diy wood christmas tree collar / diy wood slat tree collar; diy gingerbread house door decorations; christmas island centerpiece ideas / christmas centerpiece ideas for kitchen island / christmas island centerpiece ideas diy; valentine mantel decor ideas / decorating ideas / simple / 2026.
