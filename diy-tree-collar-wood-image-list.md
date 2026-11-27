@@ -1,4 +1,5 @@
 # 30 DIY Wood Tree Collar Ideas for a Rustic Christmas — image provenance list
+Note (Nov 27, 2026 — main-image fix): swapped idea #1 and idea #7 — first image changed from diy-tree-collar-wood-natural-tapered-slat.jpg to diy-tree-collar-wood-pallet-collar-living-room.jpg; Adil said the old first image is too zoomed in ("second is more zoomed" — close-up tree filling the frame); the replacement shows the full lit tree with the pallet-wood collar clearly visible and breathing room around both.
 
 Keyword: "diy tree collar wood" (STRONG (screen #5, Nov 25, 2026)).
 All 30 images: real photos, portrait, JPEG q~82, <400KB, sharpness verified visually (full frame + bottom 35% strip), Nov 26 2026.
@@ -8,13 +9,13 @@ Widths: 19 photos >=768px. 11 photos below 768px at source (noted below) — sou
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 Natural Tapered Slat Collar | cand/01.bin | diy-tree-collar-wood-natural-tapered-slat.jpg | Lit Christmas tree in a natural wood tapered slat collar | https://housefulofhandmade.com/diy-wooden-christmas-decor/ |
+| 1 Pallet Collar in a Cozy Living Room | cand/15.bin | diy-tree-collar-wood-pallet-collar-living-room.jpg | Lit Christmas tree in a pallet wood collar in a cozy living room | https://debanddanelle.com/?s=trashed+tuesday |
 | 2 Light Slatted Cone Collar | cand/02.bin | diy-tree-collar-wood-light-slatted-cone.jpg | Light wood slatted cone tree collar with red and silver ornaments | https://grovehousereno.com/2021/12/07/making-a-wooden-tree-collar-christmas-diy/ |
 | 3 Dark Stained Collar with Plaid Ribbon | cand/04.bin | diy-tree-collar-wood-dark-stained-plaid-ribbon.jpg | Dark stained wooden tree collar trimmed with plaid ribbon | https://youcandiyblog.com/diy-tree-collar/ |
 | 4 Light Wood Box Collar | cand/08.bin | diy-tree-collar-wood-light-wood-box.jpg | Light wood box tree collar under a decorated Christmas tree | https://www.myrepurposedlife.com/pallet-wood-tree-collar/ |
 | 5 Weathered Wood Box Collar | cand/11.bin | diy-tree-collar-wood-weathered-wood-box.jpg | Weathered wood box tree collar close-up under a flocked tree | https://debanddanelle.com/trashed-tuesday-christmas-tree-collar-made-from-a-pallet/ |
 | 6 Rustic Pallet Box Collar | cand/13.bin | diy-tree-collar-wood-rustic-pallet-box.jpg | Rustic pallet wood box collar holding a lit Christmas tree | https://debanddanelle.com/trashed-tuesday-christmas-tree-collar-made-from-a-pallet/ |
-| 7 Pallet Collar in a Cozy Living Room | cand/15.bin | diy-tree-collar-wood-pallet-collar-living-room.jpg | Lit Christmas tree in a pallet wood collar in a cozy living room | https://debanddanelle.com/?s=trashed+tuesday |
+| 7 Natural Tapered Slat Collar | cand/01.bin | diy-tree-collar-wood-natural-tapered-slat.jpg | Lit Christmas tree in a natural wood tapered slat collar | https://housefulofhandmade.com/diy-wooden-christmas-decor/ |
 | 8 Dark Stained Wood Box | cand/18.bin | diy-tree-collar-wood-dark-stained-box.jpg | Dark stained wooden box collar close-up under a Christmas tree | https://createandbabble.com/how-to-make-christmas-tree-box/ |
 | 9 Gray Barn-Door X-Brace Box | cand/21.bin | diy-tree-collar-wood-gray-x-brace-box.jpg | Gray barn-door style wooden tree collar with X-brace panels | https://99fab.com/collections/sculptures?page=10 |
 | 10 Rustic Pallet Box with a Lit Tree | cand/28.bin | diy-tree-collar-wood-pallet-box-lit-tree.jpg | Rustic pallet wood box collar with a lit Christmas tree on a wood floor | https://www.pinterest.co.kr/ideas/homemade-christmas-tree-collar/907007139169/ |

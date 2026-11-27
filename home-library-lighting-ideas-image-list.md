@@ -1,4 +1,5 @@
 # 30 Home Library Lighting Ideas for a Warm, Glowing Nook — image provenance list
+Main-image fix, Nov 27, 2026: swapped design #1 and design #2 — first image is now home-library-lighting-ideas-floor-lamp-reading-chair.jpg (was home-library-lighting-ideas-brass-desk-lamp-open-book.jpg). Reason: old first image sharp but dark/moody overall; the 16:9 middle band is mostly dark bookshelves and reads dull as a hero/card.
 
 Keyword: "home library lighting ideas" (borderline passer — it passes on the file's heading-only listicle count (6), but would flip to REJECT if numbers appearing only in pin images were counted. It is kept as a passer per the file's method).
 All 30 images: real photos, portrait, JPEG q~82, <400KB, sharpness verified visually (full frame + bottom 35% strip), Nov 27 2026.
@@ -8,8 +9,8 @@ Widths: 27 photos >=768px. 3 photos below 768px at source (noted below) — sour
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 Brass Desk Lamp Beside an Open Book | cand/q01_2.bin | home-library-lighting-ideas-brass-desk-lamp-open-book.jpg | Warm brass desk lamp glowing beside an open book in a home library | https://www.pinterest.de/ideas/antique-desk-lamp-decor/953928986275/ |
-| 2 Tall Floor Lamp Beside a Reading Chair | cand/q02_0.bin | home-library-lighting-ideas-floor-lamp-reading-chair.jpg | Tall floor lamp glowing beside a cream reading chair and bookshelves | https://casolia.com/ideas-for-a-calming-room/ |
+| 1 Tall Floor Lamp Beside a Reading Chair | cand/q02_0.bin | home-library-lighting-ideas-floor-lamp-reading-chair.jpg | Tall floor lamp glowing beside a cream reading chair and bookshelves | https://casolia.com/ideas-for-a-calming-room/ |
+| 2 Brass Desk Lamp Beside an Open Book | cand/q01_2.bin | home-library-lighting-ideas-brass-desk-lamp-open-book.jpg | Warm brass desk lamp glowing beside an open book in a home library | https://www.pinterest.de/ideas/antique-desk-lamp-decor/953928986275/ |
 | 3 Brass Wall Sconce Between the Shelves | cand/q03_1.bin | home-library-lighting-ideas-brass-wall-sconce-shelves.jpg | Brass wall sconce with a cream shade glowing between dark bookshelves | https://www.pinterest.fr/pin/21-dark-academia-design-secrets-to-transform-your-space-aesthetically--22025485673471197/ |
 | 4 LED Strip Lights Along the Shelves | cand/q04_1.bin | home-library-lighting-ideas-led-strip-lights-shelves.jpg | Bookshelves outlined with warm LED strip lights in a home library | https://modernandmellow.com/blog/decorating-lamps-style/ |
 | 5 Picture Lights Over the Shelves | cand/q05_0.bin | home-library-lighting-ideas-picture-lights-over-shelves.jpg | Home library with picture lights glowing over tall wooden bookshelves | https://suite101.com/30-dimmable-lighting-ideas/ |

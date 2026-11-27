@@ -6,10 +6,10 @@ keyword: "cabbage crush decor"
 category: "Home Decor"
 date: "2026-11-26"
 images:
-  - file: "cabbage-crush-decor-sage-green-accent-wall-living-room.jpg"
-    alt: "Sage green panelled accent wall in a living room with a grey sofa and plants"
   - file: "cabbage-crush-decor-botanical-print-gallery-wall.jpg"
     alt: "Living room wall covered in framed botanical leaf prints above a green sofa"
+  - file: "cabbage-crush-decor-sage-green-accent-wall-living-room.jpg"
+    alt: "Sage green panelled accent wall in a living room with a grey sofa and plants"
   - file: "cabbage-crush-decor-green-velvet-armchair.jpg"
     alt: "Emerald green velvet armchair beside a floor lamp in a dark green living room"
   - file: "cabbage-crush-decor-sage-green-linen-curtains.jpg"
@@ -74,17 +74,7 @@ Cabbage crush decor is the fresh, leafy green look that makes a whole home feel 
 
 This list gathers 30 cabbage crush decor ideas, all decorating projects and styling ideas, from a green accent wall to a leafy wreath on the door. If you want the wider style overview with its kitchen and dining-room focus, our [30 Cabbage Crush Ideas for a Fresh, Garden-Inspired Home](https://www.cozynesthomeideas.com/posts/cabbage-crush/) is the companion piece — this list is the hands-on version: concrete things to paint, hang, sew and style in every room of the house.
 
-## 1. A Sage Green Accent Wall in the Living Room
-
-One sage green wall is the easiest way to bring cabbage crush into a living room. This room paints a panelled wall in soft sage, sets a grey sofa against it, and lets plants and a pale abstract print do the rest. The green is calm enough to live with every day, and the panelling gives a plain wall the architecture of a much older house.
-
-Paint the wall your sofa sits against, so the green is what you see when you walk in and what frames you when you sit down. Keep the sofa and rug pale — cream, grey or warm white — so the green stays the star, and add one plant in each corner to echo the wall color in real green.
-
-![Sage green panelled accent wall in a living room with a grey sofa and plants](/images/cabbage-crush-decor/cabbage-crush-decor-sage-green-accent-wall-living-room.jpg)
-
-> TIP:QUICK: Paint the wall behind the sofa, not the wall with the television — the green should frame people, not a screen.
-
-## 2. A Botanical Print Gallery Wall
+## 1. A Botanical Print Gallery Wall
 
 A gallery wall of botanical prints is the cheapest cabbage crush idea on this list, and one of the prettiest. This living room hangs a dozen framed fern and leaf prints in a neat grid above a green sofa, with a jute rug and a potted fig below. The prints are the garden, framed and hung where you see them every morning.
 
@@ -93,6 +83,16 @@ Use matching frames in one finish — natural wood or white — and keep the gap
 ![Living room wall covered in framed botanical leaf prints above a green sofa](/images/cabbage-crush-decor/cabbage-crush-decor-botanical-print-gallery-wall.jpg)
 
 > TIP:CHECK: matching frames in one finish; two-inch gaps kept even; prints the same size, leaf shapes mixed
+
+## 2. A Sage Green Accent Wall in the Living Room
+
+One sage green wall is the easiest way to bring cabbage crush into a living room. This room paints a panelled wall in soft sage, sets a grey sofa against it, and lets plants and a pale abstract print do the rest. The green is calm enough to live with every day, and the panelling gives a plain wall the architecture of a much older house.
+
+Paint the wall your sofa sits against, so the green is what you see when you walk in and what frames you when you sit down. Keep the sofa and rug pale — cream, grey or warm white — so the green stays the star, and add one plant in each corner to echo the wall color in real green.
+
+![Sage green panelled accent wall in a living room with a grey sofa and plants](/images/cabbage-crush-decor/cabbage-crush-decor-sage-green-accent-wall-living-room.jpg)
+
+> TIP:QUICK: Paint the wall behind the sofa, not the wall with the television — the green should frame people, not a screen.
 
 ## 3. A Green Velvet Armchair
 

@@ -1,4 +1,5 @@
 # 30 2027 Home Decor Ideas for a Fresh, Modern Home — image provenance list
+Note (Nov 27, 2026 — main-image fix): swapped idea #1 and idea #26 — first image changed from 2027-home-decor-ideas-warm-minimalist-living-room.jpg to 2027-home-decor-ideas-bold-floral-wallpaper.jpg; old first image only 681px wide (under the 768px minimum).
 
 Keyword: "2027 home decor ideas".
 All 30 images: real photos, portrait, JPEG q~82, <400KB, sharpness verified visually (full frame + bottom 35% strip), Nov 27 2026.
@@ -10,7 +11,7 @@ Discarded: one render-like living-room candidate (divan.ru) for #1 was replaced 
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 Warm Minimalist Living Room | cand/01.bin | 2027-home-decor-ideas-warm-minimalist-living-room.jpg | Warm minimalist living room with a cream sectional sofa, round wood coffee table and earthy cushions |  |
+| 1 Bold Wallpaper Feature Wall | cand/26.bin | 2027-home-decor-ideas-bold-floral-wallpaper.jpg | Living room with bold dark floral wallpaper behind a deep blue velvet sofa | https://suite101.com/30-anti-minimal-living-room-ideas/ |
 | 2 Curved Bouclé Sofa | cand/02.bin | 2027-home-decor-ideas-curved-boucle-sofa.jpg | Curved cream bouclé sofa in a bright modern living room with a round marble coffee table | https://suite101.com/30-quiet-luxury-apartment-ideas/ |
 | 3 White Bouclé Accent Chair | cand/03b.bin | 2027-home-decor-ideas-white-boucle-accent-chair.jpg | White bouclé accent chair with a rounded back and black metal legs in a bright living room | https://www.pinterest.com/celesteeveril/inspiration |
 | 4 Natural Stone Coffee Table | cand/04.bin | 2027-home-decor-ideas-onyx-stone-coffee-table.jpg | Living room with a natural onyx stone coffee table with a glass top and a beige sofa | https://www.counterfixtures.com/shop/p/onyx-boulder-coffee-table |
@@ -35,7 +36,7 @@ Discarded: one render-like living-room candidate (divan.ru) for #1 was replaced 
 | 23 Bold Velvet Sofa | cand/23.bin | 2027-home-decor-ideas-emerald-velvet-sofa.jpg | Living room with a deep green velvet sofa, burgundy walls and mustard accents | https://too-much-time.com/eclectic-living-room-ideas/ |
 | 24 Sheer Linen Curtains | cand/24.bin | 2027-home-decor-ideas-sheer-linen-curtains.jpg | Sunlit living room with sheer beige linen curtains and a white slipcovered sofa | https://suite101.com/30-restorative-living-room-ideas/ |
 | 25 Arched Mirror in the Hallway | cand/25.bin | 2027-home-decor-ideas-arched-mirror-hallway.jpg | Bright hallway with a tall black-framed arched mirror and a woven runner rug | https://suite101.com/30-arched-mirror-hallway-ideas/ |
-| 26 Bold Wallpaper Feature Wall | cand/26.bin | 2027-home-decor-ideas-bold-floral-wallpaper.jpg | Living room with bold dark floral wallpaper behind a deep blue velvet sofa | https://suite101.com/30-anti-minimal-living-room-ideas/ |
+| 26 Warm Minimalist Living Room | cand/01.bin | 2027-home-decor-ideas-warm-minimalist-living-room.jpg | Warm minimalist living room with a cream sectional sofa, round wood coffee table and earthy cushions |  |
 | 27 Multifunctional Furniture | cand/27.bin | 2027-home-decor-ideas-multifunctional-sofa-storage.jpg | Small living room with a grey sofa and a lift-up storage coffee table | https://lightandlayer.com/blog/apartment-layout-ideas/ |
 | 28 Warm Wood in the Bathroom | cand/28b.bin | 2027-home-decor-ideas-warm-wood-bathroom.jpg | Bright bathroom with warm wood cabinetry, a freestanding tub and a large mirror | https://suite101.com/30-nancy-meyers-bathroom-ideas/ |
 | 29 Handmade Ceramics on Display | cand/29.bin | 2027-home-decor-ideas-handmade-ceramics-plate-rack.jpg | Wooden plate rack displaying handmade ceramic plates, cups and bowls | https://www.cerdeirahomeforcreativity.com/ceramica-utilitaria |

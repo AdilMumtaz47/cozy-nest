@@ -6,14 +6,14 @@ keyword: "new year living room decor ideas"
 category: "Home Decor"
 date: "2026-11-27"
 images:
-  - file: "new-year-living-room-decor-ideas-gold-balloon-cluster-sofa.jpg"
-    alt: "Clear balloons filled with gold confetti floating above a beige sofa with champagne flutes on the coffee table"
+  - file: "new-year-living-room-decor-ideas-gold-silver-bauble-mantel-garland.jpg"
+    alt: "Fireplace mantel draped with a green garland covered in gold and silver baubles above a lit fire"
   - file: "new-year-living-room-decor-ideas-black-gold-glam-living-room.jpg"
     alt: "Black velvet sofa with a gold sequin pillow beside a black Christmas tree with gold ornaments"
   - file: "new-year-living-room-decor-ideas-gold-white-countdown-mantel.jpg"
     alt: "Fireplace mantel styled with white flowers, gold ornaments and fairy lights for New Year"
-  - file: "new-year-living-room-decor-ideas-gold-silver-bauble-mantel-garland.jpg"
-    alt: "Fireplace mantel draped with a green garland covered in gold and silver baubles above a lit fire"
+  - file: "new-year-living-room-decor-ideas-gold-balloon-cluster-sofa.jpg"
+    alt: "Clear balloons filled with gold confetti floating above a beige sofa with champagne flutes on the coffee table"
   - file: "new-year-living-room-decor-ideas-champagne-bar-cart-party.jpg"
     alt: "Gold bar cart styled for New Year's Eve with champagne, party hats and a Happy New Year banner"
   - file: "new-year-living-room-decor-ideas-gold-bar-cart-champagne-ice-bucket.jpg"
@@ -74,15 +74,15 @@ New year living room decor ideas are all about the reset: clearing the clutter o
 
 This list gathers 30 ideas that do exactly that, from balloon clusters and bar carts for the countdown to decluttered shelves, fresh flowers and a white and silver tree that stays up long after the party ends. Pick one idea per corner of the room, and the whole space will feel new without a single big purchase.
 
-## 1. Gold Balloon Cluster over the Sofa
+## 1. Gold and Silver Bauble Mantel Garland
 
-A cluster of clear balloons filled with gold confetti is the fastest way to make a living room feel like a party. Tie the bunch to a weight on the coffee table so it floats above the sofa, and let the strings fall in a loose spray — the confetti catches the light every time someone walks past.
+If one mantel garland could carry the whole New Year, it would be this one: a thick green garland loaded with gold and silver baubles, draped over the mantel and spilling down both sides. The baubles do the decorating, so you need nothing else on the mantel at all.
 
-Keep the rest of the room calm so the balloons do the talking. A few champagne flutes on the table and a small gold arrangement underneath are enough; the balloons are the decoration, not an addition to it.
+Mix bauble finishes — shiny, matte and glitter — in roughly equal numbers, and tuck a string of warm lights deep inside the greenery so the whole garland glows from within. A lit fire below finishes the scene.
 
-![Clear balloons filled with gold confetti floating above a beige sofa with champagne flutes on the coffee table](/images/new-year-living-room-decor-ideas/new-year-living-room-decor-ideas-gold-balloon-cluster-sofa.jpg)
+![Fireplace mantel draped with a green garland covered in gold and silver baubles above a lit fire](/images/new-year-living-room-decor-ideas/new-year-living-room-decor-ideas-gold-silver-bauble-mantel-garland.jpg)
 
-> TIP:QUICK: Tie the balloon bunch to a heavy weight on the coffee table so it floats safely above the sofa.
+> TIP:QUICK: Mix shiny, matte and glitter baubles evenly, and tuck the lights deep inside the greenery.
 
 ## 2. Black-and-Gold Glam Living Room
 
@@ -104,15 +104,15 @@ Because the palette is so restrained, texture does the work: shiny baubles next 
 
 > TIP:GUIDE: Palette: gold and white only | Texture: shiny baubles beside matte flowers | Focal point: one tall gold arrangement
 
-## 4. Gold and Silver Bauble Mantel Garland
+## 4. Gold Balloon Cluster over the Sofa
 
-If one mantel garland could carry the whole New Year, it would be this one: a thick green garland loaded with gold and silver baubles, draped over the mantel and spilling down both sides. The baubles do the decorating, so you need nothing else on the mantel at all.
+A cluster of clear balloons filled with gold confetti is the fastest way to make a living room feel like a party. Tie the bunch to a weight on the coffee table so it floats above the sofa, and let the strings fall in a loose spray — the confetti catches the light every time someone walks past.
 
-Mix bauble finishes — shiny, matte and glitter — in roughly equal numbers, and tuck a string of warm lights deep inside the greenery so the whole garland glows from within. A lit fire below finishes the scene.
+Keep the rest of the room calm so the balloons do the talking. A few champagne flutes on the table and a small gold arrangement underneath are enough; the balloons are the decoration, not an addition to it.
 
-![Fireplace mantel draped with a green garland covered in gold and silver baubles above a lit fire](/images/new-year-living-room-decor-ideas/new-year-living-room-decor-ideas-gold-silver-bauble-mantel-garland.jpg)
+![Clear balloons filled with gold confetti floating above a beige sofa with champagne flutes on the coffee table](/images/new-year-living-room-decor-ideas/new-year-living-room-decor-ideas-gold-balloon-cluster-sofa.jpg)
 
-> TIP:QUICK: Mix shiny, matte and glitter baubles evenly, and tuck the lights deep inside the greenery.
+> TIP:QUICK: Tie the balloon bunch to a heavy weight on the coffee table so it floats safely above the sofa.
 
 ## 5. Champagne Bar Cart, Party-Ready
 

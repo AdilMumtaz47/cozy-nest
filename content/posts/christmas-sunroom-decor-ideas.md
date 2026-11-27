@@ -6,14 +6,14 @@ keyword: "christmas sunroom decor ideas"
 category: "Christmas Decor"
 date: "2026-11-27"
 images:
-  - file: "christmas-sunroom-decor-ideas-potted-tree-glass-walls.jpg"
-    alt: "Potted Christmas tree with white lights in a bright sunroom with snowy windows"
+  - file: "christmas-sunroom-decor-ideas-greenhouse-trees-bench-lanterns.jpg"
+    alt: "Greenhouse sunroom with lit Christmas trees, a wooden bench and glowing lanterns"
   - file: "christmas-sunroom-decor-ideas-winter-conservatory.jpg"
     alt: "Winter conservatory with a lit Christmas tree, faux fur chair and pinecone basket"
   - file: "christmas-sunroom-decor-ideas-wreath-glass-door.jpg"
     alt: "Christmas wreath with a red bow hanging on a glass sunroom door"
-  - file: "christmas-sunroom-decor-ideas-greenhouse-trees-bench-lanterns.jpg"
-    alt: "Greenhouse sunroom with lit Christmas trees, a wooden bench and glowing lanterns"
+  - file: "christmas-sunroom-decor-ideas-potted-tree-glass-walls.jpg"
+    alt: "Potted Christmas tree with white lights in a bright sunroom with snowy windows"
   - file: "christmas-sunroom-decor-ideas-white-veranda-dining-table.jpg"
     alt: "White veranda dining table set for Christmas with hanging ornaments and snowy views"
   - file: "christmas-sunroom-decor-ideas-christmas-tablescape-poinsettias.jpg"
@@ -74,15 +74,15 @@ A sunroom is the easiest room in the house to decorate for Christmas, because th
 
 Start with one anchor, usually the tree, then layer greenery, light and texture around it. Keep the palette simple so the view outside stays part of the decoration, and save this list for the ideas you want to try first.
 
-## 1. Potted Christmas Tree by the Glass Walls
+## 1. Greenhouse Glow with Lit Trees and Lanterns
 
-A potted tree in a basket or barrel is the most natural fit for a sunroom, where plants already live. Set it where the glass meets the floor so the lights reflect in the windows at dusk, and keep the decorations light — white lights, a few wooden ornaments and a simple topper — so the tree still reads as a plant, not a prop.
+A greenhouse-style sunroom with a glass roof is made for evening light. Line up two or three slim lit trees along the glass, set lanterns with pillar candles on the floor beside a wooden bench, and let the garland across the top frame the whole scene. By dusk the room glows like a lantern itself.
 
-After Christmas, a potted tree can move outside or stay in its pot by the window until spring. Water it lightly through the season and keep it away from the hottest patch of direct sun so the needles stay fresh.
+Battery candles in the lanterns keep this look safe and simple, and they can stay on a timer so the room lights itself every evening. Keep the bench cushions neutral so the green of the trees stays the star.
 
-![Potted Christmas tree with white lights in a bright sunroom with snowy windows](/images/christmas-sunroom-decor-ideas/christmas-sunroom-decor-ideas-potted-tree-glass-walls.jpg)
+![Greenhouse sunroom with lit Christmas trees, a wooden bench and glowing lanterns](/images/christmas-sunroom-decor-ideas/christmas-sunroom-decor-ideas-greenhouse-trees-bench-lanterns.jpg)
 
-> TIP:QUICK: Set the tree where the glass meets the floor so the lights reflect in the windows at dusk.
+> TIP:QUICK: Use battery candles on a timer so the room lights itself every evening.
 
 ## 2. Winter Conservatory Dressed for Christmas
 
@@ -104,15 +104,15 @@ Because the door gets opened all day, keep the wreath light and wire the bow on 
 
 > TIP:GUIDE: Hang: wide ribbon looped over the door top | Wreath: full evergreen with one red bow | Fix: wire the bow on firmly
 
-## 4. Greenhouse Glow with Lit Trees and Lanterns
+## 4. Potted Christmas Tree by the Glass Walls
 
-A greenhouse-style sunroom with a glass roof is made for evening light. Line up two or three slim lit trees along the glass, set lanterns with pillar candles on the floor beside a wooden bench, and let the garland across the top frame the whole scene. By dusk the room glows like a lantern itself.
+A potted tree in a basket or barrel is the most natural fit for a sunroom, where plants already live. Set it where the glass meets the floor so the lights reflect in the windows at dusk, and keep the decorations light — white lights, a few wooden ornaments and a simple topper — so the tree still reads as a plant, not a prop.
 
-Battery candles in the lanterns keep this look safe and simple, and they can stay on a timer so the room lights itself every evening. Keep the bench cushions neutral so the green of the trees stays the star.
+After Christmas, a potted tree can move outside or stay in its pot by the window until spring. Water it lightly through the season and keep it away from the hottest patch of direct sun so the needles stay fresh.
 
-![Greenhouse sunroom with lit Christmas trees, a wooden bench and glowing lanterns](/images/christmas-sunroom-decor-ideas/christmas-sunroom-decor-ideas-greenhouse-trees-bench-lanterns.jpg)
+![Potted Christmas tree with white lights in a bright sunroom with snowy windows](/images/christmas-sunroom-decor-ideas/christmas-sunroom-decor-ideas-potted-tree-glass-walls.jpg)
 
-> TIP:QUICK: Use battery candles on a timer so the room lights itself every evening.
+> TIP:QUICK: Set the tree where the glass meets the floor so the lights reflect in the windows at dusk.
 
 ## 5. White Veranda Dining Table
 

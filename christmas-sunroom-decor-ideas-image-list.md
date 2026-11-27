@@ -1,4 +1,5 @@
 # 30 Christmas Sunroom Decor Ideas for a Bright, Festive Space — image provenance list
+Note (Nov 27, 2026 — main-image fix): swapped idea #1 and idea #4 — first image changed from christmas-sunroom-decor-ideas-potted-tree-glass-walls.jpg to christmas-sunroom-decor-ideas-greenhouse-trees-bench-lanterns.jpg; Adil said the old first image is too dark/moody ("first is dark"); the replacement is the brightest true sunroom in the article (white glass walls/roof, lit trees, bench with cream cushions, glowing lanterns).
 
 Keyword: "christmas sunroom decor ideas" (no screen verdict supplied with this build).
 All 30 images: real photos, portrait, JPEG q~82 (a few q67–77 to stay under 400KB), <400KB, sharpness verified visually (full frame + bottom 35% strip), Nov 27 2026.
@@ -10,10 +11,10 @@ Note: Pexels photos were fetched from the Pexels image CDN at w=1024 (w=2048 whe
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 Potted Christmas Tree by the Glass Walls | px/px11107745.bin | christmas-sunroom-decor-ideas-potted-tree-glass-walls.jpg | Potted Christmas tree with white lights in a bright sunroom with snowy windows | https://www.pexels.com/photo/11107745/ |
+| 1 Greenhouse Glow with Lit Trees and Lanterns | cand/claus.bin | christmas-sunroom-decor-ideas-greenhouse-trees-bench-lanterns.jpg | Greenhouse sunroom with lit Christmas trees, a wooden bench and glowing lanterns | https://clauslightphotography.com/ |
 | 2 Winter Conservatory Dressed for Christmas | px/px35622831.bin | christmas-sunroom-decor-ideas-winter-conservatory.jpg | Winter conservatory with a lit Christmas tree, faux fur chair and pinecone basket | https://www.pexels.com/photo/35622831/ |
 | 3 Wreath on the Glass Door | px/px21701325.bin | christmas-sunroom-decor-ideas-wreath-glass-door.jpg | Christmas wreath with a red bow hanging on a glass sunroom door | https://www.pexels.com/photo/21701325/ |
-| 4 Greenhouse Glow with Lit Trees and Lanterns | cand/claus.bin | christmas-sunroom-decor-ideas-greenhouse-trees-bench-lanterns.jpg | Greenhouse sunroom with lit Christmas trees, a wooden bench and glowing lanterns | https://clauslightphotography.com/ |
+| 4 Potted Christmas Tree by the Glass Walls | px/px11107745.bin | christmas-sunroom-decor-ideas-potted-tree-glass-walls.jpg | Potted Christmas tree with white lights in a bright sunroom with snowy windows | https://www.pexels.com/photo/11107745/ |
 | 5 White Veranda Dining Table | cand/veranda.bin | christmas-sunroom-decor-ideas-white-veranda-dining-table.jpg | White veranda dining table set for Christmas with hanging ornaments and snowy views | https://www.annatruelsen.se/2015/11/11/reportage-i-osterbotten/ |
 | 6 Christmas Tablescape with Poinsettias | cand/tablescape.bin | christmas-sunroom-decor-ideas-christmas-tablescape-poinsettias.jpg | Christmas tablescape with red poinsettias, plaid napkins and evergreen garland | https://shiplapandshells.com/traditional-Christmas-tablescape-using-vintage-collections/ |
 | 7 Paper Stars Glowing in the Windows | cand/stars.bin | christmas-sunroom-decor-ideas-paper-stars-window.jpg | Paper star lanterns glowing in a snowy window beside a small Christmas tree | https://milorien.com/apartment-christmas-decor-inspiring-ideas-for-every-style-and-space/ |

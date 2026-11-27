@@ -1,4 +1,5 @@
 # 30 DIY Tree Collar Ideas for a Finished Christmas Tree — image provenance list
+Main-image fix, Nov 27, 2026: swapped design #1 and design #28 — first image is now diy-tree-collar-burlap-gingham-bow.jpg (was diy-tree-collar-galvanized-snowflake.jpg). Reason: old first image is a bare product shot on a plain white background that looks like a 3D render / studio shot (Adil: "third looks 3D"); the replacement was verified as a genuine photograph (real room, wood floor, wrinkled burlap, imperfect bow).
 
 Keyword: "diy tree collar" (WINNABLE (screen #4, Nov 25, 2026)).
 All 30 images: real photos, portrait, JPEG q~82, <400KB, sharpness verified visually (full frame + bottom 35% strip), Nov 26 2026.
@@ -8,7 +9,7 @@ Widths: 12 photos >=768px. 18 photos below 768px at source (noted below) — sou
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 Galvanized Snowflake Cutout Collar | cand/01.bin | diy-tree-collar-galvanized-snowflake.jpg | Galvanized metal tree collar with snowflake cutouts | https://www.pinterest.com/shopping/glam-tree-collar/961431678705/ |
+| 1 Burlap Sack with Gingham Bow | cand/56.bin | diy-tree-collar-burlap-gingham-bow.jpg | Burlap sack tree collar tied with a gingham bow under a flocked tree | https://lisamichelleblog.com/2020/12/01/diy-christmas-decor-hack/ |
 | 2 Christmas Tree Farm Galvanized Collar | cand/03.bin | diy-tree-collar-galvanized-christmas-tree-farm.jpg | Galvanized metal tree collar printed with Christmas Tree Farm | https://www.kohls.com/product/prd-6031019/christmas-tree-collar-steel-tree-ring-skirt-decor-w-print-26-base-silver.jsp |
 | 3 Plain Galvanized Collar | cand/04.bin | diy-tree-collar-plain-galvanized.jpg | Plain galvanized metal tree collar | https://inceptionai.ca/en-CA/home-kitchen-garden/seasonal-decor/christmas-decorations/christmas-tree-skirts/tree-collar-skirts |
 | 4 Red Truck Merry Little Christmas Collar | cand/07.bin | diy-tree-collar-galvanized-red-truck.jpg | Galvanized metal tree collar with a red truck and Merry Little Christmas print | https://www.birchlane.com/Glitzhome--Christmas-Galvanized-Metal-Tree-Collar-GH31076-L7508-K~HBUA2617.html?cjdata=MXxOfDB8WXww&cjevent=a6bec09b9a0111ef82e702360a82b820&refid=BCJ2975314&ssaid=BCJ2975314 |
@@ -35,6 +36,6 @@ Widths: 12 photos >=768px. 18 photos below 768px at source (noted below) — sou
 | 25 Burlap Collar with Gold Tassels | cand/53.bin | diy-tree-collar-burlap-gold-tassels.jpg | Burlap tree collar with gold tassels under a Christmas tree | https://encarguelo.com/producto/B08F2NYDMW/meriwoods-christmas-tree-collar-25-inch-large-burlap-tree-skirt-with-tassels-natural-jute-country-rustic-holiday-indoor-decorations |
 | 26 Fringed Burlap Collar | cand/54.bin | diy-tree-collar-burlap-fringed.jpg | Fringed burlap tree collar under a Christmas tree with red berries | https://www.truckuc.com/bunny-chorus-christmas-tree-skirt |
 | 27 Ruffled Burlap Collar | cand/55.bin | diy-tree-collar-burlap-ruffled.jpg | Ruffled burlap tree collar under a Christmas tree |  |
-| 28 Burlap Sack with Gingham Bow | cand/56.bin | diy-tree-collar-burlap-gingham-bow.jpg | Burlap sack tree collar tied with a gingham bow under a flocked tree | https://lisamichelleblog.com/2020/12/01/diy-christmas-decor-hack/ |
+| 28 Galvanized Snowflake Cutout Collar | cand/01.bin | diy-tree-collar-galvanized-snowflake.jpg | Galvanized metal tree collar with snowflake cutouts | https://www.pinterest.com/shopping/glam-tree-collar/961431678705/ |
 | 29 Burlap Collar on a Dark Floor | cand/59.bin | diy-tree-collar-burlap-dark-floor.jpg | Burlap tree collar under a Christmas tree on a dark wood floor | https://www.duralchristmastreefarm.com.au/tree-accessories/ |
 | 30 White Mesh Grid Collar with Rope Trim | cand/60.bin | diy-tree-collar-white-mesh-rope-trim.jpg | White mesh grid tree collar with rope trim under a Christmas tree | https://www.dollartree.com/3-ways-to-make-christmas-tree-collars/idea-20231101-6?blog=4 |

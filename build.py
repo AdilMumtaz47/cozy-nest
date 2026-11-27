@@ -14,6 +14,13 @@ PAGES_DIR = os.path.join(ROOT, "content", "pages")
 SITE_NAME = "Cozy Nest"
 SITE_URL = "https://cozynesthomeideas.com"
 SITE_DESC = "Home decor inspiration — room ideas, seasonal looks and cozy corners, one list at a time."
+# Seasonal featured article for the homepage hero (build_home): the best
+# article for the current season sits at the top of the site when it opens,
+# not just the newest one. Rotate with the season — Christmas now through
+# Dec 25, 2026; rotate ~Dec 26 to "winter-home" for winter, then to
+# "valentine-mantel-decor" for Valentine's Day. build_home falls back to
+# articles[0] if no article matches, so a typo here never breaks the homepage.
+FEATURED_SLUG = "cozy-christmas"
 LOGO_URL = "/images/logo.jpg"
 # Pinterest domain verification (website claim, Nov 25, 2026) — must stay in <head> on every page.
 PINTEREST_VERIFY = '<meta name="p:domain_verify" content="b3a9c8b49732f06d4d7bd127982c0c0c">'
@@ -755,7 +762,12 @@ def build_home(articles):
     # homepage opens straight onto the featured article (header, nav, then
     # content — like an article page).
     if articles:
-        featured = articles[0]
+        # Seasonal featured article (FEATURED_SLUG), not the newest one —
+        # the homepage opens on the best article for the current season.
+        featured = next(
+            (a for a in articles if a["meta"].get("slug") == FEATURED_SLUG),
+            articles[0],
+        )
         fm = featured["meta"]
         fimg = ""
         feat_pin = ""

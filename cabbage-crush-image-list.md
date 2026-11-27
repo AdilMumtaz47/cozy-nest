@@ -1,4 +1,5 @@
 # 30 Cabbage Crush Ideas for a Fresh, Garden-Inspired Home — image provenance list
+Note (Nov 27, 2026 — main-image fix): swapped idea #1 and idea #13 — first image changed from cabbage-crush-sage-green-kitchen-open-shelves.jpg to cabbage-crush-dining-room-green-panelled-walls.jpg; old first image only 750px wide (under the 768px minimum).
 
 Keyword: "cabbage crush" (screen #5, Nov 25, 2026 — STRONG).
 All 30 images: real photos, portrait, JPEG q~82, <400KB, sharpness verified visually (full frame + bottom 35% strip), Nov 26 2026.
@@ -8,7 +9,7 @@ Widths: 28 photos >=768px. 2 photo(s) below 768px at source (noted below) — so
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 Sage Green Cabinets with Open Shelves | kept/00.jpg | cabbage-crush-sage-green-kitchen-open-shelves.jpg | Sage green kitchen with open wooden shelves, white subway tile and potted herbs | https://cdn.shopify.com/s/files/1/0530/8629/0092/files/4_7a4c9e52-e246-4f89-ab0f-2ee0d682c3ee.png?v=1773758557 |
+| 1 Green Panelled Walls in the Dining Room | kept/18.jpg | cabbage-crush-dining-room-green-panelled-walls.jpg | Dining room with green panelled walls, a chandelier and a round table with green chairs | https://too-much-time.com/glam-dining-room-ideas/ |
 | 2 Sage Green Cabinets with Glass Fronts | kept/03.jpg | cabbage-crush-sage-green-kitchen-glass-cabinets.jpg | Sage green kitchen with glass-front cabinets, a farmhouse sink and wooden shelves | https://www.pinterest.se/ideas/olive-cabinet/904649921034/ |
 | 3 A Dining Room in Dark Botanical Wallpaper | kept/06.jpg | cabbage-crush-dining-room-dark-botanical-wallpaper.jpg | Dining room with dark green botanical wallpaper and a wooden table set for dinner | https://clips.cl/?c=64529074 |
 | 4 Green Floral Wallpaper with a Chandelier | kept/08.jpg | cabbage-crush-dining-room-floral-wallpaper-chandelier.jpg | Dining room with green floral wallpaper, a crystal chandelier and a wooden table | https://i.pinimg.com/originals/41/14/a3/4114a39586485b14043037eacca9d6ed.jpg |
@@ -20,7 +21,7 @@ Widths: 28 photos >=768px. 2 photo(s) below 768px at source (noted below) — so
 | 10 A Monochrome Green Dining Room | kept/15.jpg | cabbage-crush-dining-room-monochrome-green-velvet.jpg | Monochrome green dining room with velvet chairs and a round table | https://image.lemonademakinmama.com/wp-content/uploads/2025/06/Monochromatic-Green-Dining-Room-with-Varying-Shades.jpg |
 | 11 A Jade Green Dining Room with a Chandelier | kept/16.jpg | cabbage-crush-dining-room-jade-green-chandelier.jpg | Jade green dining room with a crystal chandelier and a long wooden table | https://glowdecors.com/green-dining-room-ideas/ |
 | 12 A Classic Olive Green Dining Room | kept/17.jpg | cabbage-crush-dining-room-olive-green-classic.jpg | Classic olive green dining room with upholstered chairs and a large wooden table | https://cozyrefresh.com/44-olive-green-classic-dining-room-decor-ideas/ |
-| 13 Green Panelled Walls in the Dining Room | kept/18.jpg | cabbage-crush-dining-room-green-panelled-walls.jpg | Dining room with green panelled walls, a chandelier and a round table with green chairs | https://too-much-time.com/glam-dining-room-ideas/ |
+| 13 Sage Green Cabinets with Open Shelves | kept/00.jpg | cabbage-crush-sage-green-kitchen-open-shelves.jpg | Sage green kitchen with open wooden shelves, white subway tile and potted herbs | https://cdn.shopify.com/s/files/1/0530/8629/0092/files/4_7a4c9e52-e246-4f89-ab0f-2ee0d682c3ee.png?v=1773758557 |
 | 14 An Emerald Green Feature Wall | kept/20.jpg | cabbage-crush-dining-room-emerald-green-wall.jpg | Dining room with an emerald green wall and a wooden table with mismatched chairs | https://paintloving.com/emerald-green-dining-room-paint-colors-that-feel-luxurious/ |
 | 15 Jade Green Paint with a Mirror | kept/21.jpg | cabbage-crush-dining-room-jade-green-paint.jpg | Jade green dining room with a chandelier, a large mirror and a long wooden table | https://suite101.com/30-jade-green-decor-ideas/ |
 | 16 Dark Botanical Wallpaper in the Kitchen | kept/24.jpg | cabbage-crush-kitchen-dark-botanical-wallpaper.jpg | Kitchen with dark botanical wallpaper, white cabinets and a basket of lemons | https://www.desertcart.vn/products/580385733 |

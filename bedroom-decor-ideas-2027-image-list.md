@@ -1,4 +1,5 @@
 # 30 Bedroom Decor Ideas for 2027 — image provenance list
+Note (Nov 27, 2026 — main-image fix): swapped idea #1 and idea #5 — first image changed from bedroom-decor-ideas-2027-warm-earth-tone-terracotta.jpg to bedroom-decor-ideas-2027-boucle-accent-chair-corner.jpg; old first image only 720px wide (under the 768px minimum).
 
 Keyword: "bedroom decor ideas 2027".
 All 30 images: real photos, portrait, JPEG q82, <400KB, sharpness verified visually (full frame + bottom 35% strip), Nov 27 2026.
@@ -8,11 +9,11 @@ Widths: 19 photos >=768px. 11 photos below 768px at source (noted below) — sou
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 Warm Earth-Tone Palette | cand-bedroom-decor-ideas-2027/01f.bin | bedroom-decor-ideas-2027-warm-earth-tone-terracotta.jpg | Terracotta bedroom with peach walls, rust bedding and woven baskets | https://www.lostateminor.com/30-popular-bedroom-ideas/ |
+| 1 Bouclé Accent Chair in the Corner | cand-bedroom-decor-ideas-2027/05.bin | bedroom-decor-ideas-2027-boucle-accent-chair-corner.jpg | Cream boucle accent chair with a rust pillow in a sunny bedroom corner | https://softandsoulful.com/blog/bedroom-chair-an85zx/ |
 | 2 Layered Neutral Linen Bedding | cand-bedroom-decor-ideas-2027/02.bin | bedroom-decor-ideas-2027-layered-neutral-linen-bedding.jpg | Neutral bedroom with layered linen bedding and a cable knit throw | https://healthypieideas.com/23-calming-bedroom-styling-ideas-for-a-warm/ |
 | 3 Oversized Upholstered Headboard | cand-bedroom-decor-ideas-2027/03.bin | bedroom-decor-ideas-2027-oversized-upholstered-headboard.jpg | Bedroom with a tall channel-tufted upholstered headboard in beige | https://seekpretty.com/oversized-headboard-ideas-for-people-who-want-their-bed-to-look-custom/ |
 | 4 Sculptural Pendant Light | cand-bedroom-decor-ideas-2027/04.bin | bedroom-decor-ideas-2027-sculptural-pendant-light.jpg | Bedroom with a sculptural petal-shaped pendant light above the bed | https://minimalistdecorideas.com/minimalist-bedroom-ideas/ |
-| 5 Bouclé Accent Chair in the Corner | cand-bedroom-decor-ideas-2027/05.bin | bedroom-decor-ideas-2027-boucle-accent-chair-corner.jpg | Cream boucle accent chair with a rust pillow in a sunny bedroom corner | https://softandsoulful.com/blog/bedroom-chair-an85zx/ |
+| 5 Warm Earth-Tone Palette | cand-bedroom-decor-ideas-2027/01f.bin | bedroom-decor-ideas-2027-warm-earth-tone-terracotta.jpg | Terracotta bedroom with peach walls, rust bedding and woven baskets | https://www.lostateminor.com/30-popular-bedroom-ideas/ |
 | 6 Dark Moody Green Accent Wall | cand-bedroom-decor-ideas-2027/06d.bin | bedroom-decor-ideas-2027-dark-moody-green-accent-wall.jpg | Bedroom with a dark green panelled accent wall and velvet headboard | https://upgradesign.blog/blog/page/267/ |
 | 7 Sheer Linen Curtains | cand-bedroom-decor-ideas-2027/07.bin | bedroom-decor-ideas-2027-sheer-linen-curtains.jpg | Bedroom with sheer linen curtains glowing in morning sunlight | https://homedecorglow.com/bedroom-decor-ideas-for-women/ |
 | 8 Floor-to-Ceiling Built-In Wardrobe Wall | cand-bedroom-decor-ideas-2027/08.bin | bedroom-decor-ideas-2027-built-in-wardrobe-wall.jpg | Bedroom with a floor-to-ceiling built-in wardrobe wall in white and oak | https://sundayflat.com/blog/built-in-closet-ideas/ |

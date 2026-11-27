@@ -1,4 +1,5 @@
 # 30 Cabbage Crush Decor Ideas for a Fresh Home — image provenance list
+Main-image fix, Nov 27, 2026: swapped design #1 and design #2 — first image is now cabbage-crush-decor-botanical-print-gallery-wall.jpg (was cabbage-crush-decor-sage-green-accent-wall-living-room.jpg). Reason: old first image only 750px wide (under the 768px minimum) and pale/muted with a large empty wall in the hero band.
 
 Keyword: "cabbage crush decor" (fresh re-check Nov 26, 2026 — STRONG, top-12 listicle count 3, exact phrase never appeared in autocomplete).
 All 30 images: real photos, portrait, JPEG q~82, <400KB, sharpness verified visually (full frame + bottom 35% strip), Nov 26 2026.
@@ -8,8 +9,8 @@ Widths: 22 photos >=768px. 8 photo(s) below 768px at source (noted below) — so
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 A Sage Green Accent Wall in the Living Room | cand/01-2.bin | cabbage-crush-decor-sage-green-accent-wall-living-room.jpg | Sage green panelled accent wall in a living room with a grey sofa and plants | https://www.artofit.org/image-gallery/962996332819965424/ready-assemble-wall-molding-frames-paintable-white-wall-panel-mouldings-wainscoting-resistant-half-wall-panel-peel-stick-customisable-wall-etsy-uk/ |
-| 2 A Botanical Print Gallery Wall | cand/02-0.bin | cabbage-crush-decor-botanical-print-gallery-wall.jpg | Living room wall covered in framed botanical leaf prints above a green sofa | https://suite101.com/30-rustic-living-room-ideas/ |
+| 1 A Botanical Print Gallery Wall | cand/02-0.bin | cabbage-crush-decor-botanical-print-gallery-wall.jpg | Living room wall covered in framed botanical leaf prints above a green sofa | https://suite101.com/30-rustic-living-room-ideas/ |
+| 2 A Sage Green Accent Wall in the Living Room | cand/01-2.bin | cabbage-crush-decor-sage-green-accent-wall-living-room.jpg | Sage green panelled accent wall in a living room with a grey sofa and plants | https://www.artofit.org/image-gallery/962996332819965424/ready-assemble-wall-molding-frames-paintable-white-wall-panel-mouldings-wainscoting-resistant-half-wall-panel-peel-stick-customisable-wall-etsy-uk/ |
 | 3 A Green Velvet Armchair | cand/03-0.bin | cabbage-crush-decor-green-velvet-armchair.jpg | Emerald green velvet armchair beside a floor lamp in a dark green living room | https://www.lemonademakinmama.com/cozy-living-room-ideas/ |
 | 4 Sage Green Linen Curtains | cand/04-0.bin | cabbage-crush-decor-sage-green-linen-curtains.jpg | Sage green linen curtains framing a large window in a bright living room | https://3hlinen.com/collections/curtains-for-living-room?page=5 |
 | 5 Green Ceramic Vases on the Mantel | cand/05-0.bin | cabbage-crush-decor-green-ceramic-vases-mantel.jpg | Green floral ceramic ginger jar on a white mantel with candles and a small plant |  |

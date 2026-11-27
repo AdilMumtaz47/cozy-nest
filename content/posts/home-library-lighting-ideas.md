@@ -6,10 +6,10 @@ keyword: "home library lighting ideas"
 category: "Home Decor"
 date: "2026-11-27"
 images:
-  - file: "home-library-lighting-ideas-brass-desk-lamp-open-book.jpg"
-    alt: "Warm brass desk lamp glowing beside an open book in a home library"
   - file: "home-library-lighting-ideas-floor-lamp-reading-chair.jpg"
     alt: "Tall floor lamp glowing beside a cream reading chair and bookshelves"
+  - file: "home-library-lighting-ideas-brass-desk-lamp-open-book.jpg"
+    alt: "Warm brass desk lamp glowing beside an open book in a home library"
   - file: "home-library-lighting-ideas-brass-wall-sconce-shelves.jpg"
     alt: "Brass wall sconce with a cream shade glowing between dark bookshelves"
   - file: "home-library-lighting-ideas-led-strip-lights-shelves.jpg"
@@ -74,17 +74,7 @@ A home library lives or dies by its light. The right home library lighting ideas
 
 The trick is layering: one light for the room, one light for the shelves, and one light for the page. This list gathers 30 ways to do exactly that, from sconces and pendants to fairy lights in glass jars, so you can mix a few ideas and build a library that glows morning, noon and night.
 
-## 1. Brass Desk Lamp Beside an Open Book
-
-A warm brass desk lamp is the simplest way to make a home library feel lived in. Set on a desk or a side table beside an open book, its dome shade throws a pool of golden light exactly where you read, while the rest of the room stays soft and dim around it.
-
-Choose a lamp with a warm-toned bulb and a shade that directs light downward, so the glow lands on the page instead of in your eyes. Brass suits dark wood shelves beautifully, and the lamp becomes a small piece of decor even when it is switched off.
-
-![Warm brass desk lamp glowing beside an open book in a home library](/images/home-library-lighting-ideas/home-library-lighting-ideas-brass-desk-lamp-open-book.jpg)
-
-> TIP:QUICK: Pick a warm-toned bulb and a shade that points the light down onto the page.
-
-## 2. Tall Floor Lamp Beside a Reading Chair
+## 1. Tall Floor Lamp Beside a Reading Chair
 
 A tall floor lamp standing beside a reading chair turns any corner into a proper reading spot. The lamp's light falls over your shoulder onto the book, while the chair, a soft throw and the shelves behind it make the corner feel like a room of its own.
 
@@ -93,6 +83,16 @@ Look for a floor lamp with a shade that diffuses the light gently rather than th
 ![Tall floor lamp glowing beside a cream reading chair and bookshelves](/images/home-library-lighting-ideas/home-library-lighting-ideas-floor-lamp-reading-chair.jpg)
 
 > TIP:CHECK: lamp just behind and beside the chair; shade diffuses the light; throw and cushion within reach
+
+## 2. Brass Desk Lamp Beside an Open Book
+
+A warm brass desk lamp is the simplest way to make a home library feel lived in. Set on a desk or a side table beside an open book, its dome shade throws a pool of golden light exactly where you read, while the rest of the room stays soft and dim around it.
+
+Choose a lamp with a warm-toned bulb and a shade that directs light downward, so the glow lands on the page instead of in your eyes. Brass suits dark wood shelves beautifully, and the lamp becomes a small piece of decor even when it is switched off.
+
+![Warm brass desk lamp glowing beside an open book in a home library](/images/home-library-lighting-ideas/home-library-lighting-ideas-brass-desk-lamp-open-book.jpg)
+
+> TIP:QUICK: Pick a warm-toned bulb and a shade that points the light down onto the page.
 
 ## 3. Brass Wall Sconce Between the Shelves
 

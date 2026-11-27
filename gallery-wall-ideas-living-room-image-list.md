@@ -1,4 +1,5 @@
 # 30 Gallery Wall Ideas for Living Rooms — image provenance list
+Main-image fix, Nov 27, 2026: swapped design #1 and design #3 — first image is now gallery-wall-ideas-living-room-black-white-photo-gallery.jpg (was gallery-wall-ideas-living-room-symmetrical-grid-sofa.jpg). Reason: old first image only 683px wide (under the 768px minimum).
 
 Keyword: "gallery wall ideas living room" (as briefed by coordinator, Nov 25, 2026).
 All 30 images: real photos, portrait, width >=768px except seven noted exceptions (ideas 1, 6, 9, 19, 25, 26, 27 — best clean sources available, never upscaled), JPEG q~82, <400KB, sharpness verified visually (full frame + bottom 35% strip checked for watermarks), Nov 25 2026.
@@ -6,9 +7,9 @@ IG/web split: 0 Instagram / 30 web (the image-search CLI returned no instagram.c
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 A Symmetrical Grid Above the Sofa | 1_0.bin | gallery-wall-ideas-living-room-symmetrical-grid-sofa.jpg | Living room with a symmetrical grid gallery wall of black framed photos above a sectional sofa | https://addictedtoorganization.com/large-blank-wall-ideas-living-rooms/ |
+| 1 A Black-and-White Photo Gallery | 3_0.bin | gallery-wall-ideas-living-room-black-white-photo-gallery.jpg | Living room with a black and white photo gallery wall above a sectional sofa | https://www.welovehomeblog.com/wall-pictures-for-living-room-ideas/ |
 | 2 A Salon-Style Eclectic Mix | 2_0.bin | gallery-wall-ideas-living-room-salon-style-eclectic-mix.jpg | Eclectic salon-style gallery wall above a burnt orange sofa in a living room | https://itsmynest.com/ways-to-style-a-gallery-wall/ |
-| 3 A Black-and-White Photo Gallery | 3_0.bin | gallery-wall-ideas-living-room-black-white-photo-gallery.jpg | Living room with a black and white photo gallery wall above a sectional sofa | https://www.welovehomeblog.com/wall-pictures-for-living-room-ideas/ |
+| 3 A Symmetrical Grid Above the Sofa | 1_0.bin | gallery-wall-ideas-living-room-symmetrical-grid-sofa.jpg | Living room with a symmetrical grid gallery wall of black framed photos above a sectional sofa | https://addictedtoorganization.com/large-blank-wall-ideas-living-rooms/ |
 | 4 A Large Anchor Piece with Smaller Frames | 4_0.bin | gallery-wall-ideas-living-room-oversized-anchor-piece.jpg | Living room with a large gallery wall of framed art and mirrors above a light sofa | https://suite101.com/30-long-living-room-ideas/ |
 | 5 A Gallery Wall Over the Fireplace | 5_0.bin | gallery-wall-ideas-living-room-gallery-above-fireplace.jpg | Living room with a gallery wall of framed art above a fireplace mantel | https://suite101.com/30-off-center-fireplace-ideas/ |
 | 6 Picture Ledges for Easy Swaps | 6_0.bin | gallery-wall-ideas-living-room-picture-ledge-shelves.jpg | Living room with picture ledge shelves holding framed art above a sofa | https://craftboom.work/empty-wall-living-room/ |

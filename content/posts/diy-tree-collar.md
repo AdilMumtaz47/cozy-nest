@@ -6,8 +6,8 @@ keyword: "diy tree collar"
 category: "Christmas Decor"
 date: "2026-11-26"
 images:
-  - file: "diy-tree-collar-galvanized-snowflake.jpg"
-    alt: "Galvanized metal tree collar with snowflake cutouts"
+  - file: "diy-tree-collar-burlap-gingham-bow.jpg"
+    alt: "Burlap sack tree collar tied with a gingham bow under a flocked tree"
   - file: "diy-tree-collar-galvanized-christmas-tree-farm.jpg"
     alt: "Galvanized metal tree collar printed with Christmas Tree Farm"
   - file: "diy-tree-collar-plain-galvanized.jpg"
@@ -60,8 +60,8 @@ images:
     alt: "Fringed burlap tree collar under a Christmas tree with red berries"
   - file: "diy-tree-collar-burlap-ruffled.jpg"
     alt: "Ruffled burlap tree collar under a Christmas tree"
-  - file: "diy-tree-collar-burlap-gingham-bow.jpg"
-    alt: "Burlap sack tree collar tied with a gingham bow under a flocked tree"
+  - file: "diy-tree-collar-galvanized-snowflake.jpg"
+    alt: "Galvanized metal tree collar with snowflake cutouts"
   - file: "diy-tree-collar-burlap-dark-floor.jpg"
     alt: "Burlap tree collar under a Christmas tree on a dark wood floor"
   - file: "diy-tree-collar-white-mesh-rope-trim.jpg"
@@ -74,15 +74,15 @@ A diy tree collar is the neatest way to finish a Christmas tree: a short ring th
 
 This list gathers 30 collar ideas in mixed materials, with no wooden collars at all — wood gets its own list. Whether your room is farmhouse, glamorous or minimalist, there is a collar here that fits it, and most of them need no building at all.
 
-## 1. Galvanized Snowflake Cutout Collar
+## 1. Burlap Sack with Gingham Bow
 
-A galvanized metal collar with snowflake cutouts is the farmhouse classic. The cutouts let the tree lights shine through in snowflake shapes, and the dull silver metal sits comfortably next to plaid, burlap and red ornaments.
+A burlap sack tied with a big gingham bow is the farmhouse classic in its simplest form. The bow is the whole decoration, and it takes thirty seconds to tie, which makes this the fastest collar on the list to refresh each year.
 
-Galvanized collars usually fold flat for storage and clip together in seconds, which makes them the easiest option on this list. Wipe the metal with a dry cloth before storing so it never rusts.
+Choose a gingham that matches your ornaments — black and white for a modern farmhouse, red and white for a traditional one. A wired ribbon holds its shape better than a flat one.
 
-![Galvanized metal tree collar with snowflake cutouts](/images/diy-tree-collar/diy-tree-collar-galvanized-snowflake.jpg)
+![Burlap sack tree collar tied with a gingham bow under a flocked tree](/images/diy-tree-collar/diy-tree-collar-burlap-gingham-bow.jpg)
 
-> TIP:QUICK: Galvanized collars usually fold flat and clip together in seconds — the easiest option here.
+> TIP:QUICK: Choose a wired ribbon for the bow — it holds its shape far better than flat ribbon.
 
 ## 2. Christmas Tree Farm Galvanized Collar
 
@@ -344,15 +344,15 @@ Gather the burlap with a running stitch and pin the ruffles to a base cone, spac
 
 > TIP:GUIDE: Ruffles: three layers is the sweet spot | Method: running stitch, pin to a base cone | Look: soft and vintage
 
-## 28. Burlap Sack with Gingham Bow
+## 28. Galvanized Snowflake Cutout Collar
 
-A burlap sack tied with a big gingham bow is the farmhouse classic in its simplest form. The bow is the whole decoration, and it takes thirty seconds to tie, which makes this the fastest collar on the list to refresh each year.
+A galvanized metal collar with snowflake cutouts is the farmhouse classic. The cutouts let the tree lights shine through in snowflake shapes, and the dull silver metal sits comfortably next to plaid, burlap and red ornaments.
 
-Choose a gingham that matches your ornaments — black and white for a modern farmhouse, red and white for a traditional one. A wired ribbon holds its shape better than a flat one.
+Galvanized collars usually fold flat for storage and clip together in seconds, which makes them the easiest option on this list. Wipe the metal with a dry cloth before storing so it never rusts.
 
-![Burlap sack tree collar tied with a gingham bow under a flocked tree](/images/diy-tree-collar/diy-tree-collar-burlap-gingham-bow.jpg)
+![Galvanized metal tree collar with snowflake cutouts](/images/diy-tree-collar/diy-tree-collar-galvanized-snowflake.jpg)
 
-> TIP:QUICK: Choose a wired ribbon for the bow — it holds its shape far better than flat ribbon.
+> TIP:QUICK: Galvanized collars usually fold flat and clip together in seconds — the easiest option here.
 
 ## 29. Burlap Collar on a Dark Floor
 

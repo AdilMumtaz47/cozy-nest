@@ -1,4 +1,5 @@
 # 30 New Year Living Room Decor Ideas for a Fresh Start — image provenance list
+Note (Nov 27, 2026 — main-image fix): swapped idea #1 and idea #4 — first image changed from new-year-living-room-decor-ideas-gold-balloon-cluster-sofa.jpg to new-year-living-room-decor-ideas-gold-silver-bauble-mantel-garland.jpg; old first image only 683px wide (under the 768px minimum).
 
 Keyword: "new year living room decor ideas" (WINNABLE (screen #5, Nov 25, 2026)).
 All 30 images: real photos, portrait, JPEG q~82, <400KB, sharpness verified visually (full frame + bottom 35% strip), Nov 27 2026.
@@ -8,10 +9,10 @@ Widths: 23 photos >=768px. 7 photos below 768px at source (noted below) — sour
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 Gold Balloon Cluster over the Sofa | cand/01.bin | new-year-living-room-decor-ideas-gold-balloon-cluster-sofa.jpg | Clear balloons filled with gold confetti floating above a beige sofa with champagne flutes on the coffee table | https://portablepowerguides.com/25-trendy-new-year-party-decorations-that-will-instantly-glow-up-your-new-year-bash/ |
+| 1 Gold and Silver Bauble Mantel Garland | cand2/41.bin | new-year-living-room-decor-ideas-gold-silver-bauble-mantel-garland.jpg | Fireplace mantel draped with a green garland covered in gold and silver baubles above a lit fire | https://lovelyharbor.com/elegant-christmas-tree-decorating-ideas-with-gold-and-glass-ornaments/ |
 | 2 Black-and-Gold Glam Living Room | cand/35.bin | new-year-living-room-decor-ideas-black-gold-glam-living-room.jpg | Black velvet sofa with a gold sequin pillow beside a black Christmas tree with gold ornaments | https://hommydecorr.com/black-gold-christmas-decorations-ideas/ |
 | 3 Gold and White Countdown Mantel | cand/03.bin | new-year-living-room-decor-ideas-gold-white-countdown-mantel.jpg | Fireplace mantel styled with white flowers, gold ornaments and fairy lights for New Year | https://elegantsera.com/new-year-home-decor-ideas/ |
-| 4 Gold and Silver Bauble Mantel Garland | cand2/41.bin | new-year-living-room-decor-ideas-gold-silver-bauble-mantel-garland.jpg | Fireplace mantel draped with a green garland covered in gold and silver baubles above a lit fire | https://lovelyharbor.com/elegant-christmas-tree-decorating-ideas-with-gold-and-glass-ornaments/ |
+| 4 Gold Balloon Cluster over the Sofa | cand/01.bin | new-year-living-room-decor-ideas-gold-balloon-cluster-sofa.jpg | Clear balloons filled with gold confetti floating above a beige sofa with champagne flutes on the coffee table | https://portablepowerguides.com/25-trendy-new-year-party-decorations-that-will-instantly-glow-up-your-new-year-bash/ |
 | 5 Champagne Bar Cart, Party-Ready | cand/05.bin | new-year-living-room-decor-ideas-champagne-bar-cart-party.jpg | Gold bar cart styled for New Year's Eve with champagne, party hats and a Happy New Year banner | https://www.sbkliving.com/holiday/holiday-home-sales-2019/ |
 | 6 Gold Bar Cart with Champagne and Ice Bucket | cand2/45.bin | new-year-living-room-decor-ideas-gold-bar-cart-champagne-ice-bucket.jpg | Gold bar cart holding champagne bottles, an ice bucket and cocktail glasses beside a New Year sign | https://lightandlayer.com/blog/years-decoration-ideas/ |
 | 7 Candle Cluster Coffee Table Centerpiece | cand2/48.bin | new-year-living-room-decor-ideas-candle-cluster-coffee-table.jpg | Gold trays with white pillar candles and a gold candlestick on a living room coffee table | https://casolia.com/coffee-table-centerpiece-ideas/ |

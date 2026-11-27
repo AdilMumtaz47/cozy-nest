@@ -1,4 +1,5 @@
 # 30 New Year Bedroom Decor Ideas for a Fresh Start — image provenance list
+Note (Nov 27, 2026 — main-image fix): swapped idea #1 and idea #8 — first image changed from new-year-bedroom-decor-ideas-white-bedding-reset.jpg to new-year-bedroom-decor-ideas-champagne-metallic-throw.jpg; old first image only 459px wide (under the 768px minimum) and visually plain/washed-out.
 
 Keyword: "new year bedroom decor ideas" (WINNABLE on listicle count only (4) — the Pinterest autocomplete dropdown rendered blank twice during the screen, so saturation is INCONCLUSIVE).
 All 30 images: real photos, portrait, JPEG q82, <400KB, sharpness verified visually (full frame + bottom 35% strip), Nov 27 2026.
@@ -8,14 +9,14 @@ Widths: 23 photos >=768px. 7 photos below 768px at source (noted below) — sour
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 Crisp White Bedding Reset | cand/01.bin | new-year-bedroom-decor-ideas-white-bedding-reset.jpg | Bed dressed in crisp white bedding with plump white pillows | https://auten.com.br/category/decoracao/ |
+| 1 Champagne Gold Bedding | cand/08.bin | new-year-bedroom-decor-ideas-champagne-metallic-throw.jpg | Bed dressed in champagne gold metallic bedding with gold pillows | https://www.etsy.com/no-en/listing/4466868680/luxury-gold-cotton-duvet-cover-set |
 | 2 Fresh Linen Layers | cand/02.bin | new-year-bedroom-decor-ideas-linen-layers.jpg | Bed layered with fresh white linen sheets and pillows beside a lamp | https://inauguralhomes.com/all-white-bedroom/ |
 | 3 Sheer Curtains, Soft Morning Light | cand/03.bin | new-year-bedroom-decor-ideas-sheer-curtains-morning-light.jpg | Bedroom with sheer white curtains and soft morning light over white bedding | https://www.artofit.org/ideas/white-sheer-curtains |
 | 4 A Decluttered Nightstand | cand/04.bin | new-year-bedroom-decor-ideas-decluttered-nightstand.jpg | Tidy wooden nightstand with a lamp, a book, a glass of water and a single flower | https://aestheras.com/studio-apartment-organization-ideas/ |
 | 5 Fresh Flowers on the Nightstand | cand/05.bin | new-year-bedroom-decor-ideas-fresh-flowers-nightstand.jpg | Fresh pink and white flowers in a glass vase on a wooden nightstand beside a bed | https://pixelstorem.com/floral-bedroom-decor-ideas-for-summer/ |
 | 6 Warm Fairy Lights | cand/06.bin | new-year-bedroom-decor-ideas-warm-fairy-lights.jpg | Bed with warm fairy lights draped in a triangle above a tufted headboard | https://trendyhomesandgardens.com/bedroom-lighting-ideas-that-completely-change-the-mood-of-your-room/ |
 | 7 Gold Accent Pillows | cand/07.bin | new-year-bedroom-decor-ideas-gold-accent-pillows.jpg | Bed with gold patterned accent pillows beside a gold drinks cart | https://elegantsera.com/gold-bedroom-decor-ideas/ |
-| 8 Champagne Gold Bedding | cand/08.bin | new-year-bedroom-decor-ideas-champagne-metallic-throw.jpg | Bed dressed in champagne gold metallic bedding with gold pillows | https://www.etsy.com/no-en/listing/4466868680/luxury-gold-cotton-duvet-cover-set |
+| 8 Crisp White Bedding Reset | cand/01.bin | new-year-bedroom-decor-ideas-white-bedding-reset.jpg | Bed dressed in crisp white bedding with plump white pillows | https://auten.com.br/category/decoracao/ |
 | 9 Fresh Eucalyptus on the Nightstand | cand/09.bin | new-year-bedroom-decor-ideas-fresh-eucalyptus-nightstand.jpg | Tall vase of fresh eucalyptus branches on a wooden nightstand beside a bed | https://vervilla.com/blog/fall-bedroom-decor-ideas/ |
 | 10 A Cozy Reading Nook Reset | cand/10.bin | new-year-bedroom-decor-ideas-cozy-reading-nook.jpg | Cozy bedroom reading nook with an armchair, a floor lamp and a window seat | https://sereneandspace.com/blog/light-grey-bedroom/ |
 | 11 A New Bedside Lamp | cand/11.bin | new-year-bedroom-decor-ideas-new-bedside-lamp.jpg | Brass bedside lamp with a cream shade on a wooden nightstand beside a bed | https://www.trendir.com/gold-nightstand-decor-ideas/ |

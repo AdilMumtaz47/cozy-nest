@@ -6,8 +6,8 @@ keyword: "new year bedroom decor ideas"
 category: "Bedroom Decor"
 date: "2026-11-27"
 images:
-  - file: "new-year-bedroom-decor-ideas-white-bedding-reset.jpg"
-    alt: "Bed dressed in crisp white bedding with plump white pillows"
+  - file: "new-year-bedroom-decor-ideas-champagne-metallic-throw.jpg"
+    alt: "Bed dressed in champagne gold metallic bedding with gold pillows"
   - file: "new-year-bedroom-decor-ideas-linen-layers.jpg"
     alt: "Bed layered with fresh white linen sheets and pillows beside a lamp"
   - file: "new-year-bedroom-decor-ideas-sheer-curtains-morning-light.jpg"
@@ -20,8 +20,8 @@ images:
     alt: "Bed with warm fairy lights draped in a triangle above a tufted headboard"
   - file: "new-year-bedroom-decor-ideas-gold-accent-pillows.jpg"
     alt: "Bed with gold patterned accent pillows beside a gold drinks cart"
-  - file: "new-year-bedroom-decor-ideas-champagne-metallic-throw.jpg"
-    alt: "Bed dressed in champagne gold metallic bedding with gold pillows"
+  - file: "new-year-bedroom-decor-ideas-white-bedding-reset.jpg"
+    alt: "Bed dressed in crisp white bedding with plump white pillows"
   - file: "new-year-bedroom-decor-ideas-fresh-eucalyptus-nightstand.jpg"
     alt: "Tall vase of fresh eucalyptus branches on a wooden nightstand beside a bed"
   - file: "new-year-bedroom-decor-ideas-cozy-reading-nook.jpg"
@@ -74,15 +74,15 @@ New year bedroom decor ideas are the gentlest way to begin January: nothing gets
 
 This list gathers 30 fresh-start ideas, from crisp white bedding and sheer curtains to a vision board wall and a tray of candles. Pick one or two to begin with — a fresh bed and a clear nightstand change the whole room — then add the smaller touches as the month goes on.
 
-## 1. Crisp White Bedding Reset
+## 1. Champagne Gold Bedding
 
-Nothing says fresh start like a bed made with clean white sheets. Strip the bed completely, wash everything, and remake it with crisp white bedding and plump pillows. The blank canvas makes the whole room feel brighter, and it gives every other change on this list a clean background to sit against.
+Champagne gold bedding is the boldest idea on this list, and it works because gold is both festive and warm. A metallic gold duvet with matching pillow shams turns the bed into the centrepiece of the room, so keep everything around it quiet: plain walls, simple lamps and a pale rug.
 
-White bedding also makes it easy to spot what needs attention: a tired throw, a greyed pillowcase, a duvet that has lost its loft. Swap out whatever looks worn and keep the rest — the reset is about freshness, not buying a whole new set.
+This is a look to enjoy through the winter months, not just New Year's Eve. Pair it with white sheets underneath so the gold never feels heavy, and fold the duvet back to show a crisp white edge.
 
-![Bed dressed in crisp white bedding with plump white pillows](/images/new-year-bedroom-decor-ideas/new-year-bedroom-decor-ideas-white-bedding-reset.jpg)
+![Bed dressed in champagne gold metallic bedding with gold pillows](/images/new-year-bedroom-decor-ideas/new-year-bedroom-decor-ideas-champagne-metallic-throw.jpg)
 
-> TIP:QUICK: Wash the duvet and pillows too — a fresh bed starts with fresh fill, not just fresh sheets.
+> TIP:CHECK: white sheets underneath; plain walls around it; fold the duvet back to show white
 
 ## 2. Fresh Linen Layers
 
@@ -144,15 +144,15 @@ Keep the gold to the pillows and one small metallic accent, like a tray or a lam
 
 > TIP:QUICK: Two gold pillows are enough — let the rest of the bed stay neutral.
 
-## 8. Champagne Gold Bedding
+## 8. Crisp White Bedding Reset
 
-Champagne gold bedding is the boldest idea on this list, and it works because gold is both festive and warm. A metallic gold duvet with matching pillow shams turns the bed into the centrepiece of the room, so keep everything around it quiet: plain walls, simple lamps and a pale rug.
+Nothing says fresh start like a bed made with clean white sheets. Strip the bed completely, wash everything, and remake it with crisp white bedding and plump pillows. The blank canvas makes the whole room feel brighter, and it gives every other change on this list a clean background to sit against.
 
-This is a look to enjoy through the winter months, not just New Year's Eve. Pair it with white sheets underneath so the gold never feels heavy, and fold the duvet back to show a crisp white edge.
+White bedding also makes it easy to spot what needs attention: a tired throw, a greyed pillowcase, a duvet that has lost its loft. Swap out whatever looks worn and keep the rest — the reset is about freshness, not buying a whole new set.
 
-![Bed dressed in champagne gold metallic bedding with gold pillows](/images/new-year-bedroom-decor-ideas/new-year-bedroom-decor-ideas-champagne-metallic-throw.jpg)
+![Bed dressed in crisp white bedding with plump white pillows](/images/new-year-bedroom-decor-ideas/new-year-bedroom-decor-ideas-white-bedding-reset.jpg)
 
-> TIP:CHECK: white sheets underneath; plain walls around it; fold the duvet back to show white
+> TIP:QUICK: Wash the duvet and pillows too — a fresh bed starts with fresh fill, not just fresh sheets.
 
 ## 9. Fresh Eucalyptus on the Nightstand
 

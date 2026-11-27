@@ -6,8 +6,8 @@ keyword: "2027 interior design trends"
 category: "Home Decor"
 date: "2026-11-27"
 images:
-  - file: "2027-interior-design-trends-warm-minimalist-living-room.jpg"
-    alt: "Warm minimalist living room with a cream sofa, light wood floor and soft beige walls"
+  - file: "2027-interior-design-trends-colour-drenched-green-room.jpg"
+    alt: "Colour-drenched green living room with a fireplace and velvet armchairs"
   - file: "2027-interior-design-trends-curved-boucle-sofa.jpg"
     alt: "Curved cream bouclé sofa in a bright living room with a marble coffee table"
   - file: "2027-interior-design-trends-terracotta-accent-wall.jpg"
@@ -46,8 +46,8 @@ images:
     alt: "Compact home office nook with a wooden desk, laptop and bookshelves"
   - file: "2027-interior-design-trends-open-plan-kitchen-living.jpg"
     alt: "Open-plan kitchen and living room joined by a long island with stools"
-  - file: "2027-interior-design-trends-colour-drenched-green-room.jpg"
-    alt: "Colour-drenched green living room with a fireplace and velvet armchairs"
+  - file: "2027-interior-design-trends-warm-minimalist-living-room.jpg"
+    alt: "Warm minimalist living room with a cream sofa, light wood floor and soft beige walls"
   - file: "2027-interior-design-trends-quiet-luxury-neutrals.jpg"
     alt: "Quiet luxury living room in soft neutrals with a stone coffee table"
   - file: "2027-interior-design-trends-gallery-wall.jpg"
@@ -74,15 +74,15 @@ images:
 
 You do not need to redecorate the whole house to join in. Many of these trends work as a single change — a new lamp, one painted wall, a different coffee table — and the rest of the room can stay exactly as it is. Start with the idea you love most, save the rest for later, and build a home that feels calm, collected and completely yours.
 
-## 1. Warm Minimalism in the Living Room
+## 1. Colour Drenching
 
-Warm minimalism keeps the clean lines of minimal design and drops the cold, clinical feeling. The palette is cream, beige, oatmeal and light wood, with texture doing the work that colour used to do: a nubby rug, a linen cushion, a woven throw. Nothing is fussy, but nothing feels bare either.
+Colour drenching paints the walls, ceiling, trim and sometimes the furniture in a single colour, and 2027 loves it in deep green. Removing the visual breaks between surfaces makes a room feel larger and calmer, not darker, and the effect is especially striking around a fireplace with matching velvet chairs.
 
-The trick is layering tones rather than matching them exactly. A cream sofa, a slightly darker rug and pale wood floors sit together comfortably because they share the same warm undertone. Add one plant or one dark wooden piece for contrast, and the room stays calm without turning flat.
+Mid-tones work best — a deep green, a dusty blue or a warm brown — with a pale rug or light bedding to lift the room. Keep the art simple and framed in gold or dark wood, and let the colour itself be the decoration.
 
-![Warm minimalist living room with a cream sofa, light wood floor and soft beige walls](/images/2027-interior-design-trends/2027-interior-design-trends-warm-minimalist-living-room.jpg)
+![Colour-drenched green living room with a fireplace and velvet armchairs](/images/2027-interior-design-trends/2027-interior-design-trends-colour-drenched-green-room.jpg)
 
-> TIP:QUICK: Keep every tone warm — cream, beige and light wood — and let texture, not colour, do the decorating.
+> TIP:GUIDE: Colour: one mid-tone green, blue or warm brown | Lift: pale rug or light bedding | Art: simple, gold or dark wood frames
 
 ## 2. Curved Bouclé Sofas
 
@@ -274,15 +274,15 @@ The island is the hinge of the room: cooking on one side, seating on the other. 
 
 > TIP:CHECK: island as the hinge between zones; rug under the sofa; matching wood tones across kitchen and living areas
 
-## 21. Colour Drenching
+## 21. Warm Minimalism in the Living Room
 
-Colour drenching paints the walls, ceiling, trim and sometimes the furniture in a single colour, and 2027 loves it in deep green. Removing the visual breaks between surfaces makes a room feel larger and calmer, not darker, and the effect is especially striking around a fireplace with matching velvet chairs.
+Warm minimalism keeps the clean lines of minimal design and drops the cold, clinical feeling. The palette is cream, beige, oatmeal and light wood, with texture doing the work that colour used to do: a nubby rug, a linen cushion, a woven throw. Nothing is fussy, but nothing feels bare either.
 
-Mid-tones work best — a deep green, a dusty blue or a warm brown — with a pale rug or light bedding to lift the room. Keep the art simple and framed in gold or dark wood, and let the colour itself be the decoration.
+The trick is layering tones rather than matching them exactly. A cream sofa, a slightly darker rug and pale wood floors sit together comfortably because they share the same warm undertone. Add one plant or one dark wooden piece for contrast, and the room stays calm without turning flat.
 
-![Colour-drenched green living room with a fireplace and velvet armchairs](/images/2027-interior-design-trends/2027-interior-design-trends-colour-drenched-green-room.jpg)
+![Warm minimalist living room with a cream sofa, light wood floor and soft beige walls](/images/2027-interior-design-trends/2027-interior-design-trends-warm-minimalist-living-room.jpg)
 
-> TIP:GUIDE: Colour: one mid-tone green, blue or warm brown | Lift: pale rug or light bedding | Art: simple, gold or dark wood frames
+> TIP:QUICK: Keep every tone warm — cream, beige and light wood — and let texture, not colour, do the decorating.
 
 ## 22. Quiet Luxury Neutrals
 

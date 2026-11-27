@@ -6,8 +6,8 @@ keyword: "diy tree collar wood"
 category: "Christmas Decor"
 date: "2026-11-26"
 images:
-  - file: "diy-tree-collar-wood-natural-tapered-slat.jpg"
-    alt: "Lit Christmas tree in a natural wood tapered slat collar"
+  - file: "diy-tree-collar-wood-pallet-collar-living-room.jpg"
+    alt: "Lit Christmas tree in a pallet wood collar in a cozy living room"
   - file: "diy-tree-collar-wood-light-slatted-cone.jpg"
     alt: "Light wood slatted cone tree collar with red and silver ornaments"
   - file: "diy-tree-collar-wood-dark-stained-plaid-ribbon.jpg"
@@ -18,8 +18,8 @@ images:
     alt: "Weathered wood box tree collar close-up under a flocked tree"
   - file: "diy-tree-collar-wood-rustic-pallet-box.jpg"
     alt: "Rustic pallet wood box collar holding a lit Christmas tree"
-  - file: "diy-tree-collar-wood-pallet-collar-living-room.jpg"
-    alt: "Lit Christmas tree in a pallet wood collar in a cozy living room"
+  - file: "diy-tree-collar-wood-natural-tapered-slat.jpg"
+    alt: "Lit Christmas tree in a natural wood tapered slat collar"
   - file: "diy-tree-collar-wood-dark-stained-box.jpg"
     alt: "Dark stained wooden box collar close-up under a Christmas tree"
   - file: "diy-tree-collar-wood-gray-x-brace-box.jpg"
@@ -74,15 +74,15 @@ A diy tree collar wood box is the fastest way to give a Christmas tree a finishe
 
 Wooden collars suit almost any tree, and they store flat or stack neatly after Christmas if you build them in panels. Start with the size of your stand, pick a finish that matches your room, and steal one idea below — or mix two, like a pallet box with a plaid ribbon trim.
 
-## 1. Natural Tapered Slat Collar
+## 1. Pallet Collar in a Cozy Living Room
 
-A tapered collar made of natural pine slats is the simplest wooden collar you can build, and it looks good with almost any tree. The slats flare gently outward toward the floor, so the collar reads like a basket made of wood, and the pale unfinished grain keeps the whole tree feeling light and Scandinavian.
+A pallet collar does its best work in a lived-in room, where its rough boards sit comfortably next to a sofa, a rug and a stack of wrapped gifts. The tree above it can be as fancy as you like — the collar grounds the whole scene and keeps the room from feeling like a showroom.
 
-Leave the wood bare for a minimal look, or rub in a clear wax to warm the tone slightly without hiding the grain. Measure the widest point of your stand first — the collar should clear it by at least an inch on every side.
+Keep the collar low and wide so it reads as part of the furniture rather than a box the tree is sitting in. A low collar also leaves the lowest branches free to drape, which is where the prettiest ornaments usually hang.
 
-![Lit Christmas tree in a natural wood tapered slat collar](/images/diy-tree-collar-wood/diy-tree-collar-wood-natural-tapered-slat.jpg)
+![Lit Christmas tree in a pallet wood collar in a cozy living room](/images/diy-tree-collar-wood/diy-tree-collar-wood-pallet-collar-living-room.jpg)
 
-> TIP:QUICK: Measure the stand first — the collar must clear it by an inch on every side.
+> TIP:QUICK: Keep the collar low and wide so it reads as furniture, not a box the tree sits in.
 
 ## 2. Light Slatted Cone Collar
 
@@ -134,15 +134,15 @@ Take pallets apart carefully and pull every nail before cutting, and check the p
 
 > TIP:GUIDE: Pallets: check for the HT heat-treated stamp | Nails: pull every one before cutting | Sand: just enough to remove splinters
 
-## 7. Pallet Collar in a Cozy Living Room
+## 7. Natural Tapered Slat Collar
 
-A pallet collar does its best work in a lived-in room, where its rough boards sit comfortably next to a sofa, a rug and a stack of wrapped gifts. The tree above it can be as fancy as you like — the collar grounds the whole scene and keeps the room from feeling like a showroom.
+A tapered collar made of natural pine slats is the simplest wooden collar you can build, and it looks good with almost any tree. The slats flare gently outward toward the floor, so the collar reads like a basket made of wood, and the pale unfinished grain keeps the whole tree feeling light and Scandinavian.
 
-Keep the collar low and wide so it reads as part of the furniture rather than a box the tree is sitting in. A low collar also leaves the lowest branches free to drape, which is where the prettiest ornaments usually hang.
+Leave the wood bare for a minimal look, or rub in a clear wax to warm the tone slightly without hiding the grain. Measure the widest point of your stand first — the collar should clear it by at least an inch on every side.
 
-![Lit Christmas tree in a pallet wood collar in a cozy living room](/images/diy-tree-collar-wood/diy-tree-collar-wood-pallet-collar-living-room.jpg)
+![Lit Christmas tree in a natural wood tapered slat collar](/images/diy-tree-collar-wood/diy-tree-collar-wood-natural-tapered-slat.jpg)
 
-> TIP:QUICK: Keep the collar low and wide so it reads as furniture, not a box the tree sits in.
+> TIP:QUICK: Measure the stand first — the collar must clear it by an inch on every side.
 
 ## 8. Dark Stained Wood Box
 

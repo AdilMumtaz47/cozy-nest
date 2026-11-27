@@ -1,4 +1,5 @@
 # 30 Interior Design Trends for 2027 — image provenance list
+Note (Nov 27, 2026 — main-image fix): swapped idea #1 and idea #21 — first image changed from 2027-interior-design-trends-warm-minimalist-living-room.jpg to 2027-interior-design-trends-colour-drenched-green-room.jpg; old first image pale, washed-out beige-on-beige with an empty top third — not eye-catching.
 
 Keyword: "2027 interior design trends".
 All 30 images: real photos, portrait, JPEG q~82, <400KB, sharpness verified visually (full frame + bottom 35% strip), Nov 27 2026.
@@ -8,7 +9,7 @@ Widths: 27 photos >=768px. 3 photos below 768px at source (noted below) — sour
 
 | Design | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 Warm Minimalism in the Living Room | cand/01c.bin | 2027-interior-design-trends-warm-minimalist-living-room.jpg | Warm minimalist living room with a cream sofa, light wood floor and soft beige walls | http://m2casa.pl |
+| 1 Colour Drenching | cand/21a.bin | 2027-interior-design-trends-colour-drenched-green-room.jpg | Colour-drenched green living room with a fireplace and velvet armchairs | https://yourhouseandgarden.com/green-fireplace-ideas/ |
 | 2 Curved Bouclé Sofas | cand/02a.bin | 2027-interior-design-trends-curved-boucle-sofa.jpg | Curved cream bouclé sofa in a bright living room with a marble coffee table | https://suite101.com/30-quiet-luxury-apartment-ideas/ |
 | 3 Terracotta Accent Walls | cand/03h.bin | 2027-interior-design-trends-terracotta-accent-wall.jpg | Living room with a terracotta accent wall behind a white sofa | https://clemaroundthecorner.com/quelle-couleur-salon-long-etroit |
 | 4 Deep Green Walls | cand/04a.bin | 2027-interior-design-trends-deep-green-walls.jpg | Living room with deep green walls, a green velvet sofa and botanical art | https://suite101.com/30-green-living-room-ideas/ |
@@ -28,7 +29,7 @@ Widths: 27 photos >=768px. 3 photos below 768px at source (noted below) — sour
 | 18 Multifunctional Studio Layouts | cand/18a.bin | 2027-interior-design-trends-multifunctional-studio.jpg | Small studio living space with a fold-down desk and a compact sofa | https://www.hommento.com/tag/small-apartment-living-room/ |
 | 19 Home Office Nooks | cand/19a.bin | 2027-interior-design-trends-home-office-nook.jpg | Compact home office nook with a wooden desk, laptop and bookshelves | https://casolia.com/small-nook-ideas/ |
 | 20 Open-Plan Kitchen Living | cand/20f.bin | 2027-interior-design-trends-open-plan-kitchen-living.jpg | Open-plan kitchen and living room joined by a long island with stools | https://www.decoist.com/pros-cons-open-concept-floor-plans/ |
-| 21 Colour Drenching | cand/21a.bin | 2027-interior-design-trends-colour-drenched-green-room.jpg | Colour-drenched green living room with a fireplace and velvet armchairs | https://yourhouseandgarden.com/green-fireplace-ideas/ |
+| 21 Warm Minimalism in the Living Room | cand/01c.bin | 2027-interior-design-trends-warm-minimalist-living-room.jpg | Warm minimalist living room with a cream sofa, light wood floor and soft beige walls | http://m2casa.pl |
 | 22 Quiet Luxury Neutrals | cand/22c.bin | 2027-interior-design-trends-quiet-luxury-neutrals.jpg | Quiet luxury living room in soft neutrals with a stone coffee table | https://luminalunastudio.com/pages/inspiration |
 | 23 Gallery Walls | cand/23b.bin | 2027-interior-design-trends-gallery-wall.jpg | Gallery wall of framed art and prints above a grey sofa | https://suite101.com/30-small-space-living-room-ideas/ |
 | 24 Rattan and Natural Fibre | cand/24c.bin | 2027-interior-design-trends-rattan-armchair.jpg | Rattan armchair and floor lamp in a sunny corner by garden windows | https://plusmood.com/25-spring-modern-decor-ideas/ |

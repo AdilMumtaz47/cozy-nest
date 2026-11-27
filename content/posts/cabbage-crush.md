@@ -6,8 +6,8 @@ keyword: "cabbage crush"
 category: "Home Decor"
 date: "2026-11-26"
 images:
-  - file: "cabbage-crush-sage-green-kitchen-open-shelves.jpg"
-    alt: "Sage green kitchen with open wooden shelves, white subway tile and potted herbs"
+  - file: "cabbage-crush-dining-room-green-panelled-walls.jpg"
+    alt: "Dining room with green panelled walls, a chandelier and a round table with green chairs"
   - file: "cabbage-crush-sage-green-kitchen-glass-cabinets.jpg"
     alt: "Sage green kitchen with glass-front cabinets, a farmhouse sink and wooden shelves"
   - file: "cabbage-crush-dining-room-dark-botanical-wallpaper.jpg"
@@ -30,8 +30,8 @@ images:
     alt: "Jade green dining room with a crystal chandelier and a long wooden table"
   - file: "cabbage-crush-dining-room-olive-green-classic.jpg"
     alt: "Classic olive green dining room with upholstered chairs and a large wooden table"
-  - file: "cabbage-crush-dining-room-green-panelled-walls.jpg"
-    alt: "Dining room with green panelled walls, a chandelier and a round table with green chairs"
+  - file: "cabbage-crush-sage-green-kitchen-open-shelves.jpg"
+    alt: "Sage green kitchen with open wooden shelves, white subway tile and potted herbs"
   - file: "cabbage-crush-dining-room-emerald-green-wall.jpg"
     alt: "Dining room with an emerald green wall and a wooden table with mismatched chairs"
   - file: "cabbage-crush-dining-room-jade-green-paint.jpg"
@@ -74,15 +74,15 @@ Cabbage crush is the fresh green taking over kitchens and dining rooms: a soft, 
 
 This list gathers 30 cabbage crush ideas, all decor and none of it food: sage green kitchens, botanical wallpaper, emerald dining rooms and green table settings that turn everyday meals into garden occasions. Start with one green wall or one set of cabbage leaf plates, and the whole kitchen will start to feel fresher.
 
-## 1. Sage Green Cabinets with Open Shelves
+## 1. Green Panelled Walls in the Dining Room
 
-Sage green cabinets are the gentlest way into the cabbage crush look. This kitchen pairs soft sage cabinets with white subway tile, open wooden shelves holding white dishes and clay pots, and potted herbs on every surface. The green is calm enough to live with every day, and the open shelves keep the room feeling light.
+Green panelled walls give a dining room the feel of a country house. This room runs sage green panelling up the walls, sets a round table with green velvet chairs in the middle, and hangs a brass chandelier above it, with tall windows letting in garden light. The panelling adds architecture to a plain room, and the green makes it feel fresh rather than formal.
 
-Paint the lower cabinets sage and leave the uppers white if a full green kitchen feels too much — the two-tone split is the most forgiving version of the trend. Add herbs on the windowsill last: the real green against the painted green is what makes the room feel alive.
+Paint the panelling and the wall above it the same green, so the wall reads as one surface rather than two. Keep the chairs and the rug in the same green family, and let the chandelier be the one warm metal in the room.
 
-![Sage green kitchen with open wooden shelves, white subway tile and potted herbs](/images/cabbage-crush/cabbage-crush-sage-green-kitchen-open-shelves.jpg)
+![Dining room with green panelled walls, a chandelier and a round table with green chairs](/images/cabbage-crush/cabbage-crush-dining-room-green-panelled-walls.jpg)
 
-> TIP:QUICK: Paint the lower cabinets sage and leave the uppers white — the two-tone split is the most forgiving green kitchen.
+> TIP:QUICK: Paint the panelling and the wall above it the same green so the wall reads as one surface.
 
 ## 2. Sage Green Cabinets with Glass Fronts
 
@@ -194,15 +194,15 @@ Use olive on the walls and keep the furniture wood and cream, so the room reads 
 
 > TIP:GUIDE: Budget: one tin of olive paint, under $40 | Time: one weekend to paint | Skill: beginner
 
-## 13. Green Panelled Walls in the Dining Room
+## 13. Sage Green Cabinets with Open Shelves
 
-Green panelled walls give a dining room the feel of a country house. This room runs sage green panelling up the walls, sets a round table with green velvet chairs in the middle, and hangs a brass chandelier above it, with tall windows letting in garden light. The panelling adds architecture to a plain room, and the green makes it feel fresh rather than formal.
+Sage green cabinets are the gentlest way into the cabbage crush look. This kitchen pairs soft sage cabinets with white subway tile, open wooden shelves holding white dishes and clay pots, and potted herbs on every surface. The green is calm enough to live with every day, and the open shelves keep the room feeling light.
 
-Paint the panelling and the wall above it the same green, so the wall reads as one surface rather than two. Keep the chairs and the rug in the same green family, and let the chandelier be the one warm metal in the room.
+Paint the lower cabinets sage and leave the uppers white if a full green kitchen feels too much — the two-tone split is the most forgiving version of the trend. Add herbs on the windowsill last: the real green against the painted green is what makes the room feel alive.
 
-![Dining room with green panelled walls, a chandelier and a round table with green chairs](/images/cabbage-crush/cabbage-crush-dining-room-green-panelled-walls.jpg)
+![Sage green kitchen with open wooden shelves, white subway tile and potted herbs](/images/cabbage-crush/cabbage-crush-sage-green-kitchen-open-shelves.jpg)
 
-> TIP:QUICK: Paint the panelling and the wall above it the same green so the wall reads as one surface.
+> TIP:QUICK: Paint the lower cabinets sage and leave the uppers white — the two-tone split is the most forgiving green kitchen.
 
 ## 14. An Emerald Green Feature Wall
 
