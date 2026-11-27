@@ -82,7 +82,7 @@ Mid-tones work best — a deep green, a dusty blue or a warm brown — with a pa
 
 ![Colour-drenched green living room with a fireplace and velvet armchairs](/images/2027-interior-design-trends/2027-interior-design-trends-colour-drenched-green-room.jpg)
 
-> TIP:GUIDE: Colour: one mid-tone green, blue or warm brown | Lift: pale rug or light bedding | Art: simple, gold or dark wood frames
+> TIP:QUICK: Colour: one mid-tone green, blue or warm brown | Lift: pale rug or light bedding | Art: simple, gold or dark wood frames
 
 ## 2. Curved Bouclé Sofas
 
@@ -282,7 +282,7 @@ The trick is layering tones rather than matching them exactly. A cream sofa, a s
 
 ![Warm minimalist living room with a cream sofa, light wood floor and soft beige walls](/images/2027-interior-design-trends/2027-interior-design-trends-warm-minimalist-living-room.jpg)
 
-> TIP:QUICK: Keep every tone warm — cream, beige and light wood — and let texture, not colour, do the decorating.
+> TIP:GUIDE: Keep every tone warm — cream, beige and light wood — and let texture, not colour, do the decorating.
 
 ## 22. Quiet Luxury Neutrals
 
@@ -376,7 +376,10 @@ Inside, keep the furniture low and the floor the same tone as the patio, so the 
 
 ## Takeaway
 
-Pick one trend that fixes something you already notice — a dark corner that needs layered light, a plain wall waiting for art, a kitchen that deserves a warmer wood. Try it in one room first and live with it for a few weeks before you copy it elsewhere. If you want more ideas in the same spirit, our [30 2027 Home Decor Ideas](/posts/2027-home-decor-ideas/) covers the wider decorating picture, and [30 Home Decor Trends for 2027](/posts/home-decor-trends-2027/) looks at the same year through a home-decor lens. Save the ideas you love and build your 2027 home one calm, confident change at a time.
+- Pick one trend that fixes something you already notice — a dark corner that needs layered light, a plain wall waiting for art, a kitchen that deserves a warmer wood.
+- Try it in one room first and live with it for a few weeks before you copy it elsewhere.
+- If you want more ideas in the same spirit, our [30 2027 Home Decor Ideas](/posts/2027-home-decor-ideas/) covers the wider decorating picture, and [30 Home Decor Trends for 2027](/posts/home-decor-trends-2027/) looks at the same year through a home-decor lens.
+- Save the ideas you love and build your 2027 home one calm, confident change at a time.
 
 ## Frequently Asked Questions
 

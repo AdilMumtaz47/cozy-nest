@@ -82,7 +82,7 @@ Look for a floor lamp with a shade that diffuses the light gently rather than th
 
 ![Tall floor lamp glowing beside a cream reading chair and bookshelves](/images/home-library-lighting-ideas/home-library-lighting-ideas-floor-lamp-reading-chair.jpg)
 
-> TIP:CHECK: lamp just behind and beside the chair; shade diffuses the light; throw and cushion within reach
+> TIP:QUICK: lamp just behind and beside the chair; shade diffuses the light; throw and cushion within reach
 
 ## 2. Brass Desk Lamp Beside an Open Book
 
@@ -92,7 +92,7 @@ Choose a lamp with a warm-toned bulb and a shade that directs light downward, so
 
 ![Warm brass desk lamp glowing beside an open book in a home library](/images/home-library-lighting-ideas/home-library-lighting-ideas-brass-desk-lamp-open-book.jpg)
 
-> TIP:QUICK: Pick a warm-toned bulb and a shade that points the light down onto the page.
+> TIP:CHECK: Pick a warm-toned bulb and a shade that points the light down onto the page.
 
 ## 3. Brass Wall Sconce Between the Shelves
 

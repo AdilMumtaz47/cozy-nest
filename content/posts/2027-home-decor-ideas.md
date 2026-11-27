@@ -82,7 +82,7 @@ One wall is enough — papering all four will shrink the room. Paste-the-wall pa
 
 ![Living room with bold dark floral wallpaper behind a deep blue velvet sofa](/images/2027-home-decor-ideas/2027-home-decor-ideas-bold-floral-wallpaper.jpg)
 
-> TIP:CHECK: one wall is enough; paste-the-wall paper is easiest to hang and remove; pair with a contrasting sofa
+> TIP:QUICK: one wall is enough; paste-the-wall paper is easiest to hang and remove; pair with a contrasting sofa
 
 ## 2. Curved Bouclé Sofa
 
@@ -332,7 +332,7 @@ Keep surfaces mostly clear and let one or two natural materials do the talking. 
 
 ![Warm minimalist living room with a cream sectional sofa, round wood coffee table and earthy cushions](/images/2027-home-decor-ideas/2027-home-decor-ideas-warm-minimalist-living-room.jpg)
 
-> TIP:QUICK: Keep surfaces mostly clear — one linen throw and one ceramic bowl are enough.
+> TIP:CHECK: Keep surfaces mostly clear — one linen throw and one ceramic bowl are enough.
 
 ## 27. Multifunctional Furniture
 

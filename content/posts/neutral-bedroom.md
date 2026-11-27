@@ -72,7 +72,7 @@ images:
 
 A neutral bedroom is the hardest room to get right and the easiest to live in once you do. With no bold color to hide behind, everything depends on texture, light and proportion — linen against wood, a wool throw against a smooth duvet, morning sun across a pale rug. This list gathers 30 real bedrooms in cream, beige, greige and white, so you can see how a calm room stays interesting without ever raising its voice.
 
-The rule that holds every room together is simple: layer three neutrals, not one — a warm cream, a mid beige, a soft grey — and let texture do the work color usually does. If you want the same calm with more pattern and plants, our [30 Boho Bedroom Ideas for a Calm, Layered Retreat](/posts/boho-bedroom/) is the warmer cousin of this list, and [30 Cozy Winter Bedroom Ideas for a Warm Retreat](/posts/cozy-winter-bedroom-ideas/) shows the seasonal version.
+The rule that holds every room together is simple: layer three neutrals, not one — a warm cream, a mid beige, a soft grey — and let texture do the work color usually does. If you want the same calm with more pattern and plants, our [30 Boho Bedroom Ideas for a Calm, Layered Retreat](/posts/boho-bedroom/) is the warmer cousin of this list, and [30 Winter Home Ideas for a Cozy, Snowy Season](/posts/winter-home/) shows the seasonal version.
 
 ## 1. Cream Bedding with a Drum Pendant Light
 
@@ -258,7 +258,7 @@ The lesson is in the close-up: when you look closely, a neutral bed is never pla
 
 - A neutral bedroom is not an empty bedroom — it is three neutrals, five textures and good light, layered until the room feels restful.
 - Start with the bedding, add one rug and one throw, and stop before a fourth color creeps in.
-- If you want the same calm with more pattern, our [30 Boho Bedroom Ideas for a Calm, Layered Retreat](/posts/boho-bedroom/) keeps the textures and warms the color, and [30 Cozy Winter Bedroom Ideas for a Warm Retreat](/posts/cozy-winter-bedroom-ideas/) shows the seasonal version.
+- If you want the same calm with more pattern, our [30 Boho Bedroom Ideas for a Calm, Layered Retreat](/posts/boho-bedroom/) keeps the textures and warms the color, and [30 Winter Home Ideas for a Cozy, Snowy Season](/posts/winter-home/) shows the seasonal version.
 
 ## Frequently Asked Questions
 

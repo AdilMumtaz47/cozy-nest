@@ -82,7 +82,7 @@ Print your favorites in the same size and paper finish, and mix portraits with a
 
 ![Living room with a black and white photo gallery wall above a sectional sofa](/images/gallery-wall-ideas-living-room/gallery-wall-ideas-living-room-black-white-photo-gallery.jpg)
 
-> TIP:GUIDE: Print size: 8x10 or 11x14 mixed | Paper: same matte finish for all | Frames: thin black with white mats
+> TIP:QUICK: Print size: 8x10 or 11x14 mixed | Paper: same matte finish for all | Frames: thin black with white mats
 
 ## 2. A Salon-Style Eclectic Mix
 
@@ -102,7 +102,7 @@ Keep the whole grid about two-thirds the width of the sofa below it, and leave t
 
 ![Living room with a symmetrical grid gallery wall of black framed photos above a sectional sofa](/images/gallery-wall-ideas-living-room/gallery-wall-ideas-living-room-symmetrical-grid-sofa.jpg)
 
-> TIP:QUICK: Lay the grid on the floor first and tape the outline on the wall — you will spot a crooked row before any nail goes in.
+> TIP:GUIDE: Lay the grid on the floor first and tape the outline on the wall — you will spot a crooked row before any nail goes in.
 
 ## 4. A Large Anchor Piece with Smaller Frames
 

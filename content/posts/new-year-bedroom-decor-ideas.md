@@ -82,7 +82,7 @@ This is a look to enjoy through the winter months, not just New Year's Eve. Pair
 
 ![Bed dressed in champagne gold metallic bedding with gold pillows](/images/new-year-bedroom-decor-ideas/new-year-bedroom-decor-ideas-champagne-metallic-throw.jpg)
 
-> TIP:CHECK: white sheets underneath; plain walls around it; fold the duvet back to show white
+> TIP:QUICK: white sheets underneath; plain walls around it; fold the duvet back to show white
 
 ## 2. Fresh Linen Layers
 
@@ -152,7 +152,7 @@ White bedding also makes it easy to spot what needs attention: a tired throw, a 
 
 ![Bed dressed in crisp white bedding with plump white pillows](/images/new-year-bedroom-decor-ideas/new-year-bedroom-decor-ideas-white-bedding-reset.jpg)
 
-> TIP:QUICK: Wash the duvet and pillows too — a fresh bed starts with fresh fill, not just fresh sheets.
+> TIP:CHECK: Wash the duvet and pillows too — a fresh bed starts with fresh fill, not just fresh sheets.
 
 ## 9. Fresh Eucalyptus on the Nightstand
 

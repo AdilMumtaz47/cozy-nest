@@ -6,8 +6,8 @@ keyword: "cozy christmas"
 category: "Christmas Decor"
 date: "2026-11-23"
 images:
-  - file: "cozy-christmas-fireside-living-room-tree.jpg"
-    alt: "Cozy christmas living room with a lit tree, fireplace, knit throws and candles"
+  - file: "cozy-christmas-stockings-pinecone-wreath.jpg"
+    alt: "Fireplace mantel with a pinecone wreath and a row of colorful stockings"
   - file: "cozy-christmas-white-living-room-string-lights.jpg"
     alt: "White cozy christmas living room with string lights, plaid throws and a wreath"
   - file: "cozy-christmas-red-throw-fireplace.jpg"
@@ -22,8 +22,8 @@ images:
     alt: "White brick fireplace with cream knit stockings, cedar garland and brass bells"
   - file: "cozy-christmas-quilted-stockings-candles.jpg"
     alt: "Quilted cream stockings on a white mantel with garland and pillar candles"
-  - file: "cozy-christmas-stockings-pinecone-wreath.jpg"
-    alt: "Fireplace mantel with a pinecone wreath and a row of colorful stockings"
+  - file: "cozy-christmas-fireside-living-room-tree.jpg"
+    alt: "Cozy christmas living room with a lit tree, fireplace, knit throws and candles"
   - file: "cozy-christmas-merry-christmas-mantel-sign.jpg"
     alt: "Mantel garland with red berries, bottle brush trees and a Merry Christmas sign"
   - file: "cozy-christmas-reading-nook-knit-throw.jpg"
@@ -74,11 +74,10 @@ A cozy christmas home is not about buying everything new. It is about warm light
 
 The thread running through all of them is simple: pick one focal point per room, layer warm white light around it, then add texture — chunky knits, velvet, plaid, faux fur — until the room invites you to sit down. Most of these ideas use things you already own, plus garland, candles and a string of fairy lights.
 
-## 1. A Cozy Christmas Living Room by the Fire
+## 1. A Row of Stockings Under a Pinecone Wreath
+Seven stockings, one for everyone, hung in a neat row under a pinecone wreath: this is the mantel that makes Christmas morning feel official. Mix the stocking colors — deep green, burgundy, cream, striped — but keep them in the same size and style so the row looks intentional.
 
-Start with the room you live in most. A lit tree in the corner, a fire in the grate and a coffee table dressed with candles and greenery do most of the work. Keep the palette tight — cream, deep green and warm wood — and let the tree lights do the sparkling.
-
-Layer in knit throws and textured cushions so the sofa looks as soft as it feels. A woven tray on the coffee table keeps the candles, pinecones and greenery tidy, and it clears away in seconds when you need the surface.
+A lit garland draped along the mantel shelf ties the wreath to the stockings. Striped gift boxes on the hearth echo the stocking stripes and finish the scene without adding another color.
 
 ## 2. String Lights Across a White Living Room
 
@@ -122,11 +121,10 @@ Stockings do not have to match the tree. Quilted cream stockings with a soft dia
 
 Pillar candles in glass hurricanes on the hearth give you the firelight even when the fire is out. Use LED candles if little hands or pets roam the room — the glow is the same from across the room.
 
-## 9. A Row of Stockings Under a Pinecone Wreath
+## 9. A Cozy Christmas Living Room by the Fire
+Start with the room you live in most. A lit tree in the corner, a fire in the grate and a coffee table dressed with candles and greenery do most of the work. Keep the palette tight — cream, deep green and warm wood — and let the tree lights do the sparkling.
 
-Seven stockings, one for everyone, hung in a neat row under a pinecone wreath: this is the mantel that makes Christmas morning feel official. Mix the stocking colors — deep green, burgundy, cream, striped — but keep them in the same size and style so the row looks intentional.
-
-A lit garland draped along the mantel shelf ties the wreath to the stockings. Striped gift boxes on the hearth echo the stocking stripes and finish the scene without adding another color.
+Layer in knit throws and textured cushions so the sofa looks as soft as it feels. A woven tray on the coffee table keeps the candles, pinecones and greenery tidy, and it clears away in seconds when you need the surface.
 
 ## 10. A Wooden Merry Christmas Sign on the Mantel
 

@@ -32,7 +32,7 @@ Cozy Nest does not run accounts, advertising trackers or analytics tools that fo
 
 ## Cookies
 
-Cozy Nest itself does not set cookies. Links and buttons that lead to Pinterest may involve cookies set by Pinterest under its own policies. See the [Cookie Policy](/cookie-policy) for more detail.
+Cozy Nest itself does not set cookies. Links and buttons that lead to Pinterest may involve cookies set by Pinterest under its own policies. See the [Cookie Policy](/cookie-policy/) for more detail.
 
 ## Changes to this policy
 

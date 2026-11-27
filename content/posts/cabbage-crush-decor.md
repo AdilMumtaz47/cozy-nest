@@ -82,7 +82,7 @@ Use matching frames in one finish — natural wood or white — and keep the gap
 
 ![Living room wall covered in framed botanical leaf prints above a green sofa](/images/cabbage-crush-decor/cabbage-crush-decor-botanical-print-gallery-wall.jpg)
 
-> TIP:CHECK: matching frames in one finish; two-inch gaps kept even; prints the same size, leaf shapes mixed
+> TIP:QUICK: matching frames in one finish; two-inch gaps kept even; prints the same size, leaf shapes mixed
 
 ## 2. A Sage Green Accent Wall in the Living Room
 
@@ -92,7 +92,7 @@ Paint the wall your sofa sits against, so the green is what you see when you wal
 
 ![Sage green panelled accent wall in a living room with a grey sofa and plants](/images/cabbage-crush-decor/cabbage-crush-decor-sage-green-accent-wall-living-room.jpg)
 
-> TIP:QUICK: Paint the wall behind the sofa, not the wall with the television — the green should frame people, not a screen.
+> TIP:CHECK: Paint the wall behind the sofa, not the wall with the television — the green should frame people, not a screen.
 
 ## 3. A Green Velvet Armchair
 

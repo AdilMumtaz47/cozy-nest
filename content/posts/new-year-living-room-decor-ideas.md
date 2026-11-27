@@ -3,7 +3,7 @@ title: "30 New Year Living Room Decor Ideas for a Fresh Start"
 slug: "new-year-living-room-decor-ideas"
 description: "30 new year living room decor ideas — gold accents, cozy winter layers and party-ready touches for a fresh start that lasts into January."
 keyword: "new year living room decor ideas"
-category: "Home Decor"
+category: "Living Room Decor"
 date: "2026-11-27"
 images:
   - file: "new-year-living-room-decor-ideas-gold-silver-bauble-mantel-garland.jpg"

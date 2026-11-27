@@ -82,7 +82,7 @@ Place the chair near the window if you can, with a small side table for a book a
 
 ![Cream boucle accent chair with a rust pillow in a sunny bedroom corner](/images/bedroom-decor-ideas-2027/bedroom-decor-ideas-2027-boucle-accent-chair-corner.jpg)
 
-> TIP:CHECK: rounded low shape; one coloured cushion; small side table beside it; floor lamp behind for reading
+> TIP:QUICK: rounded low shape; one coloured cushion; small side table beside it; floor lamp behind for reading
 
 ## 2. Layered Neutral Linen Bedding
 
@@ -122,7 +122,7 @@ Warm earth tones suit wood furniture beautifully, especially light oak and pale 
 
 ![Terracotta bedroom with peach walls, rust bedding and woven baskets](/images/bedroom-decor-ideas-2027/bedroom-decor-ideas-2027-warm-earth-tone-terracotta.jpg)
 
-> TIP:QUICK: Pick three tones from one earthy family — wall, bedding, throw — and repeat nothing else.
+> TIP:CHECK: Pick three tones from one earthy family — wall, bedding, throw — and repeat nothing else.
 
 ## 6. Dark Moody Green Accent Wall
 

@@ -5,7 +5,7 @@ All 30 images: real photos, portrait, width >=768px (prefer 1024px), JPEG q~82, 
 
 | Design no. | Original file | New file | Alt text | Source URL |
 |---|---|---|---|---|
-| 1 | cand_000.jpg | cozy-christmas-fireside-living-room-tree.jpg | Cozy christmas living room with a lit tree, fireplace, knit throws and candles | https://adiamondinthestuff.com/wp-content/uploads/2025/11/ideas-for-cozy-living-room-christmas-decorations-1.png.webp |
+| 1 | cand_043.jpg | cozy-christmas-stockings-pinecone-wreath.jpg | Fireplace mantel with a pinecone wreath and a row of colorful stockings | https://i.pinimg.com/originals/c6/83/69/c683692902abab30b57dce794d7dbc99.jpg |
 | 2 | cand_004.jpg | cozy-christmas-white-living-room-string-lights.jpg | White cozy christmas living room with string lights, plaid throws and a wreath | https://brightsideideas.com/traditional-christmas-decor-ideas/ |
 | 3 | cand_005.jpg | cozy-christmas-red-throw-fireplace.jpg | Cozy christmas living room with a red knit throw, lit fireplace and decorated tree | https://vpsalpha.b-cdn.net/le-reve-de-noel/ai_742.jpg |
 | 4 | cand_027.jpg | cozy-christmas-tree-snowy-window.jpg | Cozy christmas corner with a lit tree, gifts and a snowy window view | https://homeisvibe.com/eco-christmas-sustainable-holiday-decorating-ideas/ |
@@ -13,7 +13,7 @@ All 30 images: real photos, portrait, width >=768px (prefer 1024px), JPEG q~82, 
 | 6 | cand_008.jpg | cozy-christmas-mantel-red-bows-stockings.jpg | Christmas mantel dressed with garland, red bows, stockings and glowing candles | https://wisedart.com/21-christmas-fireplace-decor-ideas/ |
 | 7 | cand_040.jpg | cozy-christmas-cream-knit-stockings-fireplace.jpg | White brick fireplace with cream knit stockings, cedar garland and brass bells | http://ourhappycorner.com/white-christmas-decor-ideas/ |
 | 8 | cand_041.jpg | cozy-christmas-quilted-stockings-candles.jpg | Quilted cream stockings on a white mantel with garland and pillar candles | https://brightsideideas.com/indoor-christmas-decor-ideas-2025/ |
-| 9 | cand_043.jpg | cozy-christmas-stockings-pinecone-wreath.jpg | Fireplace mantel with a pinecone wreath and a row of colorful stockings | https://i.pinimg.com/originals/c6/83/69/c683692902abab30b57dce794d7dbc99.jpg |
+| 9 | cand_000.jpg | cozy-christmas-fireside-living-room-tree.jpg | Cozy christmas living room with a lit tree, fireplace, knit throws and candles | https://adiamondinthestuff.com/wp-content/uploads/2025/11/ideas-for-cozy-living-room-christmas-decorations-1.png.webp |
 | 10 | cand_045.jpg | cozy-christmas-merry-christmas-mantel-sign.jpg | Mantel garland with red berries, bottle brush trees and a Merry Christmas sign | https://addictedtoorganization.com/wp-content/uploads/2026/09/christmas-fireplace-mantels-36.webp |
 | 11 | cand_009.jpg | cozy-christmas-reading-nook-knit-throw.jpg | Cozy reading nook with a white armchair, chunky knit throw and mini tree | https://learncalifornia.org/wp-content/uploads/2025/11/22-farmhouse-reading-nook-bliss.png |
 | 12 | cand_011.jpg | cozy-christmas-window-nook-red-throw.jpg | Bright reading nook with a red fair isle throw, open book and mini tree | https://sereneandspace.com/blog/living-room-christmas-style/ |
@@ -37,3 +37,5 @@ All 30 images: real photos, portrait, width >=768px (prefer 1024px), JPEG q~82, 
 | 30 | cand_091.jpg | cozy-christmas-hot-cocoa-bar.jpg | Full hot cocoa bar with hanging mugs, a chalkboard sign and marshmallow jars | https://mavipic.com/explore/hot-coca-bar-dti |
 
 Media URLs (download locators) are in /tmp/imgsearch_cc/finals.tsv alongside the page URLs above.
+
+NOTE (Nov 27, 2026 — Adil's catch): the original design #1 photo (fireside living room, 843x1125) was soft/hazy throughout and looked blurry as the 16:9 hero at desktop width, so designs #1 and #9 were swapped: the sharp stockings-and-pinecone-wreath photo (1024x1366, hero band verified crisp) is now design #1 / the article's main image, and the fireside photo is now design #9. No text changed.

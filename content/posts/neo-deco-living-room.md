@@ -82,7 +82,7 @@ Light it warmly and generously, because black walls absorb light. A crystal chan
 
 ![Black and gold neo deco living room with a curved black sofa](/images/neo-deco-living-room/neo-deco-living-room-black-and-gold.jpg)
 
-> TIP:GUIDE: Walls: black with gold fan wallpaper | Sofa: curved black velvet | Light: chandelier plus lamps
+> TIP:QUICK: Walls: black with gold fan wallpaper | Sofa: curved black velvet | Light: chandelier plus lamps
 
 ## 2. A Brass Chandelier
 
@@ -132,7 +132,7 @@ Style it with gold or brass cushions and a black-and-white geometric rug. The so
 
 ![Emerald velvet sofa in a neo deco living room with dark wood paneling](/images/neo-deco-living-room/neo-deco-living-room-emerald-velvet-sofa.jpg)
 
-> TIP:QUICK: Put the emerald sofa against dark wood paneling so the green reads even richer.
+> TIP:GUIDE: Put the emerald sofa against dark wood paneling so the green reads even richer.
 
 ## 7. A Velvet Armchair Pair
 

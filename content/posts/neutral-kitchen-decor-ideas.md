@@ -404,7 +404,7 @@ Pale wood is the classic choice, because it warms up white cabinets and suits ev
 
 ### How do I add contrast to a neutral kitchen without colour?
 
-Use black or brass in small doses: a black tap, brass handles, a dark pendant or a charcoal oven. Three dark pieces at most is the rule — enough to anchor the room, not enough to break the calm palette.
+Use black or brass in small doses: a black tap, brass handles, a dark pendant or a charcoal oven. Three dark pieces at most is the rule — enough to anchor the room, not enough to break the calm palette. Keep the rest of the room pale so the dark notes read as deliberate accents, not clutter.
 
 ### Are white kitchens still in style?
 

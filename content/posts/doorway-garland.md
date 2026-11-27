@@ -3,7 +3,7 @@ title: "30 Doorway Garland Ideas for a Welcoming Home"
 slug: "doorway-garland"
 description: "30 doorway garland ideas — front doors, interior doorways, arches and hallways dressed with Christmas greenery, lights, bows and wreaths."
 keyword: "doorway garland"
-category: "Christmas Decor"
+category: "Outdoor Decor"
 date: "2026-11-26"
 images:
   - file: "doorway-garland-navy-front-door.jpg"
