@@ -316,11 +316,11 @@ def page_shell(title, meta_desc, body_html, extra_head="", nav_cats=None, og_ima
 {extra_head}</head>
 <body>
 <header class="site-header"><div class="header-top">
-<a class="brand" href="/"><img src="{LOGO_URL}" alt="Cozy Nest logo" width="64" height="64">
-<span><span class="brand-name">{esc(SITE_NAME)}</span>
+<a class="brand-logo" href="/" aria-label="Cozy Nest home"><img src="{LOGO_URL}" alt="Cozy Nest logo" width="64" height="64"></a>
+<a class="brand" href="/"><span><span class="brand-name">{esc(SITE_NAME)}</span>
 <span class="brand-tag">HOME DECOR IDEAS</span></span></a>
+<a class="nav-follow header-follow" href="https://www.pinterest.com/cozynestbysayed/" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><circle cx="12" cy="12" r="11" fill="#fff"/><text x="12" y="16.5" text-anchor="middle" font-size="13" font-weight="bold" fill="#e60023" font-family="Georgia, serif">P</text></svg><span class="follow-text">Follow on Pinterest</span><span class="follow-short">Follow</span></a>
 </div><nav class="main-nav"><div class="nav-inner"><div class="nav-links">{nav_links}</div>
-<a class="nav-follow" href="https://www.pinterest.com/cozynestbysayed/" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><circle cx="12" cy="12" r="11" fill="#fff"/><text x="12" y="16.5" text-anchor="middle" font-size="13" font-weight="bold" fill="#e60023" font-family="Georgia, serif">P</text></svg><span class="follow-text">Follow on Pinterest</span><span class="follow-short">Follow</span></a>
 <button class="nav-search" type="button" id="search-open" aria-label="Search" aria-haspopup="dialog" title="Search"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg></button>
 </div></nav></header>
 <main>
