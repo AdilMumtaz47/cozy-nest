@@ -10,6 +10,7 @@ from datetime import date
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 POSTS_DIR = os.path.join(ROOT, "content", "posts")
+PAGES_DIR = os.path.join(ROOT, "content", "pages")
 SITE_NAME = "Cozy Nest"
 SITE_URL = "https://cozynesthomeideas.com"
 SITE_DESC = "Home decor inspiration — room ideas, seasonal looks and cozy corners, one list at a time."
@@ -270,6 +271,10 @@ def page_shell(title, meta_desc, body_html, extra_head="", nav_cats=None, og_ima
 <a href="https://www.pinterest.com/cozynestbysayed/" target="_blank" rel="noopener" title="Instagram"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M12 0C8.74 0 8.333.015 7.053.072 5.775.132 4.905.333 4.14.63c-.789.306-1.459.717-2.126 1.384S.935 3.35.63 4.14C.333 4.905.131 5.775.072 7.053.012 8.333 0 8.74 0 12s.015 3.667.072 4.947c.06 1.277.261 2.148.558 2.913.306.788.717 1.459 1.384 2.126.667.666 1.336 1.079 2.126 1.384.766.296 1.636.499 2.913.558C8.333 23.988 8.74 24 12 24s3.667-.015 4.947-.072c1.277-.06 2.148-.262 2.913-.558.788-.306 1.459-.718 2.126-1.384.666-.667 1.079-1.335 1.384-2.126.296-.765.499-1.636.558-2.913.06-1.28.072-1.687.072-4.947s-.015-3.667-.072-4.947c-.06-1.277-.262-2.149-.558-2.913-.306-.789-.718-1.459-1.384-2.126C21.319 1.347 20.651.935 19.86.63c-.765-.297-1.636-.499-2.913-.558C15.667.012 15.26 0 12 0zm0 2.16c3.203 0 3.585.016 4.85.071 1.17.055 1.805.249 2.227.415.562.217.96.477 1.382.896.419.42.679.819.896 1.381.164.422.36 1.057.413 2.227.057 1.266.07 1.646.07 4.85s-.015 3.585-.074 4.85c-.061 1.17-.256 1.805-.421 2.227-.224.562-.479.96-.899 1.382-.419.419-.824.679-1.38.896-.42.164-1.065.36-2.235.413-1.274.057-1.649.07-4.859.07-3.211 0-3.586-.015-4.859-.074-1.171-.061-1.816-.256-2.236-.421-.569-.224-.96-.479-1.379-.899-.421-.419-.69-.824-.9-1.38-.165-.42-.359-1.065-.42-2.235-.045-1.26-.061-1.649-.061-4.844 0-3.196.016-3.586.061-4.861.061-1.17.255-1.814.42-2.234.21-.57.479-.96.9-1.381.419-.419.81-.689 1.379-.898.42-.166 1.051-.361 2.221-.421 1.275-.045 1.65-.06 4.859-.06l.045.03zm0 3.678c-3.405 0-6.162 2.76-6.162 6.162 0 3.405 2.76 6.162 6.162 6.162 3.405 0 6.162-2.76 6.162-6.162 0-3.405-2.76-6.162-6.162-6.162zM12 16c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm7.846-10.405c0 .795-.646 1.44-1.44 1.44-.795 0-1.44-.646-1.44-1.44 0-.794.646-1.439 1.44-1.439.793-.001 1.44.645 1.44 1.439z"/></svg></a>
 <a href="https://www.pinterest.com/cozynestbysayed/" target="_blank" rel="noopener">Follow on Pinterest</a></div>
 </div>
+<div class="footer-links">
+<div class="footer-group"><h3>Quick Links</h3><a href="/">Home</a><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/editorial-policy/">Editorial Policy</a></div>
+<div class="footer-group"><h3>Legal</h3><a href="/privacy-policy/">Privacy Policy</a><a href="/terms-and-conditions/">Terms &amp; Conditions</a><a href="/disclaimer/">Disclaimer</a><a href="/cookie-policy/">Cookie Policy</a></div>
+</div>
 <div class="footer-note">{esc(SITE_DESC)} Every list is made to be saved and actually used at home.</div>
 <div class="footer-bottom">&copy; {year} {esc(SITE_NAME)} — home decor inspiration, one list at a time.</div></footer>
 <div class="search-overlay" id="search-overlay" hidden>
@@ -306,6 +311,88 @@ def load_articles():
         articles.append({"meta": meta, "body_html": body_html, "faqs": faqs, "toc": toc, "file": fn})
     articles.sort(key=lambda a: a["meta"].get("date", ""), reverse=True)
     return articles
+
+
+def load_pages():
+    """Static trust pages (about, contact, policies) from content/pages/.
+    Frontmatter carries title/slug/description; body has no images list."""
+    pages = []
+    if not os.path.isdir(PAGES_DIR):
+        return pages
+    for fn in sorted(os.listdir(PAGES_DIR)):
+        if not fn.endswith(".md") or fn.startswith("_"):
+            continue
+        path = os.path.join(PAGES_DIR, fn)
+        with open(path, encoding="utf-8") as f:
+            meta, body = parse_frontmatter(f.read())
+        if not meta.get("slug"):
+            print(f"SKIP page {fn}: no slug in frontmatter")
+            continue
+        pages.append({"meta": meta, "body": body, "file": fn})
+    return pages
+
+
+def md_simple_to_html(body):
+    """Simple converter for static pages: ## headings, "- " lists,
+    blank-line-separated paragraphs. Inline markup via md_inline().
+    No TOC, no FAQs, no tip boxes, no images."""
+    out = []
+    lines = body.splitlines()
+    i = 0
+    buf = []
+    def flush():
+        nonlocal buf
+        if buf:
+            out.append("<p>" + " ".join(md_inline(x.strip()) for x in buf if x.strip()) + "</p>")
+            buf = []
+    while i < len(lines):
+        line = lines[i]
+        if line.startswith("## "):
+            flush()
+            out.append(f"<h2>{md_inline(line[3:].strip())}</h2>")
+        elif line.startswith("- "):
+            flush()
+            items = []
+            while i < len(lines) and lines[i].startswith("- "):
+                items.append(f"<li>{md_inline(lines[i][2:].strip())}</li>")
+                i += 1
+            out.append("<ul>" + "".join(items) + "</ul>")
+            continue
+        elif line.strip() == "":
+            flush()
+        else:
+            buf.append(line)
+        i += 1
+    flush()
+    return "".join(out)
+
+
+def build_pages(pages, nav_cats):
+    """Render each static page in the same article-card look as articles
+    (article-layout / article-col / article-card, H1 from frontmatter title)
+    and write it to ROOT/<slug>/index.html via page_shell() — so the
+    Pinterest verification meta tag in <head> is present on every page."""
+    slugs = []
+    for p in pages:
+        m = p["meta"]
+        slug = m["slug"]
+        body = (
+            f'<div class="article-layout"><div class="article-col">'
+            f'<p class="crumb"><a href="/">Home</a> / {esc(m["title"])}</p>'
+            f'<article class="article-card">'
+            f"<h1>{esc(m['title'])}</h1>"
+            f"{md_simple_to_html(p['body'])}"
+            f"</article></div></div>"
+            f'<p><a class="back-link" href="/">&larr; Back to all ideas</a></p>'
+        )
+        out_dir = os.path.join(ROOT, slug)
+        os.makedirs(out_dir, exist_ok=True)
+        with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
+            f.write(page_shell(m["title"], m.get("description", ""), body,
+                               nav_cats=nav_cats, og_image=None))
+        slugs.append(slug)
+        print(f"built /{slug}/ (static page)")
+    return slugs
 
 
 def build_article(a, all_articles):
@@ -608,12 +695,14 @@ def build_search_index(articles):
     return entries
 
 
-def build_sitemap(articles, cat_slugs=None):
+def build_sitemap(articles, cat_slugs=None, page_slugs=None):
     urls = [SITE_URL + "/"]
     for s in (cat_slugs or []):
         urls.append(f"{SITE_URL}/categories/{s}/")
     for a in articles:
         urls.append(f"{SITE_URL}/posts/{a['meta']['slug']}/")
+    for s in (page_slugs or []):
+        urls.append(f"{SITE_URL}/{s}/")
     today = date.today().isoformat()
     items = "".join(f"<url><loc>{esc(u)}</loc><lastmod>{today}</lastmod></url>" for u in urls)
     with open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8") as f:
@@ -631,9 +720,12 @@ def main():
         print(f"built /posts/{slug}/ ({n} images, {len(a['faqs'])} FAQs)")
     build_home(articles)
     cat_slugs = build_categories(articles)
-    build_sitemap(articles, cat_slugs)
+    pages = load_pages()
+    nav_cats = [(c, cat_slug(c)) for c in categories_of(articles)]
+    page_slugs = build_pages(pages, nav_cats)
+    build_sitemap(articles, cat_slugs, page_slugs)
     build_search_index(articles)
-    print(f"done: {len(articles)} article(s), {len(cat_slugs)} categor(ies), homepage + sitemap written.")
+    print(f"done: {len(articles)} article(s), {len(cat_slugs)} categor(ies), {len(pages)} static page(s), homepage + sitemap written.")
 
 
 if __name__ == "__main__":
