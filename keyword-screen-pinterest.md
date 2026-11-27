@@ -310,3 +310,24 @@ Close calls: "rental-friendly decor ideas" (hyphenated) is not the exact verbati
 **Screen #5 final tally: 2 STRONG + 6 WINNABLE, 12 REJECT.** Combined with screen #4: **19 passers total** (4 STRONG: cabbage crush, funhaus, diy tree collar wood, valentine mantel decor; 15 WINNABLE: garland on mantle, doorway garland, stocking hanging ideas, winter window art, diy tree collar, gingerbread house door decorations, christmas island centerpiece ideas, neo deco, afrohemian decor, neo deco living room, afrohemian decor living room, funhaus interior, cabbage crush decor, gingerbread house door decorations diy, neutral kitchen decor ideas). Adil picked all 19 on Nov 26, 09:45 PKT — **all 19 WRITTEN + LIVE Nov 26 (commit b43e9cb9; see master record "19 new articles" section)**. Cabbage crush caveat (food-skewed results) still stands; cabbage crush decor re-check DONE Nov 26 (see its row above).
 
 **Discovery candidates from phrases 1–11** (not screened): neo deco living room 2026 / ideas / design; afrohemian living room decor ideas / decor; funhaus interior design / interiors / interior decor / aesthetic interior; garland on mantle christmas with tv / christmas garland mantle with tv / garland mantle with tv; doorway garland christmas tension rod / doorway garland christmas / christmas garland doorway tension rod; stocking hanging ideas no fireplace / without a fireplace; wood tree collar diy / diy wood christmas tree collar / diy wood slat tree collar; diy gingerbread house door decorations; christmas island centerpiece ideas / christmas centerpiece ideas for kitchen island / christmas island centerpiece ideas diy; valentine mantel decor ideas / decorating ideas / simple / 2026.
+
+## Screen #6 — 2027 phrases (Nov 27, 2026, 12:25–12:34 PKT, device browser, signed in as Cozy Nest, search-only)
+
+Method: file's rules — exact phrase in settled autocomplete = saturated/reject; listicle count in top 12 (heading must promise a numbered list; numbers only in the pin image NOT counted): 0–3 STRONG, 4–6 WINNABLE, 7+ REJECT.
+
+| Phrase | Autocomplete exact? | Listicles top 12 | Verdict |
+|---|---|---|---|
+| 2027 home decor ideas | No | 2 | STRONG |
+| living room decor ideas 2027 | No | 8 | REJECT |
+| farmhouse living room decor ideas 2027 | Inconclusive — dropdown blank twice | 10 | REJECT (count; saturation inconclusive) |
+| bedroom decor ideas 2027 | No | 6 | WINNABLE |
+| kitchen decor ideas 2027 | Inconclusive — dropdown blank twice | 6 | WINNABLE on count only; saturation inconclusive |
+| bathroom decor ideas 2027 | No | 6 | WINNABLE |
+| 2027 christmas decor ideas | No | 3 | STRONG |
+| christmas decor ideas 2027 | No | 3 | STRONG |
+| 2027 interior design trends | No | 5 | WINNABLE |
+| home decor trends 2027 | No | 4 | WINNABLE |
+
+Tally: 3 STRONG, 5 WINNABLE, 2 REJECT. Near-duplicate note (Section 3.4): the two Christmas STRONG phrases are the same topic — ONE article (year-first form as the keyword, year-last as reserve), not two. Distinct articles from this screen: 7.
+Discovery candidates (autocomplete): home decor ideas living room 2027; home decor ideas for 2027; christmas home decor ideas 2027; christmas tree/table decor ideas 2027; christmas decor ideas 2027 trends; 2027 interior design trends living room/bedroom/bathroom/home office/kitchen; home decor trends 2026-2027; home decor trends forecast 2027.
+Adil's call (Nov 27, "fix everything which needs to be fixed"): write all 7 distinct passers. Coordinator started Nov 27, 12:34 PKT.
