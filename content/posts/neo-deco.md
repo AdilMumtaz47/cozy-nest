@@ -376,7 +376,9 @@ Style it with cushions in the room's second jewel tone — emerald or burgundy �
 
 ## Takeaway
 
-Neo deco works when you commit to the formula and then stop. One jewel tone, one geometric pattern and one brass accent per room, repeated with discipline, and the house feels glamorous without feeling like a set. Start with the living room — our [30 Neo Deco Living Room Ideas for a Bold, Modern Space](/posts/neo-deco-living-room/) goes deep on sofas, lighting and layouts for that one room — and let the style spread one room at a time.
+- Neo deco works when you commit to the formula and then stop.
+- One jewel tone, one geometric pattern and one brass accent per room, repeated with discipline, and the house feels glamorous without feeling like a set.
+- Start with the living room — our [30 Neo Deco Living Room Ideas for a Bold, Modern Space](/posts/neo-deco-living-room/) goes deep on sofas, lighting and layouts for that one room — and let the style spread one room at a time.
 
 ## Frequently Asked Questions
 

@@ -316,7 +316,10 @@ Layer the mats with the larger rug underneath and the coir mat on top, leaving a
 
 ## Takeaway
 
-A hallway earns its keep with three things: something to look at, somewhere to put things, and light that makes the walk pleasant. Start with the mirror or the runner — whichever your hallway lacks most — then add one storage piece and one personal touch, like the family photos or a plant. Keep the walkway clear, keep the palette to two or three colors, and let the hallway borrow the warmth of the rooms around it. If the living room is next on your list, our [30 Farmhouse Living Room Ideas for a Warm, Collected Home](/posts/farmhouse-living-room/) picks up exactly where this hallway leaves off.
+- A hallway earns its keep with three things: something to look at, somewhere to put things, and light that makes the walk pleasant.
+- Start with the mirror or the runner — whichever your hallway lacks most — then add one storage piece and one personal touch, like the family photos or a plant.
+- Keep the walkway clear, keep the palette to two or three colors, and let the hallway borrow the warmth of the rooms around it.
+- If the living room is next on your list, our [30 Farmhouse Living Room Ideas for a Warm, Collected Home](/posts/farmhouse-living-room/) picks up exactly where this hallway leaves off.
 
 ## Frequently Asked Questions
 

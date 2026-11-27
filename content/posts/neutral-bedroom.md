@@ -256,7 +256,9 @@ The lesson is in the close-up: when you look closely, a neutral bed is never pla
 
 ## Takeaway
 
-A neutral bedroom is not an empty bedroom — it is three neutrals, five textures and good light, layered until the room feels restful. Start with the bedding, add one rug and one throw, and stop before a fourth color creeps in. If you want the same calm with more pattern, our [30 Boho Bedroom Ideas for a Calm, Layered Retreat](/posts/boho-bedroom/) keeps the textures and warms the color, and [30 Cozy Winter Bedroom Ideas for a Warm Retreat](/posts/cozy-winter-bedroom-ideas/) shows the seasonal version.
+- A neutral bedroom is not an empty bedroom — it is three neutrals, five textures and good light, layered until the room feels restful.
+- Start with the bedding, add one rug and one throw, and stop before a fourth color creeps in.
+- If you want the same calm with more pattern, our [30 Boho Bedroom Ideas for a Calm, Layered Retreat](/posts/boho-bedroom/) keeps the textures and warms the color, and [30 Cozy Winter Bedroom Ideas for a Warm Retreat](/posts/cozy-winter-bedroom-ideas/) shows the seasonal version.
 
 ## Frequently Asked Questions
 

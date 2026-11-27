@@ -376,7 +376,10 @@ Wrap the yarn tightly with no gaps, anchoring each colour change with a dab of h
 
 ## Takeaway
 
-The best first project is the one you can finish tonight: the painted sign, the paper banner or the felt door hanger. Once it is on the door, the bigger builds — the cardboard facade, the life-size greeter — stop feeling daunting and start feeling like next weekend's plan. Keep your palette to brown, white, red and green, save your templates, and next Christmas you will only need an evening to hang the whole collection again. And if you want to see how these handmade pieces look beside the shop-bought versions, our [30 Gingerbread House Door Decoration Ideas for a Sweet Welcome](/posts/gingerbread-house-door-decorations/) puts the finished looks side by side.
+- The best first project is the one you can finish tonight: the painted sign, the paper banner or the felt door hanger.
+- Once it is on the door, the bigger builds — the cardboard facade, the life-size greeter — stop feeling daunting and start feeling like next weekend's plan.
+- Keep your palette to brown, white, red and green, save your templates, and next Christmas you will only need an evening to hang the whole collection again.
+- And if you want to see how these handmade pieces look beside the shop-bought versions, our [30 Gingerbread House Door Decoration Ideas for a Sweet Welcome](/posts/gingerbread-house-door-decorations/) puts the finished looks side by side.
 
 ## Frequently Asked Questions
 

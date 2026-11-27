@@ -255,7 +255,9 @@ Keep the bedding in calm, earthy tones — taupe, cream and grey — and let the
 
 ## Takeaway
 
-Rustic home decor is really about letting natural materials do the talking. Pick one anchor piece per room — a reclaimed wood bed, a chunky console, open shelves or a stone fireplace — then layer in woven texture, warm metal and soft light. If you want more seasonal inspiration, our [30 Christmas Living Room Ideas for a Cozy Holiday Home](/posts/christmas-living-room/) and [30 Boho Living Room Ideas for a Relaxed, Earthy Home](/posts/boho-living-room/) pair beautifully with these rustic ideas. Start small, buy pieces you love, and let the room grow warm over time.
+- Rustic home decor is really about letting natural materials do the talking.
+- Pick one anchor piece per room — a reclaimed wood bed, a chunky console, open shelves or a stone fireplace — then layer in woven texture, warm metal and soft light.
+- If you want more seasonal inspiration, our [30 Christmas Living Room Ideas for a Cozy Holiday Home](/posts/christmas-living-room/) and [30 Boho Living Room Ideas for a Relaxed, Earthy Home](/posts/boho-living-room/) pair beautifully with these rustic ideas. Start small, buy pieces you love, and let the room grow warm over time.
 
 ## Frequently Asked Questions
 

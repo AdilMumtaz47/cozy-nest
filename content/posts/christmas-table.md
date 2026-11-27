@@ -256,7 +256,10 @@ Fresh flowers on a christmas table feel like a special occasion, and roses hold 
 
 ## Takeaway
 
-A christmas table comes down to three moves: a base layer, a low centerpiece guests can see over, and one small detail at every place. Start with the palette — three colors, one metallic — then lay the runner, set the plates and let the candles do the rest. Borrow a runner from one idea here and the napkins from another; the best tables are the mixed ones. And if the rest of the house needs the same treatment, our [cozy christmas ideas](/posts/cozy-christmas/) carry this palette from the table to the mantel and the front door.
+- A christmas table comes down to three moves: a base layer, a low centerpiece guests can see over, and one small detail at every place.
+- Start with the palette — three colors, one metallic — then lay the runner, set the plates and let the candles do the rest.
+- Borrow a runner from one idea here and the napkins from another; the best tables are the mixed ones.
+- And if the rest of the house needs the same treatment, our [cozy christmas ideas](/posts/cozy-christmas/) carry this palette from the table to the mantel and the front door.
 
 ## Frequently Asked Questions
 

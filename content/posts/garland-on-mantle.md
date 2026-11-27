@@ -376,7 +376,9 @@ A burlap bow wreath is easy to make: a grapevine wreath, some greenery and a big
 
 ## Takeaway
 
-A garland on the mantel is the fastest route to a Christmas living room: one swag of greenery, a few lights, and whatever you love most — stockings, pinecones, ribbons or lanterns — and the fireplace becomes the warm heart of the house. Start with the fullest garland you can find, hang it securely, and dress it slowly, stepping back after every addition. If the garland has you in the mood to dress the rest of the house, our [30 Doorway Garland Ideas for a Welcoming Home](https://www.cozynesthomeideas.com/posts/doorway-garland/) carries the same greenery to your front door, and our [30 Valentine Mantel Decor Ideas](https://www.cozynesthomeideas.com/posts/valentine-mantel-decor/) keeps the mantel dressed once Christmas is over.
+- A garland on the mantel is the fastest route to a Christmas living room: one swag of greenery, a few lights, and whatever you love most — stockings, pinecones, ribbons or lanterns — and the fireplace becomes the warm heart of the house.
+- Start with the fullest garland you can find, hang it securely, and dress it slowly, stepping back after every addition.
+- If the garland has you in the mood to dress the rest of the house, our [30 Doorway Garland Ideas for a Welcoming Home](https://www.cozynesthomeideas.com/posts/doorway-garland/) carries the same greenery to your front door, and our [30 Valentine Mantel Decor Ideas](https://www.cozynesthomeideas.com/posts/valentine-mantel-decor/) keeps the mantel dressed once Christmas is over.
 
 ## Frequently Asked Questions
 

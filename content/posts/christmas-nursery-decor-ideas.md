@@ -376,7 +376,10 @@ Hang the banner high and taut, with both ends fixed properly, so it never sags i
 
 ## Takeaway
 
-A festive nursery is a calm nursery with Christmas layered on top: a mini tree in the corner, soft garlands and lights high on the walls, one or two framed prints, and the dresser doing the heavy lifting. Start with the tree and the stocking, add the lights and the garland, and stop before the room feels busy — the baby sleeps in this room, and a peaceful room is the whole point. If you want to carry the same feeling through the rest of the house, our [30 Christmas Bedroom Ideas for a Cozy, Festive Retreat](/posts/christmas-bedroom/) and [30 Christmas Living Room Ideas for a Warm, Festive Home](/posts/christmas-living-room/) use the same soft, warm approach in the grown-ups' rooms. Whatever you choose, keep every decoration out of the crib and out of reach, and the nursery will be festive and safe all season.
+- A festive nursery is a calm nursery with Christmas layered on top: a mini tree in the corner, soft garlands and lights high on the walls, one or two framed prints, and the dresser doing the heavy lifting.
+- Start with the tree and the stocking, add the lights and the garland, and stop before the room feels busy — the baby sleeps in this room, and a peaceful room is the whole point.
+- If you want to carry the same feeling through the rest of the house, our [30 Christmas Bedroom Ideas for a Cozy, Festive Retreat](/posts/christmas-bedroom/) and [30 Christmas Living Room Ideas for a Warm, Festive Home](/posts/christmas-living-room/) use the same soft, warm approach in the grown-ups' rooms.
+- Whatever you choose, keep every decoration out of the crib and out of reach, and the nursery will be festive and safe all season.
 
 ## Frequently Asked Questions
 

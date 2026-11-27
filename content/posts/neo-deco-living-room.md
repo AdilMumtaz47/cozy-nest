@@ -376,7 +376,9 @@ Pull one color from the rug for the cushions and let the sofa's green be the roo
 
 ## Takeaway
 
-A neo deco living room works when the formula holds and the symmetry holds. One jewel tone, one geometric pattern and one brass accent, arranged so the room feels ordered even when it is dramatic. Start with the sofa — emerald velvet is the classic — then add the rug, the mirror and the light in that order. For the style across the rest of the house, our [30 Neo Deco Ideas for a Bold, Modern Home](/posts/neo-deco/) takes the same formula into bedrooms, kitchens, bathrooms and entryways.
+- A neo deco living room works when the formula holds and the symmetry holds.
+- One jewel tone, one geometric pattern and one brass accent, arranged so the room feels ordered even when it is dramatic. Start with the sofa — emerald velvet is the classic — then add the rug, the mirror and the light in that order.
+- For the style across the rest of the house, our [30 Neo Deco Ideas for a Bold, Modern Home](/posts/neo-deco/) takes the same formula into bedrooms, kitchens, bathrooms and entryways.
 
 ## Frequently Asked Questions
 

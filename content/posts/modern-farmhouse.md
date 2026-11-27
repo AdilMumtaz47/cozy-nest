@@ -256,7 +256,9 @@ Furnish a porch like a living room — a sofa, two chairs, one table — and it 
 
 ## Takeaway
 
-A modern farmhouse home is built from a short list of materials repeated with care: white shiplap or board-and-batten, one warm wood tone, black metal accents, linen and jute. Start with the room you use most — the living room or the kitchen — and get its palette right before you buy anything for the next room. If you want to take the same palette into the holidays, our [30 Cozy Christmas Ideas for a Warm, Glowing Home](/posts/cozy-christmas/) shows how garland and fairy lights sit on a farmhouse base, and our [30 Christmas Kitchen Ideas for a Warm, Festive Heart of the Home](/posts/christmas-kitchen/) dresses the kitchen for December.
+- A modern farmhouse home is built from a short list of materials repeated with care: white shiplap or board-and-batten, one warm wood tone, black metal accents, linen and jute.
+- Start with the room you use most — the living room or the kitchen — and get its palette right before you buy anything for the next room.
+- If you want to take the same palette into the holidays, our [30 Cozy Christmas Ideas for a Warm, Glowing Home](/posts/cozy-christmas/) shows how garland and fairy lights sit on a farmhouse base, and our [30 Christmas Kitchen Ideas for a Warm, Festive Heart of the Home](/posts/christmas-kitchen/) dresses the kitchen for December.
 
 ## Frequently Asked Questions
 

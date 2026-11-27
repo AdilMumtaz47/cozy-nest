@@ -255,7 +255,9 @@ The rule is abundance in the middle and emptiness at the edges — a full center
 
 ## Takeaway
 
-A cozy winter home is not a shopping list — it is a way of layering. Start with one soft thing on the sofa, add warm light at a low height, and finish with one seasonal touch per room: garland in the entry, plaid on the sofa, candles on the table. If you want the same layered warmth in spring's lighter rooms, our [30 Boho Living Room Ideas for a Relaxed, Layered Home](/posts/boho-living-room/) shows the same textures without the season.
+- A cozy winter home is not a shopping list — it is a way of layering.
+- Start with one soft thing on the sofa, add warm light at a low height, and finish with one seasonal touch per room: garland in the entry, plaid on the sofa, candles on the table.
+- If you want the same layered warmth in spring's lighter rooms, our [30 Boho Living Room Ideas for a Relaxed, Layered Home](/posts/boho-living-room/) shows the same textures without the season.
 
 ## Frequently Asked Questions
 

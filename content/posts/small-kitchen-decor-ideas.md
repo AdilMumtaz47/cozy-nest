@@ -255,7 +255,9 @@ Rolling storage is the answer when you cannot add cabinets: it gives you counter
 
 ## Takeaway
 
-A charming small kitchen is not about having less — it is about making every inch work and look good doing it. Start with open shelves on one wall, add a rail or a cart for the overflow, and finish with plants, warm light and one brave color. If you want more cozy ideas for the rest of the house, our [30 Winter Home Ideas for a Cozy, Snowy Season](/posts/winter-home/) carries the same warmth through the cold months.
+- A charming small kitchen is not about having less — it is about making every inch work and look good doing it.
+- Start with open shelves on one wall, add a rail or a cart for the overflow, and finish with plants, warm light and one brave color.
+- If you want more cozy ideas for the rest of the house, our [30 Winter Home Ideas for a Cozy, Snowy Season](/posts/winter-home/) carries the same warmth through the cold months.
 
 ## Frequently Asked Questions
 

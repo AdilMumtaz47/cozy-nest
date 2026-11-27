@@ -376,7 +376,9 @@ When the whole room joins in, keep the mantel itself simple — garland, candles
 
 ## Takeaway
 
-Start with one garland and one group of candles — that is a finished Valentine mantel. Then add roses if you want romance, a sign if you want a message, or lanterns if you want glow, and stop the moment the shelf looks full from the doorway. If you want the garland to work beyond February, our [30 Garland on Mantle Ideas for Every Season](/posts/garland-on-mantle/) shows the same shelf dressed for every season of the year.
+- Start with one garland and one group of candles — that is a finished Valentine mantel.
+- Then add roses if you want romance, a sign if you want a message, or lanterns if you want glow, and stop the moment the shelf looks full from the doorway.
+- If you want the garland to work beyond February, our [30 Garland on Mantle Ideas for Every Season](/posts/garland-on-mantle/) shows the same shelf dressed for every season of the year.
 
 ## Frequently Asked Questions
 

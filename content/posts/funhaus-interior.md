@@ -376,7 +376,9 @@ Vary the frames but keep the spacing even, and include one piece that is purely 
 
 ## Takeaway
 
-The funhaus interior works room by room, so start with the room you use most. A color-drenched sofa wall, a bold backsplash or a scalloped headboard — pick one, live with it, and let the next room follow. For the whole-home version of the style, our [30 FunHaus Ideas for a Playful, Bold Home](/posts/funhaus/) has the rainbow staircases and Memphis clashes to go with these room ideas. The rule is the same everywhere: two loud colors, one leading pattern, and something in the room that is there just because it makes you smile.
+- The funhaus interior works room by room, so start with the room you use most.
+- A color-drenched sofa wall, a bold backsplash or a scalloped headboard — pick one, live with it, and let the next room follow. For the whole-home version of the style, our [30 FunHaus Ideas for a Playful, Bold Home](/posts/funhaus/) has the rainbow staircases and Memphis clashes to go with these room ideas.
+- The rule is the same everywhere: two loud colors, one leading pattern, and something in the room that is there just because it makes you smile.
 
 ## Frequently Asked Questions
 

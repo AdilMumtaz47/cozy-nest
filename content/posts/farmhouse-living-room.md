@@ -256,7 +256,9 @@ Floating shelves are the easiest open shelving to live with — no brackets to d
 
 ## Takeaway
 
-A farmhouse living room is built from comfort and collection, not from a shopping list. Start with a slipcovered sofa you can sit on, anchor the room with a wood mantel or a big wood table, then add plaid, plants and shelves one piece at a time. Edit as often as you add, and let the room collect slowly. If you want to see the same room dressed for the holidays, our [30 Christmas Living Room Ideas for a Warm, Festive Glow](/posts/christmas-living-room/) shows garland, lights and plaid on a farmhouse base, and our [30 Cozy Christmas Ideas for a Warm, Glowing Home](/posts/cozy-christmas/) carries the warmth through the whole house.
+- A farmhouse living room is built from comfort and collection, not from a shopping list.
+- Start with a slipcovered sofa you can sit on, anchor the room with a wood mantel or a big wood table, then add plaid, plants and shelves one piece at a time. Edit as often as you add, and let the room collect slowly.
+- If you want to see the same room dressed for the holidays, our [30 Christmas Living Room Ideas for a Warm, Festive Glow](/posts/christmas-living-room/) shows garland, lights and plaid on a farmhouse base, and our [30 Cozy Christmas Ideas for a Warm, Glowing Home](/posts/cozy-christmas/) carries the warmth through the whole house.
 
 ## Frequently Asked Questions
 

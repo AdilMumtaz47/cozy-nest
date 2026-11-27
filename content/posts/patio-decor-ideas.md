@@ -316,7 +316,9 @@ Hang it where it reflects plants or sky, never a blank fence or a neighbor's win
 
 ## Takeaway
 
-A relaxed patio is not a shopping list — it is a few good layers. Start with a rug and one overhead light, add seating you actually want to sit in, then fill the corners with plants and keep a basket of blankets within reach. Mix one or two of these ideas at a time and let the patio grow into the favorite room of the house. If the front of the house needs the same treatment, our [30 Christmas Front Porch Decor Ideas for a Warm Welcome](/posts/christmas-front-porch-decor-ideas/) carries the warmth right to the door.
+- A relaxed patio is not a shopping list — it is a few good layers.
+- Start with a rug and one overhead light, add seating you actually want to sit in, then fill the corners with plants and keep a basket of blankets within reach.
+- Mix one or two of these ideas at a time and let the patio grow into the favorite room of the house. If the front of the house needs the same treatment, our [30 Christmas Front Porch Decor Ideas for a Warm Welcome](/posts/christmas-front-porch-decor-ideas/) carries the warmth right to the door.
 
 ## Frequently Asked Questions
 

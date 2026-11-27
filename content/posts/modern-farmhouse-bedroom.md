@@ -256,7 +256,10 @@ If you are starting from scratch, start here. A white bed, a wood bench and a wo
 
 ## Takeaway
 
-A modern farmhouse bedroom is a calm base with one rustic feature doing the work. Start with white walls and warm wood, add layered linen bedding in neutrals, then choose your signature — shiplap, a barn door, exposed beams or a black metal bed — and let it lead. Add one woven texture and one plant, and stop. If you want to carry the same palette through the house, our [30 Rustic Home Kitchen Ideas for a Warm, Natural Heart of the Home](/posts/rustic-home-kitchen/) and our [30 Boho Living Room Ideas for a Relaxed, Layered Home](/posts/boho-living-room/) show how the same warm neutrals work in the kitchen and the living room.
+- A modern farmhouse bedroom is a calm base with one rustic feature doing the work.
+- Start with white walls and warm wood, add layered linen bedding in neutrals, then choose your signature — shiplap, a barn door, exposed beams or a black metal bed — and let it lead.
+- Add one woven texture and one plant, and stop.
+- If you want to carry the same palette through the house, our [30 Rustic Home Kitchen Ideas for a Warm, Natural Heart of the Home](/posts/rustic-home-kitchen/) and our [30 Boho Living Room Ideas for a Relaxed, Layered Home](/posts/boho-living-room/) show how the same warm neutrals work in the kitchen and the living room.
 
 ## Frequently Asked Questions
 

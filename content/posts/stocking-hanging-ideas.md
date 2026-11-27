@@ -376,7 +376,9 @@ This is the idea for a window that faces the street: the neighbors get the displ
 
 ## Takeaway
 
-Pick the spot first and the stockings second: a ladder for a home with no mantel, a stair rail for a house full of children, a peg rail for a hallway everyone passes, and a basket for a home where nothing can be hung. Whichever spot you choose, hang the stockings where they can be seen and where they will hold a full stocking on Christmas morning — and if you want the garland to go with them, our [30 Garland on Mantle Ideas for Every Season](/posts/garland-on-mantle/) shows how to run greenery along any rail, shelf or mantel.
+- Pick the spot first and the stockings second: a ladder for a home with no mantel, a stair rail for a house full of children, a peg rail for a hallway everyone passes, and a basket for a home where nothing can be hung.
+- Whichever spot you choose, hang the stockings where they can be seen and where they will hold a full stocking on Christmas morning.
+- If you want the garland to go with them, our [30 Garland on Mantle Ideas for Every Season](/posts/garland-on-mantle/) shows how to run greenery along any rail, shelf or mantel.
 
 ## Frequently Asked Questions
 

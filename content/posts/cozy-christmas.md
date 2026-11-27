@@ -256,7 +256,10 @@ Label the jars so guests know what is what, and keep the marshmallows in a clear
 
 ## Takeaway
 
-A cozy christmas home comes down to three moves: one focal point per room, warm light layered around it, and soft texture everywhere hands land. Start with the living room and the front door — those are the two places everyone sees — then add a reading nook and a cocoa corner for yourself. When the table needs the same treatment, our [christmas table decor ideas](/posts/christmas-table-decor-ideas/) dress it in runners, candles and greenery, and our [boho living room ideas](/posts/boho-living-room/) show the same layered warmth without the holiday theme. Pick a palette of three colors, repeat it from room to room, and let the tree lights, the garland and the candles do the rest. You do not need a new house or a big budget; you need a string of lights, a knit throw and an evening to put them up.
+- A cozy christmas home comes down to three moves: one focal point per room, warm light layered around it, and soft texture everywhere hands land.
+- Start with the living room and the front door — those are the two places everyone sees — then add a reading nook and a cocoa corner for yourself.
+- When the table needs the same treatment, our [christmas table decor ideas](/posts/christmas-table-decor-ideas/) dress it in runners, candles and greenery, and our [boho living room ideas](/posts/boho-living-room/) show the same layered warmth without the holiday theme. Pick a palette of three colors, repeat it from room to room, and let the tree lights, the garland and the candles do the rest.
+- You do not need a new house or a big budget; you need a string of lights, a knit throw and an evening to put them up.
 
 ## Frequently Asked Questions
 

@@ -376,7 +376,9 @@ Repeat each neutral at least twice in the room, so no single colour sits alone, 
 
 ## Takeaway
 
-Start with the biggest surface — the cabinets or the walls — and pick one neutral for it, then layer the others in smaller doses: wood on the island, linen on the window, texture on the shelves. A calm kitchen is not an empty kitchen; it is a kitchen where every colour agrees with the next one. If the island is the heart of your neutral kitchen, dress it for the season with our [30 Christmas Island Centerpiece Ideas](/posts/christmas-island-centerpiece-ideas/), and for the warmer farmhouse version of this whole palette, [30 Farmhouse Kitchen Ideas](/posts/farmhouse-kitchen/) is the natural next read.
+- Start with the biggest surface — the cabinets or the walls — and pick one neutral for it, then layer the others in smaller doses: wood on the island, linen on the window, texture on the shelves.
+- A calm kitchen is not an empty kitchen; it is a kitchen where every colour agrees with the next one.
+- If the island is the heart of your neutral kitchen, dress it for the season with our [30 Christmas Island Centerpiece Ideas](/posts/christmas-island-centerpiece-ideas/), and for the warmer farmhouse version of this whole palette, [30 Farmhouse Kitchen Ideas](/posts/farmhouse-kitchen/) is the natural next read.
 
 ## Frequently Asked Questions
 

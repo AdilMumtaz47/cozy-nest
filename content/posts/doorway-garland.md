@@ -376,7 +376,9 @@ This is the look to steal in miniature: even two arches in a short hallway give 
 
 ## Takeaway
 
-A doorway garland is the first Christmas decoration anyone sees, and the one that makes coming home feel special. Start with the front door — one full garland, a wreath in the middle, and a bow or two — and then carry the same greenery inside to a hallway or a living room doorway. If the mantel is next on your list, our [30 Garland on Mantle Ideas for a Warm, Festive Home](https://www.cozynesthomeideas.com/posts/garland-on-mantle/) shows how the same garland dresses a fireplace.
+- A doorway garland is the first Christmas decoration anyone sees, and the one that makes coming home feel special.
+- Start with the front door — one full garland, a wreath in the middle, and a bow or two — and then carry the same greenery inside to a hallway or a living room doorway.
+- If the mantel is next on your list, our [30 Garland on Mantle Ideas for a Warm, Festive Home](https://www.cozynesthomeideas.com/posts/garland-on-mantle/) shows how the same garland dresses a fireplace.
 
 ## Frequently Asked Questions
 

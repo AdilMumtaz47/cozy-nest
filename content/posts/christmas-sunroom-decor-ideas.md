@@ -376,7 +376,9 @@ Gold ribbon wound loosely through the branches ties the tree to the paper stars,
 
 ## Takeaway
 
-A Christmas sunroom needs only three things to feel festive: a tree that suits the light, greenery along the glass, and one cozy corner for sitting with cocoa. Start with the tree, add garland and a wreath, then finish with plaid and candlelight — and let the snowy view do the rest. For more window ideas, see our [winter window art ideas](/posts/winter-window-art/), and for the main living room, our [Christmas living room ideas](/posts/christmas-living-room/) pair beautifully with everything here.
+- A Christmas sunroom needs only three things to feel festive: a tree that suits the light, greenery along the glass, and one cozy corner for sitting with cocoa.
+- Start with the tree, add garland and a wreath, then finish with plaid and candlelight — and let the snowy view do the rest.
+- For more window ideas, see our [winter window art ideas](/posts/winter-window-art/), and for the main living room, our [Christmas living room ideas](/posts/christmas-living-room/) pair beautifully with everything here.
 
 ## Frequently Asked Questions
 

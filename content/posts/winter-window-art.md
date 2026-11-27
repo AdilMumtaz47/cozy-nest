@@ -376,7 +376,9 @@ Silver baubles catch the light and throw it around the room, so this window spar
 
 ## Takeaway
 
-Start with the window you see most — the living room or the kitchen — and give it one idea: snowflake decals for daylight, fairy lights for evenings, or a wreath for the street. Then add a second window only if the first one makes you smile every time you pass it. If you want the rest of the house to match the windows, our [30 Winter Home Ideas for a Cozy Season](/posts/winter-home/) carries the same warmth through every room.
+- Start with the window you see most — the living room or the kitchen — and give it one idea: snowflake decals for daylight, fairy lights for evenings, or a wreath for the street.
+- Then add a second window only if the first one makes you smile every time you pass it.
+- If you want the rest of the house to match the windows, our [30 Winter Home Ideas for a Cozy Season](/posts/winter-home/) carries the same warmth through every room.
 
 ## Frequently Asked Questions
 

@@ -255,7 +255,9 @@ This is the tree for the family that loves colour. No palette, no rules, just ev
 
 ## Takeaway
 
-The best Christmas tree is the one that fits your home and your mood. Pick one palette, repeat it from topper to gifts, and let the lights do the heavy lifting. Whether you go flocked and white, farmhouse and wooden, or gloriously colourful, the tree will do its job: it will make the whole house feel like Christmas. For the bedroom to match, see our [30 Christmas Bedroom Ideas for a Cozy, Festive Retreat](/posts/christmas-bedroom/), and for the living room around it, our [30 Christmas Living Room Ideas for a Cozy Holiday Home](/posts/christmas-living-room/).
+- The best Christmas tree is the one that fits your home and your mood.
+- Pick one palette, repeat it from topper to gifts, and let the lights do the heavy lifting. Whether you go flocked and white, farmhouse and wooden, or gloriously colourful, the tree will do its job: it will make the whole house feel like Christmas.
+- For the bedroom to match, see our [30 Christmas Bedroom Ideas for a Cozy, Festive Retreat](/posts/christmas-bedroom/), and for the living room around it, our [30 Christmas Living Room Ideas for a Cozy Holiday Home](/posts/christmas-living-room/).
 
 ## Frequently Asked Questions
 

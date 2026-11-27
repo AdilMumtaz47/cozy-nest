@@ -376,7 +376,9 @@ Let the quilt set the palette and repeat its colors in small doses — a cushion
 
 ## Takeaway
 
-FunHaus works when you commit. Start with one bold move — a rainbow wall, a color-drenched sofa or a checkerboard floor — and repeat its colors in two or three smaller places around the room. If you want the room-by-room version, our [30 FunHaus Interior Ideas for a Playful Home](/posts/funhaus-interior/) shows how the same spirit plays out in living rooms, bedrooms, kitchens and bathrooms. Pick the idea that made you smile, start there, and let the color spread.
+- FunHaus works when you commit.
+- Start with one bold move — a rainbow wall, a color-drenched sofa or a checkerboard floor — and repeat its colors in two or three smaller places around the room.
+- If you want the room-by-room version, our [30 FunHaus Interior Ideas for a Playful Home](/posts/funhaus-interior/) shows how the same spirit plays out in living rooms, bedrooms, kitchens and bathrooms. Pick the idea that made you smile, start there, and let the color spread.
 
 ## Frequently Asked Questions
 

@@ -256,7 +256,10 @@ If you take one idea from this list, take this one: put the things you use every
 
 ## Takeaway
 
-A rustic home kitchen is natural materials, honest storage and one deep sink doing the work. Start with wood — beams, an island or a table — add open shelves for the things you use daily, and put a farmhouse sink under the best window in the room. Keep the cabinets pale if the wood is dark, and the counters clear if the shelves are full. If you want the same warm palette carried through the house, our [30 Modern Farmhouse Bedroom Ideas for a Fresh, Calm Retreat](/posts/modern-farmhouse-bedroom/) and our [30 Boho Living Room Ideas for a Relaxed, Layered Home](/posts/boho-living-room/) show how the same wood and white work in the bedroom and the living room.
+- A rustic home kitchen is natural materials, honest storage and one deep sink doing the work.
+- Start with wood — beams, an island or a table — add open shelves for the things you use daily, and put a farmhouse sink under the best window in the room.
+- Keep the cabinets pale if the wood is dark, and the counters clear if the shelves are full.
+- If you want the same warm palette carried through the house, our [30 Modern Farmhouse Bedroom Ideas for a Fresh, Calm Retreat](/posts/modern-farmhouse-bedroom/) and our [30 Boho Living Room Ideas for a Relaxed, Layered Home](/posts/boho-living-room/) show how the same wood and white work in the bedroom and the living room.
 
 ## Frequently Asked Questions
 

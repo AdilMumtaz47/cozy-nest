@@ -376,7 +376,9 @@ Choose a basket with a flat base that sits steady on the counter, and keep it ne
 
 ## Takeaway
 
-A cheerful Christmas laundry room is not about buying a lot of new things — it is about putting a few festive touches exactly where your eye already goes: the door, the shelves, the counter and the floor. Start with a wreath and a rug, add one mini tree and one sign, and the room will feel finished. If you want to carry the same warmth into the rest of the house, our [30 Christmas Kitchen Ideas for a Warm, Festive Heart of the Home](/posts/christmas-kitchen/) and [30 Winter Home Ideas for a Cozy, Snowy Season](/posts/winter-home/) show how to keep the whole home feeling festive all season — and every idea here is easy to save for next year.
+- A cheerful Christmas laundry room is not about buying a lot of new things — it is about putting a few festive touches exactly where your eye already goes: the door, the shelves, the counter and the floor.
+- Start with a wreath and a rug, add one mini tree and one sign, and the room will feel finished.
+- If you want to carry the same warmth into the rest of the house, our [30 Christmas Kitchen Ideas for a Warm, Festive Heart of the Home](/posts/christmas-kitchen/) and [30 Winter Home Ideas for a Cozy, Snowy Season](/posts/winter-home/) show how to keep the whole home feeling festive all season — and every idea here is easy to save for next year.
 
 ## Frequently Asked Questions
 

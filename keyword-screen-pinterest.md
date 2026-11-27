@@ -349,10 +349,10 @@ Method: file's rules — exact phrase in settled autocomplete = saturated/reject
 | home lighting decor ideas | No | 9 | REJECT |
 | indoor plant decor ideas | No | 10 | REJECT |
 | diy wall art ideas | No | 9 | REJECT |
-| christmas laundry room decor ideas | No | 6 | WINNABLE |
+| christmas laundry room decor ideas | No | 6 | WINNABLE — WRITTEN + LIVE Nov 27 |
 | christmas kids bedroom decor ideas | No | 9 | REJECT |
-| christmas sunroom decor ideas | No | 3 | STRONG |
-| christmas nursery decor ideas | No | 5 | WINNABLE |
+| christmas sunroom decor ideas | No | 3 | STRONG — WRITTEN + LIVE Nov 27 |
+| christmas nursery decor ideas | No | 5 | WINNABLE — WRITTEN + LIVE Nov 27 |
 | christmas staircase decor ideas | No | 8 | REJECT |
 | new year decor ideas | No | 7 | REJECT |
 | new year living room decor ideas | No | 5 | WINNABLE |

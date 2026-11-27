@@ -376,7 +376,10 @@ Keep the hallway frames in the same finishes as the living room wall so the two 
 
 ## Takeaway
 
-A gallery wall is not about owning a lot of art — it is about hanging what you have with intention. Start with one anchor piece, keep your gaps even, and let the arrangement sit about two-thirds the width of the sofa below it. Mix frames or match them, go dense or go minimal, but commit to one idea per wall and let the rest of the room stay quiet around it. If your room leans warm and collected, our [30 Farmhouse Living Room Ideas for a Warm, Collected Home](/posts/farmhouse-living-room/) shows how a gallery wall fits a slipcovered, wood-and-plaid room.
+- A gallery wall is not about owning a lot of art — it is about hanging what you have with intention.
+- Start with one anchor piece, keep your gaps even, and let the arrangement sit about two-thirds the width of the sofa below it.
+- Mix frames or match them, go dense or go minimal, but commit to one idea per wall and let the rest of the room stay quiet around it.
+- If your room leans warm and collected, our [30 Farmhouse Living Room Ideas for a Warm, Collected Home](/posts/farmhouse-living-room/) shows how a gallery wall fits a slipcovered, wood-and-plaid room.
 
 ## Frequently Asked Questions
 

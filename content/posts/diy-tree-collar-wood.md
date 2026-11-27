@@ -376,7 +376,9 @@ Stain the slats before assembly so the color is even in the gaps, and keep the g
 
 ## Takeaway
 
-A wooden tree collar is one of the simplest builds in Christmas decorating, and one of the most satisfying: four panels, an afternoon, and a tree that looks finished from the floor up. Start with a plain box in a finish you love, and add one detail — an X-brace, a stencil, a plaid ribbon — rather than all of them at once. If you want to compare wood with the other materials, our [30 DIY Tree Collar Ideas for a Finished Christmas Tree](https://www.cozynesthomeideas.com/posts/diy-tree-collar/) covers metal, wicker, rattan and fabric collars, so you can see which material suits your tree best.
+- A wooden tree collar is one of the simplest builds in Christmas decorating, and one of the most satisfying: four panels, an afternoon, and a tree that looks finished from the floor up.
+- Start with a plain box in a finish you love, and add one detail — an X-brace, a stencil, a plaid ribbon — rather than all of them at once.
+- If you want to compare wood with the other materials, our [30 DIY Tree Collar Ideas for a Finished Christmas Tree](https://www.cozynesthomeideas.com/posts/diy-tree-collar/) covers metal, wicker, rattan and fabric collars, so you can see which material suits your tree best.
 
 ## Frequently Asked Questions
 

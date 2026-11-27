@@ -376,7 +376,9 @@ This collar suits a coastal or beach-house Christmas, especially with white and 
 
 ## Takeaway
 
-A tree collar does not have to be wood to look finished — metal, wicker, rattan, burlap and fabric each bring a different mood to the same tree, and most of them need no building at all. Pick the material that matches your room, check that it fits your stand, and let the collar do the quiet work of hiding the stand while the tree takes the applause. If you love the warmth of wood after all, our [30 DIY Wood Tree Collar Ideas for a Rustic Christmas](https://www.cozynesthomeideas.com/posts/diy-tree-collar-wood/) shows wooden collars in every style, from pallet boxes to barn-door X-brace designs.
+- A tree collar does not have to be wood to look finished — metal, wicker, rattan, burlap and fabric each bring a different mood to the same tree, and most of them need no building at all.
+- Pick the material that matches your room, check that it fits your stand, and let the collar do the quiet work of hiding the stand while the tree takes the applause.
+- If you love the warmth of wood after all, our [30 DIY Wood Tree Collar Ideas for a Rustic Christmas](https://www.cozynesthomeideas.com/posts/diy-tree-collar-wood/) shows wooden collars in every style, from pallet boxes to barn-door X-brace designs.
 
 ## Frequently Asked Questions
 

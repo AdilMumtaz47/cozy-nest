@@ -376,7 +376,9 @@ A three-color palette is the easiest way to make a room look designed rather tha
 
 ## Takeaway
 
-A cozy fall living room is not a shopping list — it is a way of layering. Start with one soft thing on the sofa, add warm light at a low height, and finish with one seasonal touch per surface: a throw on the armchair, a pumpkin on the table, a garland on the mantel. If you want the same layered warmth carried through the coldest months, our [30 Winter Home Ideas for a Cozy, Snowy Season](/posts/winter-home/) shows how these same textures work once the leaves are gone.
+- A cozy fall living room is not a shopping list — it is a way of layering.
+- Start with one soft thing on the sofa, add warm light at a low height, and finish with one seasonal touch per surface: a throw on the armchair, a pumpkin on the table, a garland on the mantel.
+- If you want the same layered warmth carried through the coldest months, our [30 Winter Home Ideas for a Cozy, Snowy Season](/posts/winter-home/) shows how these same textures work once the leaves are gone.
 
 ## Frequently Asked Questions
 

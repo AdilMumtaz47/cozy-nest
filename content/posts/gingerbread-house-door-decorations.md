@@ -376,7 +376,10 @@ Keep the two sides mirror images — same cane height, same bow, same spacing �
 
 ## Takeaway
 
-Start with one hero piece — a peppermint wreath, a gingerbread house sign or a full facade — then add one or two small candy touches, a garland or a doormat, and stop there. The gingerbread look works because the colours are limited: brown, white, red and a little green. Keep to that palette and the door will look like a cottage, not a sweet shop explosion. If you caught the making bug, our [30 DIY Gingerbread House Door Decoration Ideas for a Sweet Welcome](/posts/gingerbread-house-door-decorations-diy/) turns every one of these looks into a project you can build yourself.
+- Start with one hero piece — a peppermint wreath, a gingerbread house sign or a full facade — then add one or two small candy touches, a garland or a doormat, and stop there.
+- The gingerbread look works because the colours are limited: brown, white, red and a little green.
+- Keep to that palette and the door will look like a cottage, not a sweet shop explosion.
+- If you caught the making bug, our [30 DIY Gingerbread House Door Decoration Ideas for a Sweet Welcome](/posts/gingerbread-house-door-decorations-diy/) turns every one of these looks into a project you can build yourself.
 
 ## Frequently Asked Questions
 

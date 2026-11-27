@@ -256,7 +256,10 @@ This is the table for a calm Christmas morning or a small lunch, where the food 
 
 ## Takeaway
 
-Pick one idea and build the table around it — a low greenery garland, a plaid runner, or a bowl of ornaments — then carry one color through the candles, napkins and chargers. Keep the centerpiece low so everyone can talk, light the candles before guests arrive, and let natural materials do most of the work. If you want the full table — settings, chargers and place cards as well as decor — our [christmas table ideas](/posts/christmas-table/) cover the whole setting. When the table is set, step back and enjoy it, then bring the same warmth to the rest of the house with our [cozy christmas ideas](/posts/cozy-christmas/).
+- Pick one idea and build the table around it — a low greenery garland, a plaid runner, or a bowl of ornaments — then carry one color through the candles, napkins and chargers.
+- Keep the centerpiece low so everyone can talk, light the candles before guests arrive, and let natural materials do most of the work.
+- If you want the full table — settings, chargers and place cards as well as decor — our [christmas table ideas](/posts/christmas-table/) cover the whole setting.
+- When the table is set, step back and enjoy it, then bring the same warmth to the rest of the house with our [cozy christmas ideas](/posts/cozy-christmas/).
 
 ## Frequently Asked Questions
 

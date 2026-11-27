@@ -35,6 +35,25 @@ def esc(s):
     return html.escape(s or "", quote=True)
 
 
+def fmt_date(iso):
+    """2026-11-27 -> 'Nov 27, 2026'. The friend and the big decor sites all
+    show a human date on cards and articles, never the raw ISO stamp."""
+    try:
+        y, mo, d = iso.split("-")
+        months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+                  "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+        return f"{months[int(mo) - 1]} {int(d)}, {y}"
+    except Exception:
+        return iso or ""
+
+
+def read_minutes(body):
+    """Rough reading time from the article's words, ~200 wpm, min 1 minute.
+    The friend shows '10 Min Read' on articles and '8 min read' on cards."""
+    words = len(re.findall(r"[A-Za-z0-9']+", body or ""))
+    return max(1, round(words / 200))
+
+
 def pin_create_url(page_url, media_url, description):
     """Pinterest pin-creator link for one photo — same construction as the
     article 'Save this list on Pinterest' button (url + media + description,
@@ -147,6 +166,33 @@ def md_to_html(body, meta):
     lines = body.splitlines()
     i = 0
     buf = []
+    # Takeaway section state: "- " bullets render as a "Key Takeaways" box,
+    # plain paragraphs render as before under the same heading. The box
+    # renderer only fires when the markdown actually has bullets — nothing
+    # is auto-generated from idea titles.
+    in_takeaway = False
+    takeaway_paras = []
+    takeaway_items = []
+    takeaway_para_buf = []
+    def flush_takeaway():
+        nonlocal takeaway_paras, takeaway_items, takeaway_para_buf
+        if takeaway_para_buf:
+            takeaway_paras.append(" ".join(x.strip() for x in takeaway_para_buf if x.strip()))
+            takeaway_para_buf = []
+        if not takeaway_paras and not takeaway_items:
+            return
+        if takeaway_items:
+            for p in takeaway_paras:
+                out.append("<p>" + md_inline(p) + "</p>")
+            lis = "".join(f"<li>{md_inline(x)}</li>" for x in takeaway_items)
+            out.append('<section class="takeaways" id="takeaway"><h2>Key Takeaways</h2>'
+                       f"<ul>{lis}</ul></section>")
+        else:
+            out.append('<h2 id="takeaway">Key Takeaways</h2>')
+            for p in takeaway_paras:
+                out.append("<p>" + md_inline(p) + "</p>")
+        takeaway_paras = []
+        takeaway_items = []
     def flush():
         nonlocal buf
         if buf:
@@ -163,14 +209,17 @@ def md_to_html(body, meta):
             continue
         if line.startswith("## "):
             flush()
+            flush_takeaway()
+            in_takeaway = False
             title = line[3:].strip()
             if title.lower().startswith("frequently asked"):
                 # FAQs are collected and rendered by build_article as a visible
                 # accordion; nothing is printed here.
                 in_faq = True
-            elif title.lower().startswith("takeaway"):
+            elif title.lower().startswith(("takeaway", "key takeaways")):
                 in_faq = False
-                out.append('<h2 id="takeaway">Takeaway</h2>')
+                in_takeaway = True
+                toc.append(("takeaway", "Key Takeaways"))
             else:
                 in_faq = False
                 item_idx += 1
@@ -215,12 +264,23 @@ def md_to_html(body, meta):
             # paragraphs first, then emit the callout box.
             flush()
             out.append(render_tip(line))
+        elif in_takeaway and line.startswith("- "):
+            flush()
+            takeaway_items.append(line[2:].strip())
+        elif in_takeaway and line.strip() == "":
+            flush()
+            if takeaway_para_buf:
+                takeaway_paras.append(" ".join(x.strip() for x in takeaway_para_buf if x.strip()))
+                takeaway_para_buf = []
+        elif in_takeaway:
+            takeaway_para_buf.append(line)
         elif line.strip() == "":
             flush()
         else:
             buf.append(line)
         i += 1
     flush()
+    flush_takeaway()
     return "".join(out), faqs, toc
 
 
@@ -257,6 +317,7 @@ def page_shell(title, meta_desc, body_html, extra_head="", nav_cats=None, og_ima
 <span><span class="brand-name">{esc(SITE_NAME)}</span>
 <span class="brand-tag">HOME DECOR IDEAS</span></span></a>
 </div><nav class="main-nav"><div class="nav-inner"><div class="nav-links">{nav_links}</div>
+<a class="nav-follow" href="https://www.pinterest.com/cozynestbysayed/" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><circle cx="12" cy="12" r="11" fill="#fff"/><text x="12" y="16.5" text-anchor="middle" font-size="13" font-weight="bold" fill="#e60023" font-family="Georgia, serif">P</text></svg><span class="follow-text">Follow on Pinterest</span><span class="follow-short">Follow</span></a>
 <button class="nav-search" type="button" id="search-open" aria-label="Search" aria-haspopup="dialog" title="Search"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg></button>
 </div></nav></header>
 <main>
@@ -308,7 +369,8 @@ def load_articles():
             print(f"SKIP {fn}: no slug in frontmatter")
             continue
         body_html, faqs, toc = md_to_html(body, meta)
-        articles.append({"meta": meta, "body_html": body_html, "faqs": faqs, "toc": toc, "file": fn})
+        articles.append({"meta": meta, "body_html": body_html, "faqs": faqs,
+                         "toc": toc, "file": fn, "read_mins": read_minutes(body)})
     articles.sort(key=lambda a: a["meta"].get("date", ""), reverse=True)
     return articles
 
@@ -442,7 +504,24 @@ def build_article(a, all_articles):
         f'"datePublished": {json_str(m.get("date", ""))}, '
         f'"author": {{"@type": "Organization", "name": {json_str(SITE_NAME)}}}}}</script>'
     )
-    related = [x for x in all_articles if x["meta"]["slug"] != slug][:3]
+    # BreadcrumbList schema, 1:1 with the visible crumb (Home / Category / Title).
+    crumb_json = (
+        '<script type="application/ld+json">{"@context": "https://schema.org", '
+        '"@type": "BreadcrumbList", "itemListElement": ['
+        '{"@type": "ListItem", "position": 1, "name": "Home", "item": %s}, '
+        '{"@type": "ListItem", "position": 2, "name": %s, "item": %s}, '
+        '{"@type": "ListItem", "position": 3, "name": %s, "item": %s}]}</script>'
+        % (json_str(SITE_URL + "/"), json_str(m.get("category", "")),
+           json_str(f"{SITE_URL}/categories/{cat_slug(m.get('category', ''))}/"),
+           json_str(m["title"]), json_str(f"{SITE_URL}/posts/{slug}/"))
+    )
+    # Similar Posts: same-category articles first, then the newest others —
+    # the old code just took the 3 newest, whatever their topic.
+    same_cat = [x for x in all_articles
+                if x["meta"]["slug"] != slug and x["meta"].get("category") == m.get("category")]
+    others = [x for x in all_articles
+              if x["meta"]["slug"] != slug and x["meta"].get("category") != m.get("category")]
+    related = (same_cat + others)[:3]
     rel_html = ""
     if related:
         cards = "".join(card_html(r) for r in related)

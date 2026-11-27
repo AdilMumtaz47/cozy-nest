@@ -376,7 +376,9 @@ Arrange the houses at different depths so the scene feels like a real street, an
 
 ## Takeaway
 
-The 2027 Christmas look is calmer, greener and warmer than the years before it: deep jewel colours on the tree, natural garlands and wooden ornaments, and glow from candles and fairy lights in every room. Start with the tree, add one glowing mantel, then carry the same colour through the table, the entryway and the porch. If you want the look to last past Christmas, our [30 Cozy Winter Home Ideas](/posts/winter-home/) show how to keep the warmth going into January with the decorations packed away.
+- The 2027 Christmas look is calmer, greener and warmer than the years before it: deep jewel colours on the tree, natural garlands and wooden ornaments, and glow from candles and fairy lights in every room.
+- Start with the tree, add one glowing mantel, then carry the same colour through the table, the entryway and the porch.
+- If you want the look to last past Christmas, our [30 Cozy Winter Home Ideas](/posts/winter-home/) show how to keep the warmth going into January with the decorations packed away.
 
 ## Frequently Asked Questions
 

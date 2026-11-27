@@ -256,7 +256,9 @@ The English country touch is the mix — old and new, wood and white, plants and
 
 ## Takeaway
 
-A farmhouse kitchen is not a style you buy — it is white cabinets, warm wood and open shelves, layered until the room feels gathered. Start with the cabinets, add one wooden surface, then open one shelf and fill it with the dishes you actually use. If you want the same gathered warmth at the table, our [30 Christmas Dining Room Decor Ideas for a Warm, Festive Gathering](/posts/christmas-dining-room-decor-ideas/) shows the dining room dressed for a crowd.
+- A farmhouse kitchen is not a style you buy — it is white cabinets, warm wood and open shelves, layered until the room feels gathered.
+- Start with the cabinets, add one wooden surface, then open one shelf and fill it with the dishes you actually use.
+- If you want the same gathered warmth at the table, our [30 Christmas Dining Room Decor Ideas for a Warm, Festive Gathering](/posts/christmas-dining-room-decor-ideas/) shows the dining room dressed for a crowd.
 
 ## Frequently Asked Questions
 
