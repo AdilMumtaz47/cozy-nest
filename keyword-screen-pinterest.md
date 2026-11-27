@@ -341,11 +341,11 @@ Method: file's rules — exact phrase in settled autocomplete = saturated/reject
 | mudroom decor ideas | No | 11 | REJECT |
 | mudroom entryway ideas | No | 10 | REJECT |
 | home library decor ideas | No | 9 | REJECT |
-| home library lighting ideas | No | 6 | WINNABLE |
+| home library lighting ideas | No | 6 | WINNABLE — WRITTEN + LIVE Nov 27 |
 | mens bedroom decor ideas | No* | 8 | REJECT |
 | half bathroom decor ideas | No | 9 | REJECT |
 | entryway decor ideas | No | 10 | REJECT |
-| table decor ideas | No | 5 | WINNABLE |
+| table decor ideas | No | 5 | WINNABLE — WRITTEN + LIVE Nov 27 |
 | home lighting decor ideas | No | 9 | REJECT |
 | indoor plant decor ideas | No | 10 | REJECT |
 | diy wall art ideas | No | 9 | REJECT |
@@ -355,8 +355,8 @@ Method: file's rules — exact phrase in settled autocomplete = saturated/reject
 | christmas nursery decor ideas | No | 5 | WINNABLE — WRITTEN + LIVE Nov 27 |
 | christmas staircase decor ideas | No | 8 | REJECT |
 | new year decor ideas | No | 7 | REJECT |
-| new year living room decor ideas | No | 5 | WINNABLE |
-| new year bedroom decor ideas | INCONCLUSIVE — dropdown blank twice | 4 | INCONCLUSIVE on saturation; WINNABLE band on count |
+| new year living room decor ideas | No | 5 | WINNABLE — WRITTEN + LIVE Nov 27 |
+| new year bedroom decor ideas | INCONCLUSIVE — dropdown blank twice | 4 | INCONCLUSIVE on saturation; WINNABLE band on count — WRITTEN + LIVE Nov 27 |
 | new year party decor ideas | No | 9 | REJECT |
 
 Tally: 1 STRONG, 5 WINNABLE, 1 inconclusive (count-WINNABLE), 13 REJECT. *mens bedroom: top suggestion was "men's bedroom decor ideas" (apostrophe) — not the exact phrase.
