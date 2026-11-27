@@ -232,7 +232,7 @@ def page_shell(title, meta_desc, body_html, extra_head="", nav_cats=None, og_ima
     if og_image:
         og_img = (f'<meta property="og:image" content="{esc(og_image)}">\n'
                   f'<meta name="twitter:image" content="{esc(og_image)}">\n')
-    foot_links = "".join(
+    cat_links = "".join(
         f'<a href="/categories/{slug}/">{esc(name)}</a>' for name, slug in (nav_cats or [])
     )
     year = date.today().year
@@ -264,7 +264,6 @@ def page_shell(title, meta_desc, body_html, extra_head="", nav_cats=None, og_ima
 </main>
 <footer class="site-footer"><div class="footer-inner">
 <div class="footer-logo"><img src="{LOGO_URL}" alt="Cozy Nest logo" width="52" height="52"></div>
-<nav class="footer-nav"><a href="/">Home</a>{foot_links}</nav>
 <div class="footer-social">
 <a href="https://www.pinterest.com/cozynestbysayed/" target="_blank" rel="noopener" title="Facebook"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg></a>
 <a href="https://www.pinterest.com/cozynestbysayed/" target="_blank" rel="noopener" title="X"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></svg></a>
@@ -273,6 +272,7 @@ def page_shell(title, meta_desc, body_html, extra_head="", nav_cats=None, og_ima
 </div>
 <div class="footer-links">
 <div class="footer-group"><h3>Quick Links</h3><a href="/">Home</a><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/editorial-policy/">Editorial Policy</a></div>
+<div class="footer-group"><h3>Categories</h3>{cat_links}</div>
 <div class="footer-group"><h3>Legal</h3><a href="/privacy-policy/">Privacy Policy</a><a href="/terms-and-conditions/">Terms &amp; Conditions</a><a href="/disclaimer/">Disclaimer</a><a href="/cookie-policy/">Cookie Policy</a></div>
 </div>
 <div class="footer-note">{esc(SITE_DESC)} Every list is made to be saved and actually used at home.</div>
