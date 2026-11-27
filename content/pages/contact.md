@@ -1,12 +1,14 @@
 ---
 title: "Contact — Cozy Nest"
 slug: "contact"
-description: "Get in touch with Cozy Nest through Pinterest — the only contact route for idea requests, corrections and photo credit questions."
+description: "Get in touch with Cozy Nest — send a message through the contact form, or reach us on Pinterest."
 ---
 
 ## Get in touch
 
-The best — and only — way to reach Cozy Nest is through Pinterest. Send a message via the [Cozy Nest Pinterest profile](https://www.pinterest.com/cozynestbysayed/).
+You can reach Cozy Nest two ways: use the form below, or send a message via the [Cozy Nest Pinterest profile](https://www.pinterest.com/cozynestbysayed/).
+
+<!--CONTACT_FORM-->
 
 ## What you can write about
 
@@ -16,7 +18,7 @@ The best — and only — way to reach Cozy Nest is through Pinterest. Send a me
 
 ## A quick note
 
-There is **no public email address** and **no contact form** on this site yet. Messages sent through Pinterest are the only contact route, and every message is read. Replies may take a little while, but nothing is ignored.
+There is **no public email address** for Cozy Nest, so the form above and Pinterest are the only contact routes. Every message is read. Replies may take a little while, but nothing is ignored.
 
 ## What happens next
 

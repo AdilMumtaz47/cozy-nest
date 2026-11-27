@@ -317,17 +317,50 @@ Method: file's rules — exact phrase in settled autocomplete = saturated/reject
 
 | Phrase | Autocomplete exact? | Listicles top 12 | Verdict |
 |---|---|---|---|
-| 2027 home decor ideas | No | 2 | STRONG |
+| 2027 home decor ideas | No | 2 | STRONG — WRITTEN + LIVE Nov 27 |
 | living room decor ideas 2027 | No | 8 | REJECT |
 | farmhouse living room decor ideas 2027 | Inconclusive — dropdown blank twice | 10 | REJECT (count; saturation inconclusive) |
 | bedroom decor ideas 2027 | No | 6 | WINNABLE |
 | kitchen decor ideas 2027 | Inconclusive — dropdown blank twice | 6 | WINNABLE on count only; saturation inconclusive |
 | bathroom decor ideas 2027 | No | 6 | WINNABLE |
-| 2027 christmas decor ideas | No | 3 | STRONG |
-| christmas decor ideas 2027 | No | 3 | STRONG |
+| 2027 christmas decor ideas | No | 3 | STRONG — WRITTEN + LIVE Nov 27 |
+| christmas decor ideas 2027 | No | 3 | STRONG — reserve phrase, covered by the 2027-christmas-decor-ideas article (no second article) |
 | 2027 interior design trends | No | 5 | WINNABLE |
 | home decor trends 2027 | No | 4 | WINNABLE |
 
 Tally: 3 STRONG, 5 WINNABLE, 2 REJECT. Near-duplicate note (Section 3.4): the two Christmas STRONG phrases are the same topic — ONE article (year-first form as the keyword, year-last as reserve), not two. Distinct articles from this screen: 7.
 Discovery candidates (autocomplete): home decor ideas living room 2027; home decor ideas for 2027; christmas home decor ideas 2027; christmas tree/table decor ideas 2027; christmas decor ideas 2027 trends; 2027 interior design trends living room/bedroom/bathroom/home office/kitchen; home decor trends 2026-2027; home decor trends forecast 2027.
 Adil's call (Nov 27, "fix everything which needs to be fixed"): write all 7 distinct passers. Coordinator started Nov 27, 12:34 PKT.
+
+## Screen #7 — the friend's topics (Nov 27, 2026, 12:35–12:51 PKT, device browser, signed in as Cozy Nest, search-only)
+
+Method: file's rules — exact phrase in settled autocomplete = saturated/reject; listicle count in top 12 (heading must promise a numbered list; numbers only in the pin image NOT counted): 0–3 STRONG, 4–6 WINNABLE, 7+ REJECT.
+
+| Phrase | Autocomplete exact? | Listicles top 12 | Verdict |
+|---|---|---|---|
+| mudroom decor ideas | No | 11 | REJECT |
+| mudroom entryway ideas | No | 10 | REJECT |
+| home library decor ideas | No | 9 | REJECT |
+| home library lighting ideas | No | 6 | WINNABLE |
+| mens bedroom decor ideas | No* | 8 | REJECT |
+| half bathroom decor ideas | No | 9 | REJECT |
+| entryway decor ideas | No | 10 | REJECT |
+| table decor ideas | No | 5 | WINNABLE |
+| home lighting decor ideas | No | 9 | REJECT |
+| indoor plant decor ideas | No | 10 | REJECT |
+| diy wall art ideas | No | 9 | REJECT |
+| christmas laundry room decor ideas | No | 6 | WINNABLE |
+| christmas kids bedroom decor ideas | No | 9 | REJECT |
+| christmas sunroom decor ideas | No | 3 | STRONG |
+| christmas nursery decor ideas | No | 5 | WINNABLE |
+| christmas staircase decor ideas | No | 8 | REJECT |
+| new year decor ideas | No | 7 | REJECT |
+| new year living room decor ideas | No | 5 | WINNABLE |
+| new year bedroom decor ideas | INCONCLUSIVE — dropdown blank twice | 4 | INCONCLUSIVE on saturation; WINNABLE band on count |
+| new year party decor ideas | No | 9 | REJECT |
+
+Tally: 1 STRONG, 5 WINNABLE, 1 inconclusive (count-WINNABLE), 13 REJECT. *mens bedroom: top suggestion was "men's bedroom decor ideas" (apostrophe) — not the exact phrase.
+SENSITIVITY NOTE (from the screen run): counts use pin headings only, as in all previous screens. If numbers appearing only in pin images were counted too, christmas sunroom would be 5 (WINNABLE, still a passer), home library lighting 7, table decor 8, christmas laundry 7, christmas nursery 7 (all four would flip to REJECT), new year bedroom 5 (still WINNABLE). So the three WINNABLEs home library lighting / table decor / christmas laundry / christmas nursery are borderline — carried as passers per the file's method, flagged as weakest.
+KEY FINDING: the friend's biggest board topics are all crowded — mudroom (11), entryway (10), home library decor (9), mens bedroom (8), half bathroom (9), home lighting (9), indoor plants (10), diy wall art (9). His advantage is volume + early start, not low competition on those phrases.
+Discovery candidates (autocomplete): mudroom farmhouse/with bench/laundry-room combo/sage green; home library cozy/small/dark academia/reading nook/ceiling lighting; half bathroom small/modern/farmhouse/with wallpaper; christmas sunroom "christmas decor ideas sunroom"/"for sunroom"; christmas nursery baby/toddler/girl/boy; new year living room "living room new year decor ideas"/lunar new year.
+Adil's call (Nov 27, "push the strong one quickly"): STRONG christmas sunroom + Christmas WINNABLEs (laundry, nursery) go next in the writing queue, ahead of the 2027 WINNABLEs (Christmas peaks Dec 7). Sent to the 2027 articles coordinator as a reordered queue Nov 27, 12:51 PKT.

@@ -367,6 +367,31 @@ def md_simple_to_html(body):
     return "".join(out)
 
 
+CONTACT_FORM_HTML = (
+    '<form class="contact-form" action="https://formspree.io/f/mljbvvvk" method="POST">'
+    '<label for="cf-name">Your name</label>'
+    '<input id="cf-name" type="text" name="name" required>'
+    '<label for="cf-email">Your email</label>'
+    '<input id="cf-email" type="email" name="_replyto" required>'
+    '<label for="cf-message">Your message</label>'
+    '<textarea id="cf-message" name="message" rows="6" required></textarea>'
+    '<input type="text" name="_gotcha" style="display:none">'
+    '<button type="submit">Send message</button>'
+    '</form>'
+)
+CONTACT_FORM_MARKER = "<!--CONTACT_FORM-->"
+
+
+def contact_body_html(body):
+    """Contact page: the <!--CONTACT_FORM--> marker line in the markdown
+    is replaced by the Formspree form, so the form sits between the
+    intro and the topic list instead of at the bottom of the page."""
+    if CONTACT_FORM_MARKER in body:
+        before, after = body.split(CONTACT_FORM_MARKER, 1)
+        return md_simple_to_html(before) + CONTACT_FORM_HTML + md_simple_to_html(after)
+    return md_simple_to_html(body)
+
+
 def build_pages(pages, nav_cats):
     """Render each static page in the same article-card look as articles
     (article-layout / article-col / article-card, H1 from frontmatter title)
@@ -376,12 +401,13 @@ def build_pages(pages, nav_cats):
     for p in pages:
         m = p["meta"]
         slug = m["slug"]
+        body_html = contact_body_html(p["body"]) if slug == "contact" else md_simple_to_html(p["body"])
         body = (
             f'<div class="article-layout"><div class="article-col">'
             f'<p class="crumb"><a href="/">Home</a> / {esc(m["title"])}</p>'
             f'<article class="article-card">'
             f"<h1>{esc(m['title'])}</h1>"
-            f"{md_simple_to_html(p['body'])}"
+            f"{body_html}"
             f"</article></div></div>"
             f'<p><a class="back-link" href="/">&larr; Back to all ideas</a></p>'
         )
