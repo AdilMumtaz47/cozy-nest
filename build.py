@@ -611,25 +611,45 @@ def build_article(a, all_articles):
             f"<span class='side-title'>{esc(rm['title'])}</span></a>"
         )
     sidebar_html = f"<aside class='sidebar'><h2>Latest Post</h2>{side_items}</aside>"
+    # Prev/next by publish order (articles are date-sorted, newest first):
+    # "Previous" is the older article, "Next" the newer one — the same
+    # navigation the friend's site and Nesting Oak both carry.
+    idx = next(i for i, x in enumerate(all_articles) if x["meta"]["slug"] == slug)
+    prev_a = all_articles[idx + 1] if idx + 1 < len(all_articles) else None
+    next_a = all_articles[idx - 1] if idx > 0 else None
+    prev_next_html = ""
+    if prev_a or next_a:
+        prev_html = (
+            f"<a class='post-nav-prev' href='/posts/{esc(prev_a['meta']['slug'])}/'>"
+            f"<span class='post-nav-label'>&larr; Previous</span>"
+            f"<span class='post-nav-title'>{esc(prev_a['meta']['title'])}</span></a>"
+        ) if prev_a else "<span></span>"
+        next_html = (
+            f"<a class='post-nav-next' href='/posts/{esc(next_a['meta']['slug'])}/'>"
+            f"<span class='post-nav-label'>Next &rarr;</span>"
+            f"<span class='post-nav-title'>{esc(next_a['meta']['title'])}</span></a>"
+        ) if next_a else "<span></span>"
+        prev_next_html = f"<nav class='post-nav'>{prev_html}{next_html}</nav>"
     body = (
         f'<div class="article-layout"><div class="article-col">'
         f'<p class="crumb"><a href="/">Home</a> / '
-        f'<a href="/categories/{cat_slug(m.get("category", ""))}/">{esc(m.get("category", ""))}</a></p>'
+        f'<a href="/categories/{cat_slug(m.get("category", ""))}/">{esc(m.get("category", ""))}</a> / '
+        f'<span class="crumb-current">{esc(m["title"])}</span></p>'
         f"{hero_html}"
         f'<article class="article-card">'
         f'<p class="cat-label">{esc(m.get("category", ""))}</p>'
         f"<h1>{esc(m['title'])}</h1>"
-        f'<p class="meta-line">{esc(m.get("date", ""))}</p>'
+        f'<p class="meta-line">By Cozy Nest &middot; {fmt_date(m.get("date", ""))} &middot; {a.get("read_mins", 1)} min read</p>'
         f"{pin_html}{body_html}{faq_html}{author_html}"
         f"</article></div>{sidebar_html}</div>"
-        f"{rel_html}"
+        f"{prev_next_html}{rel_html}"
         f'<p><a class="back-link" href="/">&larr; Back to all ideas</a></p>'
     )
     out_dir = os.path.join(ROOT, "posts", slug)
     os.makedirs(out_dir, exist_ok=True)
     with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
         f.write(page_shell(m["title"], m.get("description", ""), body,
-                           faq_json + article_json, nav_cats=nav_cats, og_image=og_image))
+                           faq_json + article_json + crumb_json, nav_cats=nav_cats, og_image=og_image))
     return slug
 
 
@@ -686,7 +706,7 @@ def card_html(a):
     return (
         f'<article class="card"><a href="/posts/{esc(m["slug"])}/">{img}'
         f"<h2>{esc(m['title'])}</h2><p>{esc(m.get('description', ''))}</p>"
-        f'<p class="meta-line">{esc(m.get("date", ""))} &middot; {esc(m.get("category", ""))}</p>'
+        f'<p class="meta-line">{fmt_date(m.get("date", ""))} &middot; {esc(m.get("category", ""))} &middot; {a.get("read_mins", 1)} min read</p>'
         f"</a></article>"
     )
 

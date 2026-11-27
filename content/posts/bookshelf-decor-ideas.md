@@ -316,7 +316,10 @@ Sand every crate inside and out before you stack them, then screw the crates to 
 
 ## Takeaway
 
-A collected bookshelf is not bought, it is built one layer at a time. Start with the books you already own, add one plant, one basket and one personal object, then step back and leave the empty space alone. Restyle one shelf a week and the whole bookcase will feel gathered within a month. If you want the same layered warmth across the whole room, our [30 Boho Living Room Ideas for a Relaxed, Layered Home](/posts/boho-living-room/) shows how these shelves sit inside a bigger relaxed scheme.
+- A collected bookshelf is not bought, it is built one layer at a time.
+- Start with the books you already own, add one plant, one basket and one personal object, then step back and leave the empty space alone.
+- Restyle one shelf a week and the whole bookcase will feel gathered within a month.
+- If you want the same layered warmth across the whole room, our [30 Boho Living Room Ideas for a Relaxed, Layered Home](/posts/boho-living-room/) shows how these shelves sit inside a bigger relaxed scheme.
 
 ## Frequently Asked Questions
 

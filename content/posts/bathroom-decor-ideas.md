@@ -316,7 +316,9 @@ Pick your three colors before you buy anything, and let every new piece match on
 
 ## Takeaway
 
-A spa-like bathroom is not a renovation — it is a handful of soft, warm, well-chosen pieces. Start with the towels: roll them, put them in a basket, and the room already feels different. Then add one warm material, one plant, and one place to hide the clutter, and let the room collect slowly from there. If you want the same calm palette in the bedroom, our [30 Neutral Bedroom Ideas for a Calm, Timeless Retreat](/posts/neutral-bedroom/) is the place to start.
+- A spa-like bathroom is not a renovation — it is a handful of soft, warm, well-chosen pieces.
+- Start with the towels: roll them, put them in a basket, and the room already feels different.
+- Then add one warm material, one plant, and one place to hide the clutter, and let the room collect slowly from there. If you want the same calm palette in the bedroom, our [30 Neutral Bedroom Ideas for a Calm, Timeless Retreat](/posts/neutral-bedroom/) is the place to start.
 
 ## Frequently Asked Questions
 

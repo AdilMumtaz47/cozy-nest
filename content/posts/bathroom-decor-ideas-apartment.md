@@ -378,7 +378,10 @@ Pick your three colors before you buy anything, and let every new piece match on
 
 ## Takeaway
 
-A rental bathroom doesn't need a renovation — it needs a handful of pieces that hang, stick or roll instead of screwing in. Start with the biggest surface: a bold shower curtain or one wallpapered wall changes the whole room in an afternoon. Then add the storage that fits your gaps — a slim cart, a tension-pole shelf, baskets under the sink — and let matching towels and one plant do the rest. If you want the same calm feeling at full size, our [30 Bathroom Decor Ideas for a Calm, Spa-Like Retreat](/posts/bathroom-decor-ideas/) is the place to look next — and if your rented bathroom is also a small one, our [30 Bathroom Decor Ideas for Small Spaces](/posts/bathroom-decor-ideas-small-spaces/) covers the same tricks sized for tiny rooms. When you move, almost everything on this list moves with you.
+- A rental bathroom doesn't need a renovation — it needs a handful of pieces that hang, stick or roll instead of screwing in.
+- Start with the biggest surface: a bold shower curtain or one wallpapered wall changes the whole room in an afternoon.
+- Then add the storage that fits your gaps — a slim cart, a tension-pole shelf, baskets under the sink — and let matching towels and one plant do the rest.
+- If you want the same calm feeling at full size, our [30 Bathroom Decor Ideas for a Calm, Spa-Like Retreat](/posts/bathroom-decor-ideas/) is the place to look next — and if your rented bathroom is also a small one, our [30 Bathroom Decor Ideas for Small Spaces](/posts/bathroom-decor-ideas-small-spaces/) covers the same tricks sized for tiny rooms. When you move, almost everything on this list moves with you.
 
 ## Frequently Asked Questions
 

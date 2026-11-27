@@ -256,7 +256,9 @@ Dried orange slices are the cheapest luxury here — slice, bake low, and thread
 
 ## Takeaway
 
-A Christmas dining room does not need a new table or a new chandelier — it needs greenery down the middle, candles at every height, and one color story repeated from the napkins to the mantel. Start with the runner, then the candles, then the chandelier or the tree, and stop before a fourth color creeps in. If you want the same warmth in the room next door, our [30 Christmas Living Room Ideas for a Cozy Holiday Home](/posts/christmas-living-room/) carries the greenery and candlelight through the whole house.
+- A Christmas dining room does not need a new table or a new chandelier — it needs greenery down the middle, candles at every height, and one color story repeated from the napkins to the mantel.
+- Start with the runner, then the candles, then the chandelier or the tree, and stop before a fourth color creeps in.
+- If you want the same warmth in the room next door, our [30 Christmas Living Room Ideas for a Cozy Holiday Home](/posts/christmas-living-room/) carries the greenery and candlelight through the whole house.
 
 ## Frequently Asked Questions
 

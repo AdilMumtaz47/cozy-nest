@@ -376,7 +376,10 @@ Keep the shelves beside the window for the books you love looking at — colorfu
 
 ## Takeaway
 
-A bedroom bookshelf is not bought, it is built one layer at a time. Start with the books you are reading right now beside the bed, add one plant, one basket and one personal object, then step back and leave the empty space alone. Restyle one shelf a week and the whole bedroom will feel gathered within a month. If you want the same collected warmth in the rest of the house, our [30 Bookshelf Decor Ideas for a Collected, Lived-In Look](/posts/bookshelf-decor-ideas/) shows how these shelves sit inside a bigger scheme, and [30 Neutral Bedroom Ideas for a Calm, Timeless Retreat](/posts/neutral-bedroom/) keeps the same calm going across the whole bedroom.
+- A bedroom bookshelf is not bought, it is built one layer at a time.
+- Start with the books you are reading right now beside the bed, add one plant, one basket and one personal object, then step back and leave the empty space alone.
+- Restyle one shelf a week and the whole bedroom will feel gathered within a month.
+- If you want the same collected warmth in the rest of the house, our [30 Bookshelf Decor Ideas for a Collected, Lived-In Look](/posts/bookshelf-decor-ideas/) shows how these shelves sit inside a bigger scheme, and [30 Neutral Bedroom Ideas for a Calm, Timeless Retreat](/posts/neutral-bedroom/) keeps the same calm going across the whole bedroom.
 
 ## Frequently Asked Questions
 

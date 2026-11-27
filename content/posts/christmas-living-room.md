@@ -195,7 +195,10 @@ A beige sofa dressed in a red plaid throw and matching pillows faces a tree dres
 
 ## Takeaway
 
-Start with one focal point — the tree or the mantel — and give it the most attention. Then layer warm white light, swap in soft textiles like plaid, velvet and chunky knits, and add greenery in three places. Keep one colour palette through the whole room and leave space to actually sit down. If you want to carry the same feeling through the house, our [30 cozy christmas ideas](/posts/cozy-christmas/) take the same warm, layered approach into bedrooms, kitchens and porches.
+- Start with one focal point — the tree or the mantel — and give it the most attention.
+- Then layer warm white light, swap in soft textiles like plaid, velvet and chunky knits, and add greenery in three places.
+- Keep one colour palette through the whole room and leave space to actually sit down.
+- If you want to carry the same feeling through the house, our [30 cozy christmas ideas](/posts/cozy-christmas/) take the same warm, layered approach into bedrooms, kitchens and porches.
 
 ## Frequently Asked Questions
 

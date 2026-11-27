@@ -256,7 +256,9 @@ Bake the gingerbread early in December and keep the cutters out on the table —
 
 ## Takeaway
 
-A christmas kitchen is dressed in the places your eyes already go: garland over the cabinets, a wreath in the window, a centerpiece on the island and a cocoa bar on the counter. Start with the garland and the wreath — they carry the whole season — then add the cocoa bar and the baking corner if you have the counter space. If you want the same warmth in the room next door, our [30 Christmas Living Room Ideas for a Warm, Festive Glow](/posts/christmas-living-room/) dresses the living room, and our [30 Modern Farmhouse Ideas for a Fresh, Warm Home](/posts/modern-farmhouse/) shows the year-round palette underneath it all.
+- A christmas kitchen is dressed in the places your eyes already go: garland over the cabinets, a wreath in the window, a centerpiece on the island and a cocoa bar on the counter.
+- Start with the garland and the wreath — they carry the whole season — then add the cocoa bar and the baking corner if you have the counter space.
+- If you want the same warmth in the room next door, our [30 Christmas Living Room Ideas for a Warm, Festive Glow](/posts/christmas-living-room/) dresses the living room, and our [30 Modern Farmhouse Ideas for a Fresh, Warm Home](/posts/modern-farmhouse/) shows the year-round palette underneath it all.
 
 ## Frequently Asked Questions
 

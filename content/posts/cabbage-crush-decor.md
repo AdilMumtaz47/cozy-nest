@@ -376,7 +376,10 @@ Choose a curtain with large leaves on a white ground rather than a dense dark pr
 
 ## Takeaway
 
-Cabbage crush decor works because it is a color with a feeling: fresh, leafy, garden-grown. Start with the smallest move — a throw, a wreath, a set of green towels — and add green one layer at a time until the room feels like a garden room. The safest first step is the one you can undo in an afternoon: pillows, a curtain or a tray, not new furniture. Pick the green you love living with, not the green that photographs best, and the room will still feel fresh next year. For the wider style story behind this look, our [30 Cabbage Crush Ideas for a Fresh, Garden-Inspired Home](https://www.cozynesthomeideas.com/posts/cabbage-crush/) covers the kitchens and dining rooms this list deliberately left out.
+- Cabbage crush decor works because it is a color with a feeling: fresh, leafy, garden-grown.
+- Start with the smallest move — a throw, a wreath, a set of green towels — and add green one layer at a time until the room feels like a garden room.
+- The safest first step is the one you can undo in an afternoon: pillows, a curtain or a tray, not new furniture.
+- Pick the green you love living with, not the green that photographs best, and the room will still feel fresh next year. For the wider style story behind this look, our [30 Cabbage Crush Ideas for a Fresh, Garden-Inspired Home](https://www.cozynesthomeideas.com/posts/cabbage-crush/) covers the kitchens and dining rooms this list deliberately left out.
 
 ## Frequently Asked Questions
 

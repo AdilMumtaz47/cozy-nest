@@ -376,7 +376,10 @@ Keep the furniture pale — light wood, cream cushions, white plates — so noth
 
 ## Takeaway
 
-Cabbage crush works because it is a color with a feeling: fresh, leafy, garden-grown. Start small — a set of cabbage leaf plates, a gallery of botanical prints, one sage wall — and add green one layer at a time until the kitchen or dining room feels like a garden room. The safest first step is the one you can undo in an afternoon: paint, plates or a runner, not new cabinets. Pick the green you love living with, not the green that photographs best, and the room will still feel fresh next year.
+- Cabbage crush works because it is a color with a feeling: fresh, leafy, garden-grown.
+- Start small — a set of cabbage leaf plates, a gallery of botanical prints, one sage wall — and add green one layer at a time until the kitchen or dining room feels like a garden room.
+- The safest first step is the one you can undo in an afternoon: paint, plates or a runner, not new cabinets.
+- Pick the green you love living with, not the green that photographs best, and the room will still feel fresh next year.
 
 ## Frequently Asked Questions
 

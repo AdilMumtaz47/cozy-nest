@@ -376,7 +376,9 @@ Use a wallpaper made for humid rooms and ventilate well, or keep the bold print 
 
 ## Takeaway
 
-The 2027 bathroom is warm, textured and calm: handmade tiles, soft curves, wood against stone, and a spa touch or two. Start with one big move — a tiled wall, a new mirror or a freestanding tub — then add the small comforts that make mornings better. If you want more ideas for the same room, our [30 Bathroom Decor Ideas for a Calm, Spa-Like Retreat](/posts/bathroom-decor-ideas/) covers the classic spa look, and our [30 Bathroom Decor Ideas for Small Spaces](/posts/bathroom-decor-ideas-small-spaces/) shows how to fit the same ideas into a compact bathroom. Save the ideas you love and build your bathroom one calm layer at a time.
+- The 2027 bathroom is warm, textured and calm: handmade tiles, soft curves, wood against stone, and a spa touch or two.
+- Start with one big move — a tiled wall, a new mirror or a freestanding tub — then add the small comforts that make mornings better.
+- If you want more ideas for the same room, our [30 Bathroom Decor Ideas for a Calm, Spa-Like Retreat](/posts/bathroom-decor-ideas/) covers the classic spa look, and our [30 Bathroom Decor Ideas for Small Spaces](/posts/bathroom-decor-ideas-small-spaces/) shows how to fit the same ideas into a compact bathroom. Save the ideas you love and build your bathroom one calm layer at a time.
 
 ## Frequently Asked Questions
 

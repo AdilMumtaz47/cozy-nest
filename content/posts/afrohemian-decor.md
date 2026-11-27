@@ -376,7 +376,9 @@ Put the tallest plant in the corner where it cannot be knocked over, and choose 
 
 ## Takeaway
 
-Afrohemian decor works across the whole home because it is a palette and a set of materials, not a shopping list: terracotta and rust, mudcloth and kente, woven baskets, carved wood and plants. Start with the room you use most — the bedroom is the easiest, because bedding and one wall hanging do most of the work — then repeat the same three colors in the next room. For the living room in full detail, see our [30 Afrohemian Living Room Ideas for a Warm, Layered Space](/posts/afrohemian-decor-living-room/), and stop collecting when the house feels warm and full, not when it feels finished.
+- Afrohemian decor works across the whole home because it is a palette and a set of materials, not a shopping list: terracotta and rust, mudcloth and kente, woven baskets, carved wood and plants.
+- Start with the room you use most — the bedroom is the easiest, because bedding and one wall hanging do most of the work — then repeat the same three colors in the next room.
+- For the living room in full detail, see our [30 Afrohemian Living Room Ideas for a Warm, Layered Space](/posts/afrohemian-decor-living-room/), and stop collecting when the house feels warm and full, not when it feels finished.
 
 ## Frequently Asked Questions
 

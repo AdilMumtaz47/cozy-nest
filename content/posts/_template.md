@@ -34,7 +34,9 @@ images:
 
 ## Takeaway
 
-[Short closing — what to try first, how to mix the ideas.]
+- [First takeaway — the single biggest idea of the list.]
+- [Second takeaway — where to start.]
+- [Third takeaway — how to carry the look further, with a link to a related article where it fits.]
 
 ## Frequently Asked Questions
 

@@ -376,7 +376,10 @@ Make it a household rule, not a one-time tidy: one in, one out, for every bottle
 
 ## Takeaway
 
-A small bathroom gets bigger by subtraction and by height: float the vanity, hang the mirror large, move storage up the walls, and keep the floor in sight. Start with the cheapest wins — the hooks, the frosted film, the matching towels, the one-in-one-out rule — and the room will already feel different by the weekend. Then save the bigger moves, the pocket door and the wall-hung toilet, for the next refresh. If you want the same small room with a softer, spa-like mood, our [30 Bathroom Decor Ideas for a Calm, Spa-Like Retreat](/posts/bathroom-decor-ideas/) is the companion list to this one, and if you rent, our [30 Bathroom Decor Ideas for Apartments](/posts/bathroom-decor-ideas-apartment/) covers the renter-friendly, no-drill versions of these tricks.
+- A small bathroom gets bigger by subtraction and by height: float the vanity, hang the mirror large, move storage up the walls, and keep the floor in sight.
+- Start with the cheapest wins — the hooks, the frosted film, the matching towels, the one-in-one-out rule — and the room will already feel different by the weekend.
+- Then save the bigger moves, the pocket door and the wall-hung toilet, for the next refresh.
+- If you want the same small room with a softer, spa-like mood, our [30 Bathroom Decor Ideas for a Calm, Spa-Like Retreat](/posts/bathroom-decor-ideas/) is the companion list to this one, and if you rent, our [30 Bathroom Decor Ideas for Apartments](/posts/bathroom-decor-ideas-apartment/) covers the renter-friendly, no-drill versions of these tricks.
 
 ## Frequently Asked Questions
 

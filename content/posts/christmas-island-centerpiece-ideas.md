@@ -376,7 +376,10 @@ Purple candles are the bold choice, so keep everything else on the island natura
 
 ## Takeaway
 
-Start with a tray or a runner — that is the whole secret of an island centerpiece. The tray keeps the island usable, the runner gives it length, and whatever sits on top can be as simple as three candles or as full as a tiered tray of ornaments. Keep the centerpiece below eye level from a stool, keep it in the middle third of the island, and lift the whole thing off in one move when it is time to cook. If you want the cabinets and shelves to match, our [30 Christmas Kitchen Ideas](/posts/christmas-kitchen/) finishes the room, and our [30 Christmas Table Decor Ideas](/posts/christmas-table/) takes the same look to the dining table.
+- Start with a tray or a runner — that is the whole secret of an island centerpiece.
+- The tray keeps the island usable, the runner gives it length, and whatever sits on top can be as simple as three candles or as full as a tiered tray of ornaments.
+- Keep the centerpiece below eye level from a stool, keep it in the middle third of the island, and lift the whole thing off in one move when it is time to cook.
+- If you want the cabinets and shelves to match, our [30 Christmas Kitchen Ideas](/posts/christmas-kitchen/) finishes the room, and our [30 Christmas Table Decor Ideas](/posts/christmas-table/) takes the same look to the dining table.
 
 ## Frequently Asked Questions
 

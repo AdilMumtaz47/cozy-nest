@@ -255,7 +255,9 @@ Group the pots in odd numbers — three or five — and vary the heights. The ba
 
 ## Takeaway
 
-A warm Christmas porch is not about how much you put on it — it is about the door, the greenery, the light and one soft touch. Start with a wreath that suits your door, frame it with garland, add lanterns at two heights, and finish with a mat and a blanket on the chair. If you want the same welcome to continue inside, our [30 Christmas Living Room Ideas for a Warm, Glowing Home](/posts/christmas-living-room/) picks up where the porch leaves off.
+- A warm Christmas porch is not about how much you put on it — it is about the door, the greenery, the light and one soft touch.
+- Start with a wreath that suits your door, frame it with garland, add lanterns at two heights, and finish with a mat and a blanket on the chair.
+- If you want the same welcome to continue inside, our [30 Christmas Living Room Ideas for a Warm, Glowing Home](/posts/christmas-living-room/) picks up where the porch leaves off.
 
 ## Frequently Asked Questions
 

@@ -256,7 +256,9 @@ The shelves are the clever part — they hold plants at eye level, so the greene
 
 ## Takeaway
 
-A boho bedroom is not a shopping list — it is a way of layering. Start with a warm neutral base, anchor the bed with a natural-fiber rug, hang one good macrame piece above the bed, then add plants at three heights and textiles one at a time. Edit as often as you add, and let the room collect slowly. If you want the same layers without the pattern, our [30 Neutral Bedroom Ideas for a Calm, Timeless Retreat](/posts/neutral-bedroom/) keeps the textures and quiets the color.
+- A boho bedroom is not a shopping list — it is a way of layering.
+- Start with a warm neutral base, anchor the bed with a natural-fiber rug, hang one good macrame piece above the bed, then add plants at three heights and textiles one at a time.
+- Edit as often as you add, and let the room collect slowly. If you want the same layers without the pattern, our [30 Neutral Bedroom Ideas for a Calm, Timeless Retreat](/posts/neutral-bedroom/) keeps the textures and quiets the color.
 
 ## Frequently Asked Questions
 

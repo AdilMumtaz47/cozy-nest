@@ -256,7 +256,9 @@ Leather and macrame are an unlikely pair that works — the smooth, warm leather
 
 ## Takeaway
 
-A boho living room is not a shopping list — it is a way of layering. Start with a warm neutral base, anchor the seating with a natural-fiber rug big enough for the furniture's front legs, then add textiles, plants and one or two handmade pieces at a time. Edit as often as you add, and let the room collect slowly. If you want to see these same layers dressed for the holidays, our [30 Cozy Christmas Ideas for a Warm, Glowing Home](/posts/cozy-christmas/) shows the seasonal version.
+- A boho living room is not a shopping list — it is a way of layering.
+- Start with a warm neutral base, anchor the seating with a natural-fiber rug big enough for the furniture's front legs, then add textiles, plants and one or two handmade pieces at a time.
+- Edit as often as you add, and let the room collect slowly. If you want to see these same layers dressed for the holidays, our [30 Cozy Christmas Ideas for a Warm, Glowing Home](/posts/cozy-christmas/) shows the seasonal version.
 
 ## Frequently Asked Questions
 

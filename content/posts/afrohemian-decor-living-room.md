@@ -376,7 +376,9 @@ End with restraint: one framed textile, two patterned pillows, one patterned ott
 
 ## Takeaway
 
-An afrohemian living room is built the same way every time: one warm wall color or one bold textile first, then layers of pattern, weave and green on top. Start with the cheapest layer — mudcloth pillow covers on the sofa you already have — and add one bigger piece a week: a basket wall, a rattan chair, a kente tapestry. Stop when the room feels warm and full, not when it feels finished, because this style is meant to keep collecting. To carry the same layered warmth into the bedroom, the dining room and the entryway, see our [30 Afrohemian Decor Ideas for a Warm, Layered Home](/posts/afrohemian-decor/).
+- An afrohemian living room is built the same way every time: one warm wall color or one bold textile first, then layers of pattern, weave and green on top.
+- Start with the cheapest layer — mudcloth pillow covers on the sofa you already have — and add one bigger piece a week: a basket wall, a rattan chair, a kente tapestry.
+- Stop when the room feels warm and full, not when it feels finished, because this style is meant to keep collecting. To carry the same layered warmth into the bedroom, the dining room and the entryway, see our [30 Afrohemian Decor Ideas for a Warm, Layered Home](/posts/afrohemian-decor/).
 
 ## Frequently Asked Questions
 

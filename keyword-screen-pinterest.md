@@ -320,13 +320,13 @@ Method: file's rules — exact phrase in settled autocomplete = saturated/reject
 | 2027 home decor ideas | No | 2 | STRONG — WRITTEN + LIVE Nov 27 |
 | living room decor ideas 2027 | No | 8 | REJECT |
 | farmhouse living room decor ideas 2027 | Inconclusive — dropdown blank twice | 10 | REJECT (count; saturation inconclusive) |
-| bedroom decor ideas 2027 | No | 6 | WINNABLE |
-| kitchen decor ideas 2027 | Inconclusive — dropdown blank twice | 6 | WINNABLE on count only; saturation inconclusive |
-| bathroom decor ideas 2027 | No | 6 | WINNABLE |
+| bedroom decor ideas 2027 | No | 6 | WINNABLE — WRITTEN + LIVE Nov 27 |
+| kitchen decor ideas 2027 | Inconclusive — dropdown blank twice | 6 | WINNABLE on count only; saturation inconclusive — WRITTEN + LIVE Nov 27 |
+| bathroom decor ideas 2027 | No | 6 | WINNABLE — WRITTEN + LIVE Nov 27 |
 | 2027 christmas decor ideas | No | 3 | STRONG — WRITTEN + LIVE Nov 27 |
 | christmas decor ideas 2027 | No | 3 | STRONG — reserve phrase, covered by the 2027-christmas-decor-ideas article (no second article) |
-| 2027 interior design trends | No | 5 | WINNABLE |
-| home decor trends 2027 | No | 4 | WINNABLE |
+| 2027 interior design trends | No | 5 | WINNABLE — WRITTEN + LIVE Nov 27 |
+| home decor trends 2027 | No | 4 | WINNABLE — WRITTEN + LIVE Nov 27 |
 
 Tally: 3 STRONG, 5 WINNABLE, 2 REJECT. Near-duplicate note (Section 3.4): the two Christmas STRONG phrases are the same topic — ONE article (year-first form as the keyword, year-last as reserve), not two. Distinct articles from this screen: 7.
 Discovery candidates (autocomplete): home decor ideas living room 2027; home decor ideas for 2027; christmas home decor ideas 2027; christmas tree/table decor ideas 2027; christmas decor ideas 2027 trends; 2027 interior design trends living room/bedroom/bathroom/home office/kitchen; home decor trends 2026-2027; home decor trends forecast 2027.

@@ -255,7 +255,9 @@ The grey keeps the room calm and contemporary, while the garland and baubles say
 
 ## Takeaway
 
-A Christmas bedroom does not need a full redecoration — it needs a few bold, warm choices. Swap in plaid bedding, drape a garland over the headboard, hang a wreath or two and light some candles, and the room becomes a festive retreat. For the tree that ties the whole house together, see our [30 Christmas Tree Ideas for a Warm, Glowing Holiday](/posts/christmas-tree/), and for the living room, our [30 Christmas Living Room Ideas for a Cozy Holiday Home](/posts/christmas-living-room/). Pick one idea, start with the bed, and enjoy the cosiest room in the house.
+- A Christmas bedroom does not need a full redecoration — it needs a few bold, warm choices.
+- Swap in plaid bedding, drape a garland over the headboard, hang a wreath or two and light some candles, and the room becomes a festive retreat.
+- For the tree that ties the whole house together, see our [30 Christmas Tree Ideas for a Warm, Glowing Holiday](/posts/christmas-tree/), and for the living room, our [30 Christmas Living Room Ideas for a Cozy Holiday Home](/posts/christmas-living-room/). Pick one idea, start with the bed, and enjoy the cosiest room in the house.
 
 ## Frequently Asked Questions
 

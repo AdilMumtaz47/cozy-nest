@@ -376,7 +376,9 @@ Keep the palette pale and warm — cream, light wood, soft green — so the curv
 
 ## Takeaway
 
-A 2027 bedroom is warm, layered and a little bit brave: one bold move — a terracotta wall, a painted ceiling, an arched headboard — plus soft layers everywhere else. Start with the change you will notice every morning, whether that is the bedding, the light or the storage, and add one idea at a time until the room feels like yours. If you love calm, pale rooms, our [30 Neutral Bedroom Ideas](/posts/neutral-bedroom/) show how to keep a bedroom soft without it feeling bare, and if storage is your priority, our [30 Bookshelf Decor Ideas for Bedrooms](/posts/bookshelf-decor-ideas-for-bedrooms/) will help you fit books and display pieces around the bed without clutter.
+- A 2027 bedroom is warm, layered and a little bit brave: one bold move — a terracotta wall, a painted ceiling, an arched headboard — plus soft layers everywhere else.
+- Start with the change you will notice every morning, whether that is the bedding, the light or the storage, and add one idea at a time until the room feels like yours.
+- If you love calm, pale rooms, our [30 Neutral Bedroom Ideas](/posts/neutral-bedroom/) show how to keep a bedroom soft without it feeling bare, and if storage is your priority, our [30 Bookshelf Decor Ideas for Bedrooms](/posts/bookshelf-decor-ideas-for-bedrooms/) will help you fit books and display pieces around the bed without clutter.
 
 ## Frequently Asked Questions
 
