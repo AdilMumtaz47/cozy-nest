@@ -5,6 +5,7 @@ description: "30 cozy christmas ideas for a warm, glowing home — lit trees, cr
 keyword: "cozy christmas"
 category: "Christmas Decor"
 date: "2026-11-23"
+pin_url: "https://www.pinterest.com/pin/1151091986066134434/"
 images:
   - file: "cozy-christmas-stockings-pinecone-wreath.jpg"
     alt: "Fireplace mantel with a pinecone wreath and a row of colorful stockings"

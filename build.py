@@ -588,6 +588,10 @@ def build_article(a, all_articles):
             "description": m["title"],
         })
     )
+    # Once the article has its own published pin, the Save button (and hero
+    # badge) link to that pin instead of the pin creator (Nov 24 rule).
+    if m.get("pin_url"):
+        pin_url = m["pin_url"]
     pin_html = (
         f'<p><a class="pin-btn" href="{pin_url}" target="_blank" rel="noopener">'
         f"Save this list on Pinterest</a></p>"

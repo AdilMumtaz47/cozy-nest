@@ -11,6 +11,7 @@ Pin images: `images/pins/cozy-christmas-pin1.png`, `cozy-christmas-pin2.png`, `c
 
 - Image: images/pins/cozy-christmas-pin1.png
 - Title: 30 Cozy Christmas Ideas for a Warm, Glowing Home
+- **PUBLISHED Nov 28, ~09:45 PKT (late — posted by Muse through Adil's browser): https://www.pinterest.com/pin/1151091986066134434/**
 - Description: Discover 30+ cozy Christmas ideas with glowing trees, crackling fireplaces, plaid throws and candlelit corners 🎄✨ — warm, layered looks for every room, from the mantel to the front door. Click through to explore 30+ and make your whole home feel like Christmas! #CozyChristmas #ChristmasDecor #ChristmasIdeas #HolidayDecor #ChristmasTree #WarmHome #CozyHome #FestiveHome #WinterDecor #ChristmasLivingRoom #ChristmasMantel #HolidayHome
 - URL: https://www.cozynesthomeideas.com/posts/cozy-christmas/
 - Board name: Cozy Christmas Decor Ideas
@@ -21,6 +22,7 @@ Pin images: `images/pins/cozy-christmas-pin1.png`, `cozy-christmas-pin2.png`, `c
 
 - Image: images/pins/cozy-christmas-pin2.png
 - Title: 30+ Cozy Christmas Ideas For Warm Mantels and Glowing Fireplaces
+- **SCHEDULED Nov 28, 11:00 AM PKT (by Muse through Adil's browser): https://www.pinterest.com/cozynestbysayed/scheduled-pin/4073806000406475200/ — real pin URL to record after it publishes.**
 - Description: Discover 30+ cozy Christmas ideas with glowing mantels, stockings, garland and candlelight 🕯️🔥 — classic fireplace looks that make the whole room glow. Click through to explore 30+ and dress your mantel like the holidays! #CozyChristmas #ChristmasMantel #ChristmasDecor #FireplaceDecor #ChristmasStockings #HolidayDecor #ChristmasIdeas #WarmHome #FestiveHome #WinterDecor #ChristmasGarland #CozyHome
 - URL: https://www.cozynesthomeideas.com/posts/cozy-christmas/?utm_source=pinterest&utm_medium=organic&utm_campaign=cozy-christmas-pin2
 - Board name: Cozy Christmas Decor Ideas
@@ -31,6 +33,7 @@ Pin images: `images/pins/cozy-christmas-pin1.png`, `cozy-christmas-pin2.png`, `c
 
 - Image: images/pins/cozy-christmas-pin3.png
 - Title: 30+ Cozy Christmas Ideas For Hot Cocoa Bars and Candlelit Tables
+- **SCHEDULED Nov 28, 5:00 PM PKT (by Muse through Adil's browser): https://www.pinterest.com/cozynestbysayed/scheduled-pin/4073812644854672704/ — real pin URL to record after it publishes.**
 - Description: Discover 30+ cozy Christmas ideas with hot cocoa bars, candlelit tables and festive kitchens ☕🎄 — sweet corners and glowing dinners for slow December evenings. Click through to explore 30+ and set up your own cocoa corner! #CozyChristmas #HotCocoaBar #ChristmasTable #ChristmasDecor #ChristmasIdeas #HolidayDecor #CandlelitDinner #FestiveHome #CozyHome #WinterDecor #ChristmasKitchen #HolidayBaking
 - URL: https://www.cozynesthomeideas.com/posts/cozy-christmas/?utm_source=pinterest&utm_medium=organic&utm_campaign=cozy-christmas-pin3
 - Board name: Cozy Christmas Decor Ideas
